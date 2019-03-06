@@ -1,0 +1,791 @@
+\begin{thebibliography}{100}
+
+\bibitem{wiki:standard_model}
+{Wikipedia contributors}, ``Quantum chromodynamics --- {Wikipedia}{,} the free
+  encyclopedia,'' 2018.
+\newblock [Online; accessed 5-February-2019].
+
+\bibitem{Chaudhuri:2012yt}
+A.~K. Chaudhuri, {\em {A short course on Relativistic Heavy Ion Collisions}}.
+\newblock IOPP, 2014.
+
+\bibitem{Gupta:1997nd}
+R.~Gupta, ``{Introduction to lattice QCD: Course},'' in {\em {Probing the
+  standard model of particle interactions. Proceedings, Summer School in
+  Theoretical Physics, NATO Advanced Study Institute, 68th session, Les
+  Houches, France, July 28-September 5, 1997. Pt. 1, 2}}, pp.~83--219, 1997.
+
+\bibitem{Busza:2018rrf}
+W.~Busza, K.~Rajagopal, and W.~van~der Schee, ``{Heavy Ion Collisions: The Big
+  Picture, and the Big Questions},'' {\em Ann. Rev. Nucl. Part. Sci.}, vol.~68,
+  pp.~339--376, 2018.
+
+\bibitem{Glauber:1955qq}
+R.~J. Glauber, ``{Cross-sections in deuterium at high-energies},'' {\em Phys.
+  Rev.}, vol.~100, pp.~242--248, 1955.
+
+\bibitem{Kharzeev:2002ei}
+D.~Kharzeev, E.~Levin, and M.~Nardi, ``{QCD saturation and deuteron nucleus
+  collisions},'' {\em Nucl. Phys.}, vol.~A730, pp.~448--459, 2004.
+\newblock [Erratum: Nucl. Phys.A743,329(2004)].
+
+\bibitem{Adare:2009qk}
+A.~Adare {\em et~al.}, ``{Detailed measurement of the $e^+ e^-$ pair continuum
+  in $p+p$ and Au+Au collisions at $\sqrt{s_{NN}} = 200$ GeV and implications
+  for direct photon production},'' {\em Phys. Rev.}, vol.~C81, p.~034911, 2010.
+
+\bibitem{Fries:2008hs}
+R.~J. Fries, V.~Greco, and P.~Sorensen, ``{Coalescence Models For Hadron
+  Formation From Quark Gluon Plasma},'' {\em Ann. Rev. Nucl. Part. Sci.},
+  vol.~58, pp.~177--205, 2008.
+
+\bibitem{Afanasiev:2007tv}
+S.~Afanasiev {\em et~al.}, ``{Elliptic flow for phi mesons and (anti)deuterons
+  in Au + Au collisions at s(NN)**(1/2) = 200-GeV},'' {\em Phys. Rev. Lett.},
+  vol.~99, p.~052301, 2007.
+
+\bibitem{Betz:2009jw}
+B.~Betz, {\em {Jet Propagation and Mach-Cone Formation in (3+1)-dimensional
+  Ideal Hydrodynamics}}.
+\newblock PhD thesis, Frankfurt U., FIAS, 2009.
+
+\bibitem{ALICE:2017jyt}
+J.~Adam {\em et~al.}, ``{Enhanced production of multi-strange hadrons in
+  high-multiplicity proton-proton collisions},'' {\em Nature Phys.}, vol.~13,
+  pp.~535--539, 2017.
+
+\bibitem{Koch:2017pda}
+P.~Koch, B.~Müller, and J.~Rafelski, ``{From strangeness enhancement to
+  quark–gluon plasma discovery},'' {\em Int. J. Mod. Phys.}, vol.~A32,
+  no.~31, p.~1730024, 2017.
+
+\bibitem{Adam:2016izf}
+J.~Adam {\em et~al.}, ``{Anisotropic flow of charged particles in Pb-Pb
+  collisions at $\sqrt{s_{\rm NN}}=5.02$ TeV},'' {\em Phys. Rev. Lett.},
+  vol.~116, no.~13, p.~132302, 2016.
+
+\bibitem{Heinz:2013th}
+U.~Heinz and R.~Snellings, ``{Collective flow and viscosity in relativistic
+  heavy-ion collisions},'' {\em Ann. Rev. Nucl. Part. Sci.}, vol.~63,
+  pp.~123--151, 2013.
+
+\bibitem{Jeon:2015dfa}
+S.~Jeon and U.~Heinz, ``{Introduction to Hydrodynamics},'' {\em Int. J. Mod.
+  Phys.}, vol.~E24, no.~10, p.~1530010, 2015.
+
+\bibitem{Qin:2015srf}
+G.-Y. Qin and X.-N. Wang, ``{Jet quenching in high-energy heavy-ion
+  collisions},'' {\em Int. J. Mod. Phys.}, vol.~E24, no.~11, p.~1530014, 2015.
+\newblock [,309(2016)].
+
+\bibitem{Aaboud:2018twu}
+M.~Aaboud {\em et~al.}, ``{Measurement of the nuclear modification factor for
+  inclusive jets in Pb+Pb collisions at $\sqrt{s_\mathrm{NN}}=5.02$ TeV with
+  the ATLAS detector},'' {\em Phys. Lett.}, vol.~B790, pp.~108--128, 2019.
+
+\bibitem{Aad:2010bu}
+G.~Aad {\em et~al.}, ``{Observation of a Centrality-Dependent Dijet Asymmetry
+  in Lead-Lead Collisions at $\sqrt{s_{NN}}=2.77$ TeV with the ATLAS Detector
+  at the LHC},'' {\em Phys. Rev. Lett.}, vol.~105, p.~252303, 2010.
+
+\bibitem{dEnterria:2009xfs}
+D.~d'Enterria, ``{Jet quenching},'' {\em Landolt-Bornstein}, vol.~23, p.~471,
+  2010.
+
+\bibitem{Luo:2015cea}
+X.~Luo, ``{Fluctuations of Conserved Quantities in High Energy Nuclear
+  Collisions at RHIC},'' {\em J. Phys. Conf. Ser.}, vol.~599, no.~1, p.~012023,
+  2015.
+
+\bibitem{Stephanov:2008qz}
+M.~A. Stephanov, ``{Non-Gaussian fluctuations near the QCD critical point},''
+  {\em Phys. Rev. Lett.}, vol.~102, p.~032301, 2009.
+
+\bibitem{Gupta:2011wh}
+S.~Gupta, X.~Luo, B.~Mohanty, H.~G. Ritter, and N.~Xu, ``{Scale for the Phase
+  Diagram of Quantum Chromodynamics},'' {\em Science}, vol.~332,
+  pp.~1525--1528, 2011.
+
+\bibitem{Adamczyk:2013dal}
+L.~Adamczyk {\em et~al.}, ``{Energy Dependence of Moments of Net-proton
+  Multiplicity Distributions at RHIC},'' {\em Phys. Rev. Lett.}, vol.~112,
+  p.~032302, 2014.
+
+\bibitem{Luo:2017faz}
+X.~Luo and N.~Xu, ``{Search for the QCD Critical Point with Fluctuations of
+  Conserved Quantities in Relativistic Heavy-Ion Collisions at RHIC : An
+  Overview},'' {\em Nucl. Sci. Tech.}, vol.~28, no.~8, p.~112, 2017.
+
+\bibitem{Aaboud:2017xpw}
+M.~Aaboud {\em et~al.}, ``{Femtoscopy with identified charged pions in
+  proton-lead collisions at $\sqrt{s_{\mathrm{NN}}}=5.02$ TeV with ATLAS},''
+  {\em Phys. Rev.}, vol.~C96, no.~6, p.~064908, 2017.
+
+\bibitem{HanburyBrown:1956bqd}
+R.~Hanbury~Brown and R.~Q. Twiss, ``{A Test of a new type of stellar
+  interferometer on Sirius},'' {\em Nature}, vol.~178, pp.~1046--1048, 1956.
+
+\bibitem{Lisa:2005dd}
+M.~A. Lisa, S.~Pratt, R.~Soltz, and U.~Wiedemann, ``{Femtoscopy in relativistic
+  heavy ion collisions},'' {\em Ann. Rev. Nucl. Part. Sci.}, vol.~55,
+  pp.~357--402, 2005.
+
+\bibitem{Nagle:2018nvi}
+J.~L. Nagle and W.~A. Zajc, ``{Small System Collectivity in Relativistic
+  Hadronic and Nuclear Collisions},'' {\em Ann. Rev. Nucl. Part. Sci.},
+  vol.~68, pp.~211--235, 2018.
+
+\bibitem{Evans:2008zzb}
+L.~Evans and P.~Bryant, ``{LHC Machine},'' {\em JINST}, vol.~3, p.~S08001,
+  2008.
+
+\bibitem{Jean-Luc:841493}
+J.-L. Caron, ``{CERN Accelerator Complex (operating and approved projets)..
+  Chaine des accelerateurs du CERN (en fonctionnement et avec les projets
+  aprouves).}.'' AC Collection. Legacy of AC. Pictures from 1992 to 2002., Jun
+  1991.
+
+\bibitem{Aad:2008zzm}
+G.~Aad {\em et~al.}, ``{The ATLAS Experiment at the CERN Large Hadron
+  Collider},'' {\em JINST}, vol.~3, p.~S08003, 2008.
+
+\bibitem{Aad:2008zz}
+G.~Aad {\em et~al.}, ``{ATLAS pixel detector electronics and sensors},'' {\em
+  JINST}, vol.~3, p.~P07007, 2008.
+
+\bibitem{Ahmad:2007zza}
+A.~Ahmad {\em et~al.}, ``{The Silicon microstrip sensors of the ATLAS
+  semiconductor tracker},'' {\em Nucl. Instrum. Meth.}, vol.~A578, pp.~98--118,
+  2007.
+
+\bibitem{Campabadal:2005rj}
+F.~Campabadal {\em et~al.}, ``{Design and performance of the ABCD3TA ASIC for
+  readout of silicon strip detectors in the ATLAS semiconductor tracker},''
+  {\em Nucl. Instrum. Meth.}, vol.~A552, pp.~292--328, 2005.
+
+\bibitem{Abat:2008zza}
+E.~Abat {\em et~al.}, ``{The ATLAS Transition Radiation Tracker (TRT)
+  proportional drift tube: Design and performance},'' {\em JINST}, vol.~3,
+  p.~P02013, 2008.
+
+\bibitem{Artamonov:2008zz}
+A.~Artamonov {\em et~al.}, ``{The ATLAS forward calorimeters},'' {\em JINST},
+  vol.~3, p.~P02010, 2008.
+
+\bibitem{ATLAS:2007aa}
+``{Zero degree calorimeters for ATLAS},'' 2007.
+
+\bibitem{Sidoti:2014kra}
+A.~Sidoti, ``{Minimum Bias Trigger Scintillators in ATLAS Run II},'' {\em
+  JINST}, vol.~9, no.~10, p.~C10020, 2014.
+
+\bibitem{Miller:2007ri}
+M.~L. Miller, K.~Reygers, S.~J. Sanders, and P.~Steinberg, ``{Glauber modeling
+  in high energy nuclear collisions},'' {\em Ann. Rev. Nucl. Part. Sci.},
+  vol.~57, pp.~205--243, 2007.
+
+\bibitem{ATLAS:2011ah}
+G.~Aad {\em et~al.}, ``{Measurement of the pseudorapidity and transverse
+  momentum dependence of the elliptic flow of charged particles in lead-lead
+  collisions at $\sqrt{s_{NN}}=2.76$ TeV with the ATLAS detector},'' {\em Phys.
+  Lett.}, vol.~B707, pp.~330--348, 2012.
+
+\bibitem{Adare:2014kci}
+A.~Adare {\em et~al.}, ``{Measurement of the higher-order anisotropic flow
+  coefficients for identified hadrons in Au$+$Au collisions at
+  $\sqrt{s_{_{NN}}}$ = 200 GeV},'' {\em Phys. Rev.}, vol.~C93, no.~5,
+  p.~051902, 2016.
+
+\bibitem{ALICE:2011ab}
+K.~Aamodt {\em et~al.}, ``{Higher harmonic anisotropic flow measurements of
+  charged particles in Pb-Pb collisions at $\sqrt{s_{NN}}$=2.76 TeV},'' {\em
+  Phys. Rev. Lett.}, vol.~107, p.~032301, 2011.
+
+\bibitem{ATLAS:2012at}
+G.~Aad {\em et~al.}, ``{Measurement of the azimuthal anisotropy for charged
+  particle production in $\sqrt{s_{NN}}=2.76$ TeV lead-lead collisions with the
+  ATLAS detector},'' {\em Phys. Rev.}, vol.~C86, p.~014907, 2012.
+
+\bibitem{Chatrchyan:2013kba}
+S.~Chatrchyan {\em et~al.}, ``{Measurement of higher-order harmonic azimuthal
+  anisotropy in PbPb collisions at $\sqrt{s_{NN}}$ = 2.76 TeV},'' {\em Phys.
+  Rev.}, vol.~C89, no.~4, p.~044906, 2014.
+
+\bibitem{Aad:2013xma}
+G.~Aad {\em et~al.}, ``{Measurement of the distributions of event-by-event flow
+  harmonics in lead-lead collisions at = 2.76 TeV with the ATLAS detector at
+  the LHC},'' {\em JHEP}, vol.~11, p.~183, 2013.
+
+\bibitem{Aad:2014fla}
+G.~Aad {\em et~al.}, ``{Measurement of event-plane correlations in
+  $\sqrt{s_{NN}}=2.76$ TeV lead-lead collisions with the ATLAS detector},''
+  {\em Phys. Rev.}, vol.~C90, no.~2, p.~024905, 2014.
+
+\bibitem{Aad:2015lwa}
+G.~Aad {\em et~al.}, ``{Measurement of the correlation between flow harmonics
+  of different order in lead-lead collisions at $\sqrt{s_{NN}}$=2.76 TeV with
+  the ATLAS detector},'' {\em Phys. Rev.}, vol.~C92, no.~3, p.~034903, 2015.
+
+\bibitem{Luzum:2013yya}
+M.~Luzum and H.~Petersen, ``{Initial State Fluctuations and Final State
+  Correlations in Relativistic Heavy-Ion Collisions},'' {\em J. Phys.},
+  vol.~G41, p.~063102, 2014.
+
+\bibitem{Gale:2013da}
+C.~Gale, S.~Jeon, and B.~Schenke, ``{Hydrodynamic Modeling of Heavy-Ion
+  Collisions},'' {\em Int. J. Mod. Phys.}, vol.~A28, p.~1340011, 2013.
+
+\bibitem{Jia:2014jca}
+J.~Jia, ``{Event-shape fluctuations and flow correlations in ultra-relativistic
+  heavy-ion collisions},'' {\em J. Phys.}, vol.~G41, no.~12, p.~124003, 2014.
+
+\bibitem{Bozek:2010vz}
+P.~Bozek, W.~Broniowski, and J.~Moreira, ``{Torqued fireballs in relativistic
+  heavy-ion collisions},'' {\em Phys. Rev.}, vol.~C83, p.~034911, 2011.
+
+\bibitem{Bzdak:2012tp}
+A.~Bzdak and D.~Teaney, ``{Longitudinal fluctuations of the fireball density in
+  heavy-ion collisions},'' {\em Phys. Rev.}, vol.~C87, no.~2, p.~024906, 2013.
+
+\bibitem{Jia:2014ysa}
+J.~Jia and P.~Huo, ``{Forward-backward eccentricity and participant-plane angle
+  fluctuations and their influences on longitudinal dynamics of collective
+  flow},'' {\em Phys. Rev.}, vol.~C90, no.~3, p.~034915, 2014.
+
+\bibitem{Bhalerao:2014mua}
+R.~S. Bhalerao, J.-Y. Ollitrault, S.~Pal, and D.~Teaney, ``{Principal component
+  analysis of event-by-event fluctuations},'' {\em Phys. Rev. Lett.}, vol.~114,
+  no.~15, p.~152301, 2015.
+
+\bibitem{Bialas:2011bz}
+A.~Bialas, A.~Bzdak, and K.~Zalewski, ``{Hidden Asymmetry and Long Range
+  Rapidity Correlations},'' {\em Phys. Lett.}, vol.~B710, pp.~332--334, 2012.
+
+\bibitem{Jia:2014vja}
+J.~Jia and P.~Huo, ``{A method for studying the rapidity fluctuation and
+  decorrelation of harmonic flow in heavy-ion collisions},'' {\em Phys. Rev.},
+  vol.~C90, no.~3, p.~034905, 2014.
+
+\bibitem{Gyulassy:1994ew}
+M.~Gyulassy and X.-N. Wang, ``{HIJING 1.0: A Monte Carlo program for parton and
+  particle production in high-energy hadronic and nuclear collisions},'' {\em
+  Comput. Phys. Commun.}, vol.~83, p.~307, 1994.
+
+\bibitem{Lin:2004en}
+Z.-W. Lin, C.~M. Ko, B.-A. Li, B.~Zhang, and S.~Pal, ``{A Multi-phase transport
+  model for relativistic heavy ion collisions},'' {\em Phys. Rev.}, vol.~C72,
+  p.~064901, 2005.
+
+\bibitem{Bialas:2010zb}
+A.~Bialas and K.~Zalewski, ``{Hidden asymmetry and forward-backward
+  correlations},'' {\em Phys. Rev.}, vol.~C82, p.~034911, 2010.
+\newblock [Erratum: Phys. Rev.C85,029903(2012)].
+
+\bibitem{Abelev:2009ag}
+B.~I. Abelev {\em et~al.}, ``{Growth of Long Range Forward-Backward
+  Multiplicity Correlations with Centrality in Au+Au Collisions at s(NN)**(1/2)
+  = 200-GeV},'' {\em Phys. Rev. Lett.}, vol.~103, p.~172301, 2009.
+
+\bibitem{Braunschweig:1989bp}
+W.~Braunschweig {\em et~al.}, ``{Charged Multiplicity Distributions and
+  Correlations in e+ e- Annihilation at PETRA Energies},'' {\em Z. Phys.},
+  vol.~C45, p.~193, 1989.
+
+\bibitem{Uhlig:1977dc}
+S.~Uhlig, I.~Derado, R.~Meinke, and H.~Preissner, ``{Observation of Charged
+  Particle Correlations Between the Forward and Backward Hemispheres in $p p$
+  Collisions at ISR Energies},'' {\em Nucl. Phys.}, vol.~B132, pp.~15--28,
+  1978.
+
+\bibitem{ATLAS:2012as}
+G.~Aad {\em et~al.}, ``{Forward-backward correlations and charged-particle
+  azimuthal distributions in pp interactions using the ATLAS detector},'' {\em
+  JHEP}, vol.~07, p.~019, 2012.
+
+\bibitem{Adam:2015mya}
+J.~Adam {\em et~al.}, ``{Forward-backward multiplicity correlations in pp
+  collisions at $ \sqrt{s} $ = 0.9, 2.76 and 7 TeV},'' {\em JHEP}, vol.~05,
+  p.~097, 2015.
+
+\bibitem{Ansorge:1988fg}
+R.~E. Ansorge {\em et~al.}, ``{Charged Particle Correlations in $\bar{P} P$
+  Collisions at c.m. Energies of 200-{GeV}, 546-{GeV} and 900-{GeV}},'' {\em Z.
+  Phys.}, vol.~C37, pp.~191--213, 1988.
+
+\bibitem{Alexopoulos:1995ft}
+T.~Alexopoulos {\em et~al.}, ``{Charged particle multiplicity correlations in
+  $p\bar{p}$ collisions at $\sqrt{s}$ = 0.3-TeV to 1.8-TeV},'' {\em Phys.
+  Lett.}, vol.~B353, pp.~155--160, 1995.
+
+\bibitem{Sjostrand:2007gs}
+T.~Sjostrand, S.~Mrenna, and P.~Z. Skands, ``{A Brief Introduction to PYTHIA
+  8.1},'' {\em Comput. Phys. Commun.}, vol.~178, pp.~852--867, 2008.
+
+\bibitem{Pierog:2013ria}
+T.~Pierog, I.~Karpenko, J.~M. Katzy, E.~Yatsenko, and K.~Werner, ``{EPOS LHC:
+  Test of collective hadronization with data measured at the CERN Large Hadron
+  Collider},'' {\em Phys. Rev.}, vol.~C92, no.~3, p.~034906, 2015.
+
+\bibitem{ATL-PHYS-PUB-2011-014}
+``{Further ATLAS tunes of PYTHIA6 and Pythia 8},'' Tech. Rep.
+  ATL-PHYS-PUB-2011-014, CERN, Geneva, Nov 2011.
+
+\bibitem{Aamodt:2011by}
+K.~Aamodt {\em et~al.}, ``{Harmonic decomposition of two-particle angular
+  correlations in Pb-Pb collisions at $\sqrt{s_{NN}}=$ 2.76 TeV},'' {\em Phys.
+  Lett.}, vol.~B708, pp.~249--264, 2012.
+
+\bibitem{Steinberg:2007fg}
+P.~Steinberg, ``{Inclusive pseudorapidity distributions in p(d) + A collisions
+  modeled with shifted rapidity distributions},'' {\em Submitted to: Phys.
+  Lett. B}, 2007.
+
+\bibitem{Vovchenko:2013viu}
+V.~Vovchenko, D.~Anchishkin, and L.~P. Csernai, ``{Longitudinal fluctuations of
+  the center of mass of the participants in heavy-ion collisions},'' {\em Phys.
+  Rev.}, vol.~C88, no.~1, p.~014901, 2013.
+
+\bibitem{Abelev:2013qoq}
+B.~Abelev {\em et~al.}, ``{Centrality determination of Pb-Pb collisions at
+  $\sqrt{s_{NN}}$ = 2.76 TeV with ALICE},'' {\em Phys. Rev.}, vol.~C88, no.~4,
+  p.~044909, 2013.
+
+\bibitem{Berger:1974vn}
+E.~L. Berger, ``{Rapidity Correlations at Fixed Multiplicity in Cluster
+  Emission Models},'' {\em Nucl. Phys.}, vol.~B85, pp.~61--101, 1975.
+
+\bibitem{ATLAS:2011ag}
+G.~Aad {\em et~al.}, ``{Measurement of the centrality dependence of the charged
+  particle pseudorapidity distribution in lead-lead collisions at
+  $\sqrt{s_{NN}}=2.76$ TeV with the ATLAS detector},'' {\em Phys. Lett.},
+  vol.~B710, pp.~363--382, 2012.
+
+\bibitem{Aad:2016mok}
+G.~Aad {\em et~al.}, ``{Charged-particle distributions in $\sqrt{s}$ = 13 TeV
+  pp interactions measured with the ATLAS detector at the LHC},'' {\em Phys.
+  Lett.}, vol.~B758, pp.~67--88, 2016.
+
+\bibitem{Aaboud:2016itf}
+M.~Aaboud {\em et~al.}, ``{Charged-particle distributions at low transverse
+  momentum in $\sqrt{s} = 13$ TeV $pp$ interactions measured with the ATLAS
+  detector at the LHC},'' {\em Eur. Phys. J.}, vol.~C76, no.~9, p.~502, 2016.
+
+\bibitem{Bass:2000az}
+S.~A. Bass, P.~Danielewicz, and S.~Pratt, ``{Clocking hadronization in
+  relativistic heavy ion collisions with balance functions},'' {\em Phys. Rev.
+  Lett.}, vol.~85, pp.~2689--2692, 2000.
+
+\bibitem{Adams:2003kg}
+J.~Adams {\em et~al.}, ``{Narrowing of the balance function with centrality in
+  au + au collisions at (S(NN))**1/2 = 130-GeV},'' {\em Phys. Rev. Lett.},
+  vol.~90, p.~172301, 2003.
+
+\bibitem{Abelev:2013csa}
+B.~Abelev {\em et~al.}, ``{Charge correlations using the balance function in
+  Pb-Pb collisions at $\sqrt{s_{NN}}$ = 2.76 TeV},'' {\em Phys. Lett.},
+  vol.~B723, pp.~267--279, 2013.
+
+\bibitem{Gardim:2012im}
+F.~G. Gardim, F.~Grassi, M.~Luzum, and J.-Y. Ollitrault, ``{Breaking of
+  factorization of two-particle correlations in hydrodynamics},'' {\em Phys.
+  Rev.}, vol.~C87, no.~3, p.~031901, 2013.
+
+\bibitem{Borghini:2000sa}
+N.~Borghini, P.~M. Dinh, and J.-Y. Ollitrault, ``{A New method for measuring
+  azimuthal distributions in nucleus-nucleus collisions},'' {\em Phys. Rev.},
+  vol.~C63, p.~054906, 2001.
+
+\bibitem{Aaboud:2018ves}
+M.~Aaboud {\em et~al.}, ``{Measurement of the azimuthal anisotropy of charged
+  particles produced in $\sqrt{s_{_\text {NN}}}$ = 5.02 TeV Pb+Pb collisions
+  with the ATLAS detector},'' {\em Eur. Phys. J.}, vol.~C78, no.~12, p.~997,
+  2018.
+
+\bibitem{Abelev:2009af}
+B.~I. Abelev {\em et~al.}, ``{Long range rapidity correlations and jet
+  production in high energy nuclear collisions},'' {\em Phys. Rev.}, vol.~C80,
+  p.~064912, 2009.
+
+\bibitem{Alver:2010gr}
+B.~Alver and G.~Roland, ``{Collision geometry fluctuations and triangular flow
+  in heavy-ion collisions},'' {\em Phys. Rev.}, vol.~C81, p.~054905, 2010.
+\newblock [Erratum: Phys. Rev.C82,039903(2010)].
+
+\bibitem{Bilandzic:2010jr}
+A.~Bilandzic, R.~Snellings, and S.~Voloshin, ``{Flow analysis with cumulants:
+  Direct calculations},'' {\em Phys. Rev.}, vol.~C83, p.~044913, 2011.
+
+\bibitem{Bilandzic:2013kga}
+A.~Bilandzic, C.~H. Christensen, K.~Gulbrandsen, A.~Hansen, and Y.~Zhou,
+  ``{Generic framework for anisotropic flow analyses with multiparticle
+  azimuthal correlations},'' {\em Phys. Rev.}, vol.~C89, no.~6, p.~064904,
+  2014.
+
+\bibitem{Khachatryan:2015waa}
+V.~Khachatryan {\em et~al.}, ``{Evidence for Collective Multiparticle
+  Correlations in p-Pb Collisions},'' {\em Phys. Rev. Lett.}, vol.~115, no.~1,
+  p.~012301, 2015.
+
+\bibitem{Khachatryan:2016txc}
+V.~Khachatryan {\em et~al.}, ``{Evidence for collectivity in pp collisions at
+  the LHC},'' {\em Phys. Lett.}, vol.~B765, pp.~193--220, 2017.
+
+\bibitem{Aad:2013fja}
+G.~Aad {\em et~al.}, ``{Measurement with the ATLAS detector of multi-particle
+  azimuthal correlations in p+Pb collisions at $\sqrt{s_{NN}}$ =5.02 TeV},''
+  {\em Phys. Lett.}, vol.~B725, pp.~60--78, 2013.
+
+\bibitem{Aidala:2017ajz}
+C.~Aidala {\em et~al.}, ``{Measurements of Multiparticle Correlations in
+  $d+\mathrm{Au}$ Collisions at 200, 62.4, 39, and 19.6 GeV and $p+\mathrm{Au}$
+  Collisions at 200 GeV and Implications for Collective Behavior},'' {\em Phys.
+  Rev. Lett.}, vol.~120, no.~6, p.~062302, 2018.
+
+\bibitem{Aaboud:2017acw}
+M.~Aaboud {\em et~al.}, ``{Measurement of multi-particle azimuthal correlations
+  in $pp$, $p+$Pb and low-multiplicity Pb$+$Pb collisions with the ATLAS
+  detector},'' {\em Eur. Phys. J.}, vol.~C77, no.~6, p.~428, 2017.
+
+\bibitem{Jia:2017hbm}
+J.~Jia, M.~Zhou, and A.~Trzupek, ``{Revealing long-range multiparticle
+  collectivity in small collision systems via subevent cumulants},'' {\em Phys.
+  Rev.}, vol.~C96, no.~3, p.~034906, 2017.
+
+\bibitem{Voloshin:2007pc}
+S.~A. Voloshin, A.~M. Poskanzer, A.~Tang, and G.~Wang, ``{Elliptic flow in the
+  Gaussian model of eccentricity fluctuations},'' {\em Phys. Lett.}, vol.~B659,
+  pp.~537--541, 2008.
+
+\bibitem{Masera:2009zz}
+M.~Masera, G.~Ortona, M.~G. Poghosyan, and F.~Prino, ``{Anisotropic transverse
+  flow introduction in Monte Carlo generators for heavy ion collisions},'' {\em
+  Phys. Rev.}, vol.~C79, p.~064909, 2009.
+
+\bibitem{Chatrchyan:2013nka}
+S.~Chatrchyan {\em et~al.}, ``{Multiplicity and transverse momentum dependence
+  of two- and four-particle correlations in pPb and PbPb collisions},'' {\em
+  Phys. Lett.}, vol.~B724, pp.~213--240, 2013.
+
+\bibitem{Aaboud:2017blb}
+M.~Aaboud {\em et~al.}, ``{Measurement of long-range multiparticle azimuthal
+  correlations with the subevent cumulant method in $pp$ and $p + Pb$
+  collisions with the ATLAS detector at the CERN Large Hadron Collider},'' {\em
+  Phys. Rev.}, vol.~C97, no.~2, p.~024904, 2018.
+
+\bibitem{Aad:2014lta}
+G.~Aad {\em et~al.}, ``{Measurement of long-range pseudorapidity correlations
+  and azimuthal harmonics in $\sqrt{s_{NN}}=5.02$ TeV proton-lead collisions
+  with the ATLAS detector},'' {\em Phys. Rev.}, vol.~C90, no.~4, p.~044906,
+  2014.
+
+\bibitem{Aaboud:2016yar}
+M.~Aaboud {\em et~al.}, ``{Measurements of long-range azimuthal anisotropies
+  and associated Fourier coefficients for $pp$ collisions at $\sqrt{s}=5.02$
+  and $13$ TeV and $p$+Pb collisions at $\sqrt{s_{\mathrm{NN}}}=5.02$ TeV with
+  the ATLAS detector},'' {\em Phys. Rev.}, vol.~C96, no.~2, p.~024908, 2017.
+
+\bibitem{Adare:2008ae}
+A.~Adare {\em et~al.}, ``{Dihadron azimuthal correlations in Au+Au collisions
+  at s(NN)**(1/2) = 200-GeV},'' {\em Phys. Rev.}, vol.~C78, p.~014901, 2008.
+
+\bibitem{Bzdak:2013rya}
+A.~Bzdak, P.~Bozek, and L.~McLerran, ``{Fluctuation induced equality of
+  multi-particle eccentricities for four or more particles},'' {\em Nucl.
+  Phys.}, vol.~A927, pp.~15--23, 2014.
+
+\bibitem{Yan:2013laa}
+L.~Yan and J.-Y. Ollitrault, ``{Universal fluctuation-driven eccentricities in
+  proton-proton, proton-nucleus and nucleus-nucleus collisions},'' {\em Phys.
+  Rev. Lett.}, vol.~112, p.~082301, 2014.
+
+\bibitem{Dusling:2015gta}
+K.~Dusling, W.~Li, and B.~Schenke, ``{Novel collective phenomena in high-energy
+  proton–proton and proton–nucleus collisions},'' {\em Int. J. Mod. Phys.},
+  vol.~E25, no.~01, p.~1630002, 2016.
+
+\bibitem{Schlichting:2016sqo}
+S.~Schlichting and P.~Tribedy, ``{Collectivity in Small Collision Systems: An
+  Initial-State Perspective},'' {\em Adv. High Energy Phys.}, vol.~2016,
+  p.~8460349, 2016.
+
+\bibitem{Aad:2015gqa}
+G.~Aad {\em et~al.}, ``{Observation of Long-Range Elliptic Azimuthal
+  Anisotropies in $\sqrt{s}=$13 and 2.76 TeV $pp$ Collisions with the ATLAS
+  Detector},'' {\em Phys. Rev. Lett.}, vol.~116, no.~17, p.~172301, 2016.
+
+\bibitem{Dumitru:2014yza}
+A.~Dumitru, L.~McLerran, and V.~Skokov, ``{Azimuthal asymmetries and the
+  emergence of “collectivity” from multi-particle correlations in
+  high-energy pA collisions},'' {\em Phys. Lett.}, vol.~B743, pp.~134--137,
+  2015.
+
+\bibitem{Lappi:2015vta}
+T.~Lappi, B.~Schenke, S.~Schlichting, and R.~Venugopalan, ``{Tracing the origin
+  of azimuthal gluon correlations in the color glass condensate},'' {\em JHEP},
+  vol.~01, p.~061, 2016.
+
+\bibitem{Citron:2018lsq}
+Z.~Citron {\em et~al.}, ``{Future physics opportunities for high-density QCD at
+  the LHC with heavy-ion and proton beams},'' 2018.
+
+\bibitem{Aad:2014vba}
+G.~Aad {\em et~al.}, ``{Measurement of flow harmonics with multi-particle
+  cumulants in Pb+Pb collisions at $\sqrt{s_{\mathrm {NN}}}=2.76$ TeV with the
+  ATLAS detector},'' {\em Eur. Phys. J.}, vol.~C74, no.~11, p.~3157, 2014.
+
+\bibitem{ATL-PHYS-PUB-2018-020}
+``{Projections for ATLAS Measurements of Bulk Properties of Pb+Pb, $p$+Pb, and
+  $pp$ Collisions in LHC Runs 3 and 4},'' Tech. Rep. ATL-PHYS-PUB-2018-020,
+  CERN, Geneva, Oct 2018.
+
+\bibitem{Aaboud:2018syf}
+M.~Aaboud {\em et~al.}, ``{Correlated long-range mixed-harmonic fluctuations
+  measured in $pp$, $p$+Pb and low-multiplicity Pb+Pb collisions with the ATLAS
+  detector},'' 2018.
+
+\bibitem{Sirunyan:2017uyl}
+A.~M. Sirunyan {\em et~al.}, ``{Observation of Correlated Azimuthal Anisotropy
+  Fourier Harmonics in $pp$ and $p+Pb$ Collisions at the LHC},'' {\em Phys.
+  Rev. Lett.}, vol.~120, no.~9, p.~092301, 2018.
+
+\bibitem{Huo:2017nms}
+P.~Huo, K.~Gajdošová, J.~Jia, and Y.~Zhou, ``{Importance of non-flow in
+  mixed-harmonic multi-particle correlations in small collision systems},''
+  {\em Phys. Lett.}, vol.~B777, pp.~201--206, 2018.
+
+\bibitem{Aaboud:2017tql}
+M.~Aaboud {\em et~al.}, ``{Measurement of longitudinal flow decorrelations in
+  Pb+Pb collisions at $\sqrt{s_{\text {NN}}}=2.76$ and 5.02 TeV with the ATLAS
+  detector},'' {\em Eur. Phys. J.}, vol.~C78, no.~2, p.~142, 2018.
+
+\bibitem{Gardim:2011xv}
+F.~G. Gardim, F.~Grassi, M.~Luzum, and J.-Y. Ollitrault, ``{Mapping the
+  hydrodynamic response to the initial geometry in heavy-ion collisions},''
+  {\em Phys. Rev.}, vol.~C85, p.~024908, 2012.
+
+\bibitem{Teaney:2010vd}
+D.~Teaney and L.~Yan, ``{Triangularity and Dipole Asymmetry in Heavy Ion
+  Collisions},'' {\em Phys. Rev.}, vol.~C83, p.~064904, 2011.
+
+\bibitem{Niemi:2012aj}
+H.~Niemi, G.~S. Denicol, H.~Holopainen, and P.~Huovinen, ``{Event-by-event
+  distributions of azimuthal asymmetries in ultrarelativistic heavy-ion
+  collisions},'' {\em Phys. Rev.}, vol.~C87, no.~5, p.~054901, 2013.
+
+\bibitem{Adamczyk:2015obl}
+L.~Adamczyk {\em et~al.}, ``{Azimuthal anisotropy in U$+$U and Au$+$Au
+  collisions at RHIC},'' {\em Phys. Rev. Lett.}, vol.~115, no.~22, p.~222301,
+  2015.
+
+\bibitem{Abelev:2014mda}
+B.~B. Abelev {\em et~al.}, ``{Multiparticle azimuthal correlations in p -Pb and
+  Pb-Pb collisions at the CERN Large Hadron Collider},'' {\em Phys. Rev.},
+  vol.~C90, no.~5, p.~054901, 2014.
+
+\bibitem{Sirunyan:2017pan}
+A.~M. Sirunyan {\em et~al.}, ``{Azimuthal anisotropy of charged particles with
+  transverse momentum up to 100 GeV/ c in PbPb collisions at $\sqrt
+  {s}_{{NN}}$=5.02 TeV},'' {\em Phys. Lett.}, vol.~B776, pp.~195--216, 2018.
+
+\bibitem{Yan:2014nsa}
+L.~Yan, J.-Y. Ollitrault, and A.~M. Poskanzer, ``{Azimuthal Anisotropy
+  Distributions in High-Energy Collisions},'' {\em Phys. Lett.}, vol.~B742,
+  pp.~290--295, 2015.
+
+\bibitem{ALICE:2016kpq}
+J.~Adam {\em et~al.}, ``{Correlated event-by-event fluctuations of flow
+  harmonics in Pb-Pb collisions at $\sqrt{s_{_{\rm NN}}}=2.76$ TeV},'' {\em
+  Phys. Rev. Lett.}, vol.~117, p.~182301, 2016.
+
+\bibitem{STAR:2018fpo}
+J.~Adam {\em et~al.}, ``{Correlation Measurements Between Flow Harmonics in
+  Au+Au Collisions at RHIC},'' {\em Phys. Lett.}, vol.~B783, pp.~459--465,
+  2018.
+
+\bibitem{Loizides:2014vua}
+C.~Loizides, J.~Nagle, and P.~Steinberg, ``{Improved version of the PHOBOS
+  Glauber Monte Carlo},'' {\em SoftwareX}, vol.~1-2, pp.~13--18, 2015.
+
+\bibitem{Adler:2013aqf}
+S.~S. Adler {\em et~al.}, ``{Transverse-energy distributions at midrapidity in
+  p+p , d+Au , and Au+Au collisions at $\sqrt{s_{NN}}=62.4–200$ GeV and
+  implications for particle-production models},'' {\em Phys. Rev.}, vol.~C89,
+  no.~4, p.~044905, 2014.
+
+\bibitem{Jeon:2003gk}
+S.~Jeon and V.~Koch, ``{Event by event fluctuations},'' pp.~430--490, 2003.
+
+\bibitem{Skokov:2012ds}
+V.~Skokov, B.~Friman, and K.~Redlich, ``{Volume Fluctuations and Higher Order
+  Cumulants of the Net Baryon Number},'' {\em Phys. Rev.}, vol.~C88, p.~034911,
+  2013.
+
+\bibitem{Luo:2013bmi}
+X.~Luo, J.~Xu, B.~Mohanty, and N.~Xu, ``{Volume fluctuation and
+  auto-correlation effects in the moment analysis of net-proton multiplicity
+  distributions in heavy-ion collisions},'' {\em J. Phys.}, vol.~G40,
+  p.~105104, 2013.
+
+\bibitem{Xu:2016qzd}
+H.-j. Xu, ``{Cumulants of multiplicity distributions in most-central heavy-ion
+  collisions},'' {\em Phys. Rev.}, vol.~C94, no.~5, p.~054903, 2016.
+
+\bibitem{Bzdak:2016jxo}
+A.~Bzdak, V.~Koch, and V.~Skokov, ``{Correlated stopping, proton clusters and
+  higher order proton cumulants},'' {\em Eur. Phys. J.}, vol.~C77, no.~5,
+  p.~288, 2017.
+
+\bibitem{Aggarwal:2010wy}
+M.~M. Aggarwal {\em et~al.}, ``{Higher Moments of Net-proton Multiplicity
+  Distributions at RHIC},'' {\em Phys. Rev. Lett.}, vol.~105, p.~022302, 2010.
+
+\bibitem{Adamczyk:2014fia}
+L.~Adamczyk {\em et~al.}, ``{Beam energy dependence of moments of the
+  net-charge multiplicity distributions in Au+Au collisions at RHIC},'' {\em
+  Phys. Rev. Lett.}, vol.~113, p.~092301, 2014.
+
+\bibitem{Li:2017via}
+J.~Li, H.-j. Xu, and H.~Song, ``{Noncritical fluctuations of (net) charges and
+  (net) protons from the iEBE-VISHNU hybrid model},'' {\em Phys. Rev.},
+  vol.~C97, no.~1, p.~014902, 2018.
+
+\bibitem{Braun-Munzinger:2016yjz}
+P.~Braun-Munzinger, A.~Rustamov, and J.~Stachel, ``{Bridging the gap between
+  event-by-event fluctuation measurements and theory predictions in
+  relativistic nuclear collisions},'' {\em Nucl. Phys.}, vol.~A960,
+  pp.~114--130, 2017.
+
+\bibitem{Kitazawa:2017ljq}
+M.~Kitazawa and X.~Luo, ``{Properties and uses of factorial cumulants in
+  relativistic heavy-ion collisions},'' {\em Phys. Rev.}, vol.~C96, no.~2,
+  p.~024910, 2017.
+
+\bibitem{Qiu:2011iv}
+Z.~Qiu and U.~W. Heinz, ``{Event-by-event shape and flow fluctuations of
+  relativistic heavy-ion collision fireballs},'' {\em Phys. Rev.}, vol.~C84,
+  p.~024911, 2011.
+
+\bibitem{Ghosh:2012xh}
+P.~Ghosh, ``{Negative binomial multiplicity distribution in proton-proton
+  collisions in limited pseudorapidity intervals at LHC up to $\sqrt{s} = 7$
+  TeV and the clan model},'' {\em Phys. Rev.}, vol.~D85, p.~054017, 2012.
+
+\bibitem{ATLAS-CONF-2017-066}
+``{Measurement of four-particle azimuthal cumulants in Pb+Pb collisions at
+  $\sqrt{s_{NN}}=5.02$ TeV with the ATLAS detector},'' Tech. Rep.
+  ATLAS-CONF-2017-066, CERN, Geneva, Sep 2017.
+
+\bibitem{Bozek:2015bna}
+P.~Bozek and W.~Broniowski, ``{The torque effect and fluctuations of entropy
+  deposition in rapidity in ultra-relativistic nuclear collisions},'' {\em
+  Phys. Lett.}, vol.~B752, pp.~206--211, 2016.
+
+\bibitem{Pang:2015zrq}
+L.-G. Pang, H.~Petersen, G.-Y. Qin, V.~Roy, and X.-N. Wang, ``{Decorrelation of
+  anisotropic flow along the longitudinal direction},'' {\em Eur. Phys. J.},
+  vol.~A52, no.~4, p.~97, 2016.
+
+\bibitem{Schenke:2016ksl}
+B.~Schenke and S.~Schlichting, ``{3D glasma initial state for relativistic
+  heavy ion collisions},'' {\em Phys. Rev.}, vol.~C94, no.~4, p.~044907, 2016.
+
+\bibitem{Jia:2015jga}
+J.~Jia, S.~Radhakrishnan, and M.~Zhou, ``{Forward-backward multiplicity
+  fluctuation and longitudinal harmonics in high-energy nuclear collisions},''
+  {\em Phys. Rev.}, vol.~C93, no.~4, p.~044905, 2016.
+
+\bibitem{Zhou:2018fxx}
+M.~Zhou and J.~Jia, ``{Centrality fluctuations in heavy-ion collisions},'' {\em
+  Phys. Rev.}, vol.~C98, no.~4, p.~044903, 2018.
+
+\bibitem{Giacalone:2016afq}
+G.~Giacalone, L.~Yan, J.~Noronha-Hostler, and J.-Y. Ollitrault, ``{Symmetric
+  cumulants and event-plane correlations in Pb + Pb collisions},'' {\em Phys.
+  Rev.}, vol.~C94, no.~1, p.~014906, 2016.
+
+\bibitem{Das:2017ned}
+S.~J. Das, G.~Giacalone, P.-A. Monard, and J.-Y. Ollitrault, ``{Relating
+  centrality to impact parameter in nucleus-nucleus collisions},'' {\em Phys.
+  Rev.}, vol.~C97, no.~1, p.~014905, 2018.
+
+\bibitem{Heinz:2013bua}
+U.~Heinz, Z.~Qiu, and C.~Shen, ``{Fluctuating flow angles and anisotropic flow
+  measurements},'' {\em Phys. Rev.}, vol.~C87, no.~3, p.~034913, 2013.
+
+\bibitem{Akamatsu:2016llw}
+Y.~Akamatsu, A.~Mazeliauskas, and D.~Teaney, ``{A kinetic regime of
+  hydrodynamic fluctuations and long time tails for a Bjorken expansion},''
+  {\em Phys. Rev.}, vol.~C95, no.~1, p.~014909, 2017.
+
+\bibitem{Teaney:2012ke}
+D.~Teaney and L.~Yan, ``{Non linearities in the harmonic spectrum of heavy ion
+  collisions with ideal and viscous hydrodynamics},'' {\em Phys. Rev.},
+  vol.~C86, p.~044908, 2012.
+
+\bibitem{Huo:2013qma}
+P.~Huo, J.~Jia, and S.~Mohapatra, ``{Elucidating the event-by-event flow
+  fluctuations in heavy-ion collisions via the event shape selection
+  technique},'' {\em Phys. Rev.}, vol.~C90, no.~2, p.~024910, 2014.
+
+\bibitem{Alver:2008zza}
+B.~Alver {\em et~al.}, ``{Importance of correlations and fluctuations on the
+  initial source eccentricity in high-energy nucleus-nucleus collisions},''
+  {\em Phys. Rev.}, vol.~C77, p.~014906, 2008.
+
+\bibitem{Qiu:2012uy}
+Z.~Qiu and U.~Heinz, ``{Hydrodynamic event-plane correlations in Pb+Pb
+  collisions at $\sqrt{s}=2.76$ATeV},'' {\em Phys. Lett.}, vol.~B717,
+  pp.~261--265, 2012.
+
+\bibitem{Giacalone:2016mdr}
+G.~Giacalone, L.~Yan, J.~Noronha-Hostler, and J.-Y. Ollitrault, ``{The
+  fluctuations of quadrangular flow},'' {\em J. Phys. Conf. Ser.}, vol.~779,
+  no.~1, p.~012064, 2017.
+
+\bibitem{Borghini:2002mv}
+N.~Borghini, P.~M. Dinh, J.-Y. Ollitrault, A.~M. Poskanzer, and S.~A. Voloshin,
+  ``{Effects of momentum conservation on the analysis of anisotropic flow},''
+  {\em Phys. Rev.}, vol.~C66, p.~014901, 2002.
+
+\bibitem{Zhu:2016puf}
+X.~Zhu, Y.~Zhou, H.~Xu, and H.~Song, ``{Correlations of flow harmonics in 2.76A
+  TeV Pb--Pb collisions},'' {\em Phys. Rev.}, vol.~C95, no.~4, p.~044902, 2017.
+
+\bibitem{Giacalone:2017uqx}
+G.~Giacalone, J.~Noronha-Hostler, and J.-Y. Ollitrault, ``{Relative flow
+  fluctuations as a probe of initial state fluctuations},'' {\em Phys. Rev.},
+  vol.~C95, no.~5, p.~054910, 2017.
+
+\bibitem{Agakishiev:2011eq}
+G.~Agakishiev {\em et~al.}, ``{Energy and system-size dependence of two- and
+  four-particle $v_2$ measurements in heavy-ion collisions at RHIC and their
+  implications on flow fluctuations and nonflow},'' {\em Phys. Rev.}, vol.~C86,
+  p.~014904, 2012.
+
+\bibitem{Sirunyan:2017fts}
+A.~M. Sirunyan {\em et~al.}, ``{Non-Gaussian elliptic-flow fluctuations in PbPb
+  collisions at $\sqrt{\smash[b]{s_{_\text{NN}}}} = 5.02$ TeV},'' 2017.
+
+\bibitem{Shen:2017bsr}
+C.~Shen and B.~Schenke, ``{Dynamical initial state model for relativistic
+  heavy-ion collisions},'' {\em Phys. Rev.}, vol.~C97, no.~2, p.~024907, 2018.
+
+\bibitem{LinkSTAR:2015tdr}
+``{Technical Design Report for the iTPC Upgrade},'' 2015.
+
+\bibitem{LinkSTAR:2016fcs}
+``{The STAR Forward Calorimeter System and Forward Tracking System beyond
+  BES-II},'' 2016.
+
+\bibitem{Adare:2015kwa}
+A.~Adare {\em et~al.}, ``{An Upgrade Proposal from the PHENIX Collaboration},''
+  2015.
+
+\bibitem{LinkLHC:2017whl}
+``{Workshop on the physics of HL-LHC, and perspectives at HE-LHC},'' 2017.
+
+\bibitem{Tarafdar:2014oua}
+S.~Tarafdar, Z.~Citron, and A.~Milov, ``{A Centrality Detector Concept},'' {\em
+  Nucl. Instrum. Meth.}, vol.~A768, pp.~170--178, 2014.
+
+\end{thebibliography}

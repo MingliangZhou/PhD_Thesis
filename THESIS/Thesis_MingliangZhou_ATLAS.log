@@ -1,0 +1,3111 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 MAR 2019 11:43
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Thesis_MingliangZhou_ATLAS
+(./Thesis_MingliangZhou_ATLAS.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tree-dvips/lingmacros.sty
+\c@enums=\count87
+\widelabel=\dimen103
+\c@tempcnt=\count88
+\c@enumsi=\count89
+\eeindent=\dimen104
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tree-dvips/tree-dvips.sty
+tree-dvips version .91 of May 16, 1995
+\nodemargin=\dimen105
+\treelinewidth=\dimen106
+\dashlength=\dimen107
+\arrowwidth=\dimen108
+\arrowlength=\dimen109
+\arrowinset=\dimen110
+\pos@t=\toks14
+\pos@b=\toks15
+\pos@l=\toks16
+\pos@r=\toks17
+\pos@tl=\toks18
+\pos@tr=\toks19
+\pos@bl=\toks20
+\pos@br=\toks21
+\@arrow=\count90
+\@tempdimc=\dimen111
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count91
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count92
+\float@exts=\toks23
+\float@box=\box26
+\@float@everytoks=\toks24
+\@floatcapt=\box27
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks25
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/cancel/cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/morefloats/morefloats.sty
+Package: morefloats 2012/01/28 v1.0f Raise limit of unprocessed floats (HMM; DH
+)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package morefloats Info: Maximum number of possible floats asked for: 36.
+(morefloats)             LaTeX might run out of memory before this
+(morefloats)             (in which case it will notify you).
+(morefloats)              on input line 171.
+\bx@S=\insert233
+\bx@T=\insert232
+\bx@U=\insert231
+\bx@V=\insert230
+\bx@W=\insert229
+\bx@X=\insert228
+\bx@Y=\insert227
+\bx@Z=\insert226
+\bx@AA=\insert225
+\bx@AB=\insert224
+\bx@AC=\insert223
+\bx@AD=\insert222
+\bx@AE=\insert221
+\bx@AF=\insert220
+\bx@AG=\insert219
+\bx@AH=\insert218
+\bx@AI=\insert217
+\bx@AJ=\insert216
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/harpoon/harpoon.sty
+Package: harpoon 1994/11/02 Harpoon drawing package by Tobias Kuipers
+\argwd=\skip43
+\arght=\skip44
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen114
+\captionmargin@=\dimen115
+\captionwidth=\dimen116
+\caption@tempdima=\dimen117
+\caption@indent=\dimen118
+\caption@parindent=\dimen119
+\caption@hangindent=\dimen120
+)
+\c@ContinuedFloat=\count93
+Package caption Info: float package is loaded.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+\c@subfigure=\count94
+\c@subtable=\count95
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks26
+\ex@=\dimen121
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen122
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count96
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count97
+\leftroot@=\count98
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count99
+\DOTSCASE@=\count100
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen123
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count101
+\c@MaxMatrixCols=\count102
+\dotsspace@=\muskip11
+\c@parentequation=\count103
+\dspbrk@lvl=\count104
+\tag@help=\toks27
+\row@=\count105
+\column@=\count106
+\maxfields@=\count107
+\andhelp@=\toks28
+\eqnshift@=\dimen124
+\alignsep@=\dimen125
+\tagshift@=\dimen126
+\tagwidth@=\dimen127
+\totwidth@=\dimen128
+\lineht@=\dimen129
+\@envbody=\toks29
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks30
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/mnsymbol/MnSymbol.sty
+Package: MnSymbol 2007/01/21 v1.4 support for the MnSymbol font
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+LaTeX Info: Redefining \dagger on input line 84.
+LaTeX Info: Redefining \ddagger on input line 84.
+LaTeX Info: Redefining \mathparagraph on input line 84.
+LaTeX Info: Redefining \mathsection on input line 84.
+LaTeX Info: Redefining \mathdollar on input line 84.
+LaTeX Info: Redefining \mathsterling on input line 84.
+LaTeX Info: Redefining \yen on input line 84.
+LaTeX Info: Redefining \circledR on input line 84.
+LaTeX Info: Redefining \circledS on input line 84.
+LaTeX Info: Redefining \Re on input line 84.
+LaTeX Info: Redefining \Im on input line 84.
+LaTeX Info: Redefining \dotplus on input line 84.
+LaTeX Info: Redefining \thicksim on input line 84.
+LaTeX Info: Redefining \thickapprox on input line 84.
+LaTeX Info: Redefining \veebar on input line 84.
+LaTeX Info: Redefining \barwedge on input line 84.
+LaTeX Info: Redefining \doublebarwedge on input line 84.
+LaTeX Info: Redefining \centerdot on input line 84.
+LaTeX Info: Redefining \divideontimes on input line 84.
+\symMnSyA=\mathgroup6
+\symMnSyB=\mathgroup7
+\symMnSyC=\mathgroup8
+\symMnSyD=\mathgroup9
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 119.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/MnSymbolE/m/n on input line 119.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/MnSymbolE/m/n on input line 119.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 120.
+LaTeX Font Info:    Encoding `OMS' has changed to `U' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> U/MnSymbolF/m/n on input line 120.
+LaTeX Font Info:    Encoding `OMS' has changed to `U' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> U/MnSymbolF/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `MnSyA' in version `bold'
+(Font)                  U/MnSymbolA/m/n --> U/MnSymbolA/b/n on input line 121.
+LaTeX Font Info:    Overwriting symbol font `MnSyB' in version `bold'
+(Font)                  U/MnSymbolB/m/n --> U/MnSymbolB/b/n on input line 122.
+LaTeX Font Info:    Overwriting symbol font `MnSyC' in version `bold'
+(Font)                  U/MnSymbolC/m/n --> U/MnSymbolC/b/n on input line 123.
+LaTeX Font Info:    Overwriting symbol font `MnSyD' in version `bold'
+(Font)                  U/MnSymbolD/m/n --> U/MnSymbolD/b/n on input line 124.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/MnSymbolE/m/n --> OMX/MnSymbolE/b/n on input line 1
+25.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  U/MnSymbolF/m/n --> U/MnSymbolF/b/n on input line 126.
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 241.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `bold'
+(Font)                  OMS/MnSymbolS/m/n --> OMS/MnSymbolS/b/n on input line 2
+41.
+LaTeX Info: Redefining \longrightarrow on input line 548.
+LaTeX Info: Redefining \longleftarrow on input line 549.
+LaTeX Info: Redefining \longleftrightarrow on input line 550.
+LaTeX Info: Redefining \Longrightarrow on input line 551.
+LaTeX Info: Redefining \Longleftarrow on input line 552.
+LaTeX Info: Redefining \Longleftrightarrow on input line 553.
+LaTeX Info: Redefining \longmapsto on input line 554.
+LaTeX Info: Redefining \vdots on input line 868.
+LaTeX Font Info:    Redeclaring math symbol \braceld on input line 1721.
+LaTeX Font Info:    Redeclaring math symbol \bracelu on input line 1722.
+LaTeX Font Info:    Redeclaring math symbol \bracerd on input line 1723.
+LaTeX Font Info:    Redeclaring math symbol \braceru on input line 1724.
+LaTeX Info: Redefining \downbracefill on input line 1799.
+LaTeX Info: Redefining \upbracefill on input line 1800.
+LaTeX Info: Redefining \overbrace on input line 1819.
+LaTeX Info: Redefining \underbrace on input line 1820.
+LaTeX Info: Redefining \surd on input line 1843.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 1845.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 1846.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 1848.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen130
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip48
+\enit@outerparindent=\dimen131
+\enit@toks=\toks31
+\enit@inbox=\box30
+\enitdp@description=\count108
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen132
+\Hy@linkcounter=\count109
+\Hy@pagecounter=\count110
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count111
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count112
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen133
+\Fld@menulength=\count113
+\Field@Width=\dimen134
+\Fld@charsize=\dimen135
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring ON on input line 6313.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count114
+\c@Item=\count115
+\c@Hfootnote=\count116
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count117
+\c@bookmark@seq@number=\count118
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip49
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box31
+\beforetitleunit=\skip50
+\aftertitleunit=\skip51
+\ttl@plus=\dimen136
+\ttl@minus=\dimen137
+\ttl@toksa=\toks32
+\titlewidth=\dimen138
+\titlewidthlast=\dimen139
+\titlewidthfirst=\dimen140
+)
+(./Thesis_MingliangZhou_ATLAS.aux
+
+LaTeX Warning: Label `sec:glauber_model' multiply defined.
+
+)
+\openout1 = `Thesis_MingliangZhou_ATLAS.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 43.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count119
+\scratchdimen=\dimen141
+\scratchbox=\box32
+\nofMPsegments=\count120
+\nofMParguments=\count121
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count122
+\MPscratchDim=\dimen142
+\MPnumerator=\count123
+\makeMPintoPDFobject=\count124
+\everyMPtoPDFconversion=\toks34
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box33
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 142.
+)
+Package hyperref Info: Link coloring ON on input line 43.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count125
+)
+LaTeX Info: Redefining \ref on input line 43.
+LaTeX Info: Redefining \pageref on input line 43.
+LaTeX Info: Redefining \nameref on input line 43.
+
+(./Thesis_MingliangZhou_ATLAS.out) (./Thesis_MingliangZhou_ATLAS.out)
+\@outlinefile=\write3
+\openout3 = `Thesis_MingliangZhou_ATLAS.out'.
+
+ [1
+
+
+Non-PDF special ignored!{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/upd
+map/pdftex.map}]pdfTeX warning (ext4): destination with the same identifier (na
+me{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.92 \newpage
+              [1] [2]
+LaTeX Font Info:    Try loading font information for U+msa on input line 152.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 152.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [3] [4]
+(./Thesis_MingliangZhou_ATLAS.toc [5] [6] [7])
+\tf@toc=\write4
+\openout4 = `Thesis_MingliangZhou_ATLAS.toc'.
+
+ [8]
+(./Thesis_MingliangZhou_ATLAS.lof [9]
+Overfull \hbox (19.34843pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/m/n/12 the cube root of av-er-age charged-particle mul-ti-plic-ity $[
+][]$, 
+ []
+
+[10]
+Overfull \hbox (8.79965pt too wide) in paragraph at lines 24--24
+ [][] [][][]\OT1/cmr/m/n/12 FCal $^^F\OML/cmm/m/it/12 E[]$ \OT1/cmr/m/n/12 dis-
+tri-bu-tions for two ma-jor UCC trig-gers (red points), 
+ []
+
+
+Overfull \hbox (3.81332pt too wide) in paragraph at lines 27--27
+ [][] [][][]\OT1/cmr/m/n/12 5.02 TeV Pb+Pb track-ing ef-fi-ciency $\OML/cmm/m/i
+t/12 ^^O\OMX/MnSymbolE/m/n/12 à\OML/cmm/m/it/12 ^^Q\OMX/MnSymbolE/m/n/12 ç$\OT1
+/cmr/m/n/12 , for dif-fer-ent $\OML/cmm/m/it/12 p[]$ \OT1/cmr/m/n/12 ranges 
+ []
+
+[11] [12] [13]
+Overfull \hbox (2.03592pt too wide) in paragraph at lines 58--58
+ \OT1/cmr/m/n/12 the es-ti-mated short-range com-po-nent $\OML/cmm/m/it/12 ^^N[
+]\OMX/MnSymbolE/m/n/12 à\OML/cmm/m/it/12 ^^Q[]; ^^Q[]\OMX/MnSymbolE/m/n/12 ç$ \
+OT1/cmr/m/n/12 (mid-dle row) 
+ []
+
+[14]
+Overfull \hbox (0.28798pt too wide) in paragraph at lines 62--62
+ \OT1/cmr/m/n/12 100 \U/MnSymbolD/m/n/12 B \OML/cmm/m/it/12 N[]\OT1/cmr/m/n/12 
+120$. The solid lines in-di-cate fits to ei-ther a quadratic 
+ []
+
+
+Overfull \hbox (4.35095pt too wide) in paragraph at lines 64--64
+ [][] [][][]\OT1/cmr/m/n/12 The es-ti-mated mag-ni-tude of the short-range com-
+po-nent $[]$ 
+ []
+
+
+Overfull \hbox (4.35095pt too wide) in paragraph at lines 65--65
+ [][] [][][]\OT1/cmr/m/n/12 The es-ti-mated mag-ni-tude of the short-range com-
+po-nent $[]$ 
+ []
+
+[15]
+Overfull \hbox (20.0708pt too wide) in paragraph at lines 68--68
+ [][] [][][]\OT1/cmr/m/n/12 The cor-re-la-tion func-tions for same-charge pairs
+ (left) and opposite- 
+ []
+
+
+Overfull \hbox (0.80031pt too wide) in paragraph at lines 69--69
+ [][] [][][]\OT1/cmr/m/n/12 Projection of $\OML/cmm/m/it/12 C\OMX/MnSymbolE/m/n
+/12 à\OML/cmm/m/it/12 ^^Q[]; ^^Q[]\OMX/MnSymbolE/m/n/12 ç$ \OT1/cmr/m/n/12 dis-
+tri-bu-tions for same-charge pairs ($\U/MnSymbolC/m/n/12 ^^V^^V$\OT1/cmr/m/n/12
+ ) 
+ []
+
+
+Overfull \hbox (12.655pt too wide) in paragraph at lines 70--70
+ [][] [][][]\OT1/cmr/m/n/12 Two-particle cor-re-la-tion func-tion $\OML/cmm/m/i
+t/12 C\OMX/MnSymbolE/m/n/12 à\OT1/cmr/m/n/12 ^^A\OML/cmm/m/it/12 ^^Q; \OT1/cmr/
+m/n/12 ^^A\OML/cmm/m/it/12 ^^^\OMX/MnSymbolE/m/n/12 ç$ \OT1/cmr/m/n/12 in 5.02 
+TeV Pb+Pb 
+ []
+
+[16]
+Overfull \hbox (0.67531pt too wide) in paragraph at lines 73--73
+ [][] [][][]\OT1/cmr/m/n/12 Left: the com-par-i-son of $\OML/cmm/m/it/12 c[]\OM
+X/MnSymbolE/m/n/12 ò\OT1/cmr/m/n/12 4\OMX/MnSymbolE/m/n/12 ù$ \OT1/cmr/m/n/12 c
+u-mu-lants ob-tained for PYTHIA 
+ []
+
+[17] [18] [19]
+Overfull \hbox (13.49043pt too wide) in paragraph at lines 87--87
+ [][] [][][]\OT1/cmr/m/n/12 4-particle cu-mu-lants $\OML/cmm/m/it/12 c[]\OMX/Mn
+SymbolE/m/n/12 ò\OT1/cmr/m/n/12 4\OMX/MnSymbolE/m/n/12 ù$ \OT1/cmr/m/n/12 mea-s
+ured with three-subevent method 
+ []
+
+
+Overfull \hbox (17.87091pt too wide) in paragraph at lines 91--91
+ \OT1/cmr/m/n/12 cles), three-subevent method with $\OML/cmm/m/it/12 ^^^[]$ \OT
+1/cmr/m/n/12 de-fined in for-ward/backward 
+ []
+
+[20] [21]
+Overfull \hbox (6.60724pt too wide) in paragraph at lines 100--100
+ \OT1/cmr/m/n/12 lants $\OML/cmm/m/it/12 nc[]\OMX/MnSymbolE/m/n/12 ò\OT1/cmr/m/
+n/12 4\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 ^^F\OML/cmm/m/it/12 E[]\OMX/MnSymbolE/
+m/n/12 ù$ \OT1/cmr/m/n/12 (left), $\OML/cmm/m/it/12 nc[]\OMX/MnSymbolE/m/n/12 ò
+\OT1/cmr/m/n/12 4\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 ^^F\OML/cmm/m/it/12 E[]\OMX
+/MnSymbolE/m/n/12 ù$ \OT1/cmr/m/n/12 (mid-dle) and $\OML/cmm/m/it/12 nc[]\OMX/M
+nSymbolE/m/n/12 ò\OT1/cmr/m/n/12 4\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 ^^F\OML/cm
+m/m/it/12 E[]\OMX/MnSymbolE/m/n/12 ù$ 
+ []
+
+
+Overfull \hbox (34.59468pt too wide) in paragraph at lines 101--101
+ [][] [][][]\OT1/cmr/m/n/12 The cen-tral-ity de-pen-dence of cu-mu-lant ra-tios
+ $\OML/cmm/m/it/12 v[]\OMX/MnSymbolE/m/n/12 ò\OT1/cmr/m/n/12 4\OML/cmm/m/it/12 
+; \OT1/cmr/m/n/12 ^^F\OML/cmm/m/it/12 E[]\OMX/MnSymbolE/m/n/12 ù~\OML/cmm/m/it/
+12 v[]\OMX/MnSymbolE/m/n/12 ò\OT1/cmr/m/n/12 2\OML/cmm/m/it/12 ; \OT1/cmr/m/n/1
+2 ^^F\OML/cmm/m/it/12 E[]\OMX/MnSymbolE/m/n/12 ù$ 
+ []
+
+
+Overfull \hbox (6.60724pt too wide) in paragraph at lines 102--102
+ \OT1/cmr/m/n/12 lants $\OML/cmm/m/it/12 nc[]\OMX/MnSymbolE/m/n/12 ò\OT1/cmr/m/
+n/12 6\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 ^^F\OML/cmm/m/it/12 E[]\OMX/MnSymbolE/
+m/n/12 ù$ \OT1/cmr/m/n/12 (left), $\OML/cmm/m/it/12 nc[]\OMX/MnSymbolE/m/n/12 ò
+\OT1/cmr/m/n/12 6\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 ^^F\OML/cmm/m/it/12 E[]\OMX
+/MnSymbolE/m/n/12 ù$ \OT1/cmr/m/n/12 (mid-dle) and $\OML/cmm/m/it/12 nc[]\OMX/M
+nSymbolE/m/n/12 ò\OT1/cmr/m/n/12 6\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 ^^F\OML/cm
+m/m/it/12 E[]\OMX/MnSymbolE/m/n/12 ù$ 
+ []
+
+
+Overfull \hbox (28.14519pt too wide) in paragraph at lines 103--103
+ [][] [][][]\OT1/cmr/m/n/12 The cen-tral-ity de-pen-dence of cu-mu-lant ra-tio 
+$\OML/cmm/m/it/12 v[]\OMX/MnSymbolE/m/n/12 ò\OT1/cmr/m/n/12 6\OML/cmm/m/it/12 ;
+ \OT1/cmr/m/n/12 ^^F\OML/cmm/m/it/12 E[]\OMX/MnSymbolE/m/n/12 ù~\OML/cmm/m/it/1
+2 v[]\OMX/MnSymbolE/m/n/12 ò\OT1/cmr/m/n/12 4\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12
+ ^^F\OML/cmm/m/it/12 E[]\OMX/MnSymbolE/m/n/12 ù$ 
+ []
+
+[22]
+Overfull \hbox (0.88913pt too wide) in paragraph at lines 108--108
+ [][] [][][]\OT1/cmr/m/n/12 The nor-mal-ized four-particle cu-mu-lants $\OML/cm
+m/m/it/12 nc[]\OMX/MnSymbolE/m/n/12 ò\OT1/cmr/m/n/12 4\OML/cmm/m/it/12 ; \OT1/c
+mr/m/n/12 ^^F\OML/cmm/m/it/12 E[]\OMX/MnSymbolE/m/n/12 ù$ \OT1/cmr/m/n/12 as a 
+func- 
+ []
+
+
+Overfull \hbox (23.73611pt too wide) in paragraph at lines 109--109
+ [][] [][][]\OT1/cmr/m/n/12 The com-par-i-son of nor-mal-ized four-particle cu-
+mu-lants $\OML/cmm/m/it/12 nc[]\OMX/MnSymbolE/m/n/12 ò\OT1/cmr/m/n/12 4\OML/cmm
+/m/it/12 ; \OT1/cmr/m/n/12 ^^F\OML/cmm/m/it/12 E[]\OMX/MnSymbolE/m/n/12 ù$ 
+ []
+
+
+Overfull \hbox (12.47324pt too wide) in paragraph at lines 111--111
+ [][] [][][]\OT1/cmr/m/n/12 The $[]$ de-pen-dence of cu-mu-lant ra-tio $\OML/cm
+m/m/it/12 v[]\OMX/MnSymbolE/m/n/12 ò\OT1/cmr/m/n/12 6\OML/cmm/m/it/12 ; \OT1/cm
+r/m/n/12 ^^F\OML/cmm/m/it/12 E[]\OMX/MnSymbolE/m/n/12 ù~\OML/cmm/m/it/12 v[]\OM
+X/MnSymbolE/m/n/12 ò\OT1/cmr/m/n/12 4\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 ^^F\OML
+/cmm/m/it/12 E[]\OMX/MnSymbolE/m/n/12 ù$ 
+ []
+
+[23]
+Overfull \hbox (43.86382pt too wide) in paragraph at lines 113--113
+ [][] [][][]\OT1/cmr/m/n/12 Comparison of $\OML/cmm/m/it/12 nsc[]\OMX/MnSymbolE
+/m/n/12 ò\OT1/cmr/m/n/12 4\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 ^^F\OML/cmm/m/it/1
+2 E[]\OMX/MnSymbolE/m/n/12 ù$ \OT1/cmr/m/n/12 and $\OML/cmm/m/it/12 nsc[]\OMX/M
+nSymbolE/m/n/12 ò\OT1/cmr/m/n/12 4\OML/cmm/m/it/12 ; N[]\OMX/MnSymbolE/m/n/12 ù
+$ \OT1/cmr/m/n/12 (left), $\OML/cmm/m/it/12 nsc[]\OMX/MnSymbolE/m/n/12 ò\OT1/cm
+r/m/n/12 4\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 ^^F\OML/cmm/m/it/12 E[]\OMX/MnSymb
+olE/m/n/12 ù$ 
+ []
+
+
+Overfull \hbox (15.03682pt too wide) in paragraph at lines 113--113
+ \OT1/cmr/m/n/12 and $\OML/cmm/m/it/12 nsc[]\OMX/MnSymbolE/m/n/12 ò\OT1/cmr/m/n
+/12 4\OML/cmm/m/it/12 ; N[]\OMX/MnSymbolE/m/n/12 ù$ \OT1/cmr/m/n/12 (mid-dle), 
+and $\OML/cmm/m/it/12 nac[]\OMX/MnSymbolE/m/n/12 ò\OT1/cmr/m/n/12 3\OML/cmm/m/i
+t/12 ; \OT1/cmr/m/n/12 ^^F\OML/cmm/m/it/12 E[]\OMX/MnSymbolE/m/n/12 ù$ \OT1/cmr
+/m/n/12 and $\OML/cmm/m/it/12 nac[]\OMX/MnSymbolE/m/n/12 ò\OT1/cmr/m/n/12 3\OML
+/cmm/m/it/12 ; N[]\OMX/MnSymbolE/m/n/12 ù$ 
+ []
+
+[24]
+Overfull \hbox (0.95076pt too wide) in paragraph at lines 126--126
+ [][] [][][]\OT1/cmr/m/n/12 Systematics of $\OML/cmm/m/it/12 c[]\OMX/MnSymbolE/
+m/n/12 ò\OT1/cmr/m/n/12 4\OMX/MnSymbolE/m/n/12 ù$ \OT1/cmr/m/n/12 from flat-ten
+-ing pro-ce-dure: with and with- 
+ []
+
+
+Overfull \hbox (3.19194pt too wide) in paragraph at lines 130--130
+ [][] [][][]\OT1/cmr/m/n/12 Systematics of $\OML/cmm/m/it/12 c[]\OMX/MnSymbolE/
+m/n/12 ò\OT1/cmr/m/n/12 4\OMX/MnSymbolE/m/n/12 ù$ \OT1/cmr/m/n/12 from track-in
+g ef-fi-ciency: de-fault v.s. lower 
+ []
+
+
+Overfull \hbox (8.41411pt too wide) in paragraph at lines 131--131
+ [][] [][][]\OT1/cmr/m/n/12 Systematics of $\OML/cmm/m/it/12 c[]\OMX/MnSymbolE/
+m/n/12 ò\OT1/cmr/m/n/12 4\OMX/MnSymbolE/m/n/12 ù$ \OT1/cmr/m/n/12 from track-in
+g ef-fi-ciency: de-fault v.s. higher 
+ []
+
+[25])
+\tf@lof=\write5
+\openout5 = `Thesis_MingliangZhou_ATLAS.lof'.
+
+ [26] (./Thesis_MingliangZhou_ATLAS.lot
+Overfull \hbox (3.94736pt too wide) in paragraph at lines 1--1
+ [][] [][][]\OT1/cmr/m/n/12 The power in-dex and as-so-ci-ated to-tal un-cer-ta
+inty from a power- 
+ []
+
+)
+\tf@lot=\write6
+\openout6 = `Thesis_MingliangZhou_ATLAS.lot'.
+
+ [27] [28] [29] [1] (./chapter_intro.tex [2]
+<figs/chapter_intro/standard_model.png, id=1533, 803.0pt x 767.86874pt>
+File: figs/chapter_intro/standard_model.png Graphic file (type png)
+
+<use figs/chapter_intro/standard_model.png>
+Package pdftex.def Info: figs/chapter_intro/standard_model.png used on input li
+ne 16.
+(pdftex.def)             Requested size: 370.49881pt x 354.30185pt.
+ [3 <./figs/chapter_intro/standard_model.png>] [4]
+<figs/chapter_intro/QCD_diagram.png, id=1550, 727.71875pt x 713.66624pt>
+File: figs/chapter_intro/QCD_diagram.png Graphic file (type png)
+
+<use figs/chapter_intro/QCD_diagram.png>
+Package pdftex.def Info: figs/chapter_intro/QCD_diagram.png used on input line 
+42.
+(pdftex.def)             Requested size: 234.00238pt x 229.4777pt.
+ [5 <./figs/chapter_intro/QCD_diagram.png>] [6]
+<figs/chapter_intro/QGP_evolution.png, id=1566, 1000.73875pt x 266.9975pt>
+File: figs/chapter_intro/QGP_evolution.png Graphic file (type png)
+
+<use figs/chapter_intro/QGP_evolution.png>
+Package pdftex.def Info: figs/chapter_intro/QGP_evolution.png used on input lin
+e 74.
+(pdftex.def)             Requested size: 370.49881pt x 98.84862pt.
+ [7 <./figs/chapter_intro/QGP_evolution.png>] [8] [9] [10] [11]
+<figs/chapter_intro/HI_geometry.pdf, id=1618, 963.6pt x 542.025pt>
+File: figs/chapter_intro/HI_geometry.pdf Graphic file (type pdf)
+
+<use figs/chapter_intro/HI_geometry.pdf>
+Package pdftex.def Info: figs/chapter_intro/HI_geometry.pdf used on input line 
+247.
+(pdftex.def)             Requested size: 272.99881pt x 153.56068pt.
+ [12 <./figs/chapter_intro/HI_geometry.pdf>]
+<figs/chapter_intro/HI_centrality.png, id=1644, 796.9775pt x 892.33376pt>
+File: figs/chapter_intro/HI_centrality.png Graphic file (type png)
+
+<use figs/chapter_intro/HI_centrality.png>
+Package pdftex.def Info: figs/chapter_intro/HI_centrality.png used on input lin
+e 277.
+(pdftex.def)             Requested size: 195.0pt x 218.33095pt.
+ [13] [14 <./figs/chapter_intro/HI_centrality.png>]
+<figs/chapter_intro/strangeness_ALICE.png, id=1667, 473.77pt x 766.865pt>
+File: figs/chapter_intro/strangeness_ALICE.png Graphic file (type png)
+
+<use figs/chapter_intro/strangeness_ALICE.png>
+Package pdftex.def Info: figs/chapter_intro/strangeness_ALICE.png used on input
+ line 301.
+(pdftex.def)             Requested size: 195.0pt x 315.63364pt.
+ [15] [16 <./figs/chapter_intro/strangeness_ALICE.png>]
+<figs/chapter_intro/v2_ALICE.png, id=1685, 918.43124pt x 706.64pt>
+File: figs/chapter_intro/v2_ALICE.png Graphic file (type png)
+
+<use figs/chapter_intro/v2_ALICE.png>
+Package pdftex.def Info: figs/chapter_intro/v2_ALICE.png used on input line 316
+.
+(pdftex.def)             Requested size: 234.00238pt x 180.03447pt.
+ [17 <./figs/chapter_intro/v2_ALICE.png>]
+<figs/chapter_intro/jet_RAA_ATLAS.png, id=1699, 722.7pt x 552.0625pt>
+File: figs/chapter_intro/jet_RAA_ATLAS.png Graphic file (type png)
+
+<use figs/chapter_intro/jet_RAA_ATLAS.png>
+Package pdftex.def Info: figs/chapter_intro/jet_RAA_ATLAS.png used on input lin
+e 334.
+(pdftex.def)             Requested size: 234.00238pt x 178.7527pt.
+ [18 <./figs/chapter_intro/jet_RAA_ATLAS.png>]
+<figs/chapter_intro/jet_asym_ATLAS.png, id=1712, 1364.09625pt x 626.34pt>
+File: figs/chapter_intro/jet_asym_ATLAS.png Graphic file (type png)
+
+<use figs/chapter_intro/jet_asym_ATLAS.png>
+Package pdftex.def Info: figs/chapter_intro/jet_asym_ATLAS.png used on input li
+ne 348.
+(pdftex.def)             Requested size: 370.49881pt x 170.11755pt.
+ [19 <./figs/chapter_intro/jet_asym_ATLAS.png>] <figs/chapter_intro/CP_STAR.png
+, id=1729, 525.965pt x 607.26875pt>
+File: figs/chapter_intro/CP_STAR.png Graphic file (type png)
+
+<use figs/chapter_intro/CP_STAR.png>
+Package pdftex.def Info: figs/chapter_intro/CP_STAR.png used on input line 362.
+
+(pdftex.def)             Requested size: 195.0pt x 225.13995pt.
+ [20] [21 <./figs/chapter_intro/CP_STAR.png>] <figs/chapter_intro/HBT_ATLAS.png
+, id=1751, 1083.04625pt x 760.8425pt>
+File: figs/chapter_intro/HBT_ATLAS.png Graphic file (type png)
+
+<use figs/chapter_intro/HBT_ATLAS.png>
+Package pdftex.def Info: figs/chapter_intro/HBT_ATLAS.png used on input line 37
+7.
+(pdftex.def)             Requested size: 234.00238pt x 164.379pt.
+ [22 <./figs/chapter_intro/HBT_ATLAS.png>] [23] [24] [25]) [26] (./chapter_dete
+ctor.tex
+<figs/chapter_detector/cartoon_LHC.jpg, id=1804, 981.6675pt x 615.29875pt>
+File: figs/chapter_detector/cartoon_LHC.jpg Graphic file (type jpg)
+
+<use figs/chapter_detector/cartoon_LHC.jpg>
+Package pdftex.def Info: figs/chapter_detector/cartoon_LHC.jpg used on input li
+ne 14.
+(pdftex.def)             Requested size: 370.49881pt x 232.21986pt.
+ [27]
+Overfull \hbox (3.19453pt too wide) in paragraph at lines 25--26
+[] []\OT1/cmr/m/n/12 Due to the ex-per-i-men-tal con-di-tions, the de-tec-tors 
+re-quire fast, radiation-
+ []
+
+[28 <./figs/chapter_detector/cartoon_LHC.jpg>]
+<figs/chapter_detector/ATLAS_detector.jpg, id=1818, 810.52812pt x 520.94624pt>
+File: figs/chapter_detector/ATLAS_detector.jpg Graphic file (type jpg)
+
+<use figs/chapter_detector/ATLAS_detector.jpg>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_detector.jpg used on input
+ line 42.
+(pdftex.def)             Requested size: 370.49881pt x 238.13582pt.
+ [29]
+<figs/chapter_detector/ATLAS_ID.jpg, id=1826, 563.10374pt x 375.4025pt>
+File: figs/chapter_detector/ATLAS_ID.jpg Graphic file (type jpg)
+
+<use figs/chapter_detector/ATLAS_ID.jpg>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_ID.jpg used on input line 
+55.
+(pdftex.def)             Requested size: 370.49881pt x 246.99884pt.
+ [30 <./figs/chapter_detector/ATLAS_detector.jpg>] [31 <./figs/chapter_detector
+/ATLAS_ID.jpg>]
+<figs/chapter_detector/ATLAS_ID_pixel.png, id=1841, 1045.9075pt x 701.62125pt>
+File: figs/chapter_detector/ATLAS_ID_pixel.png Graphic file (type png)
+
+<use figs/chapter_detector/ATLAS_ID_pixel.png>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_ID_pixel.png used on input
+ line 78.
+(pdftex.def)             Requested size: 370.49881pt x 248.53664pt.
+ [32]
+<figs/chapter_detector/ATLAS_ID_pixel_hits1.pdf, id=1848, 569.12625pt x 387.447
+5pt>
+File: figs/chapter_detector/ATLAS_ID_pixel_hits1.pdf Graphic file (type pdf)
+ <use figs/chapter_detector/ATLAS_ID_pixel_hits1.pdf>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_ID_pixel_hits1.pdf used on
+ input line 87.
+(pdftex.def)             Requested size: 185.25238pt x 126.11403pt.
+
+<figs/chapter_detector/ATLAS_ID_pixel_hits2.pdf, id=1849, 569.12625pt x 387.447
+5pt>
+File: figs/chapter_detector/ATLAS_ID_pixel_hits2.pdf Graphic file (type pdf)
+ <use figs/chapter_detector/ATLAS_ID_pixel_hits2.pdf>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_ID_pixel_hits2.pdf used on
+ input line 88.
+(pdftex.def)             Requested size: 185.25238pt x 126.11403pt.
+ [33 <./figs/chapter_detector/ATLAS_ID_pixel.png>]
+<figs/chapter_detector/ATLAS_ID_SCT.png, id=1858, 1149.29375pt x 505.89pt>
+File: figs/chapter_detector/ATLAS_ID_SCT.png Graphic file (type png)
+
+<use figs/chapter_detector/ATLAS_ID_SCT.png>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_ID_SCT.png used on input l
+ine 101.
+(pdftex.def)             Requested size: 370.49881pt x 163.08458pt.
+ [34 <./figs/chapter_detector/ATLAS_ID_pixel_hits1.pdf, page is rotated 90 degr
+ees> <./figs/chapter_detector/ATLAS_ID_pixel_hits2.pdf, page is rotated 90 degr
+ees>]
+<figs/chapter_detector/ATLAS_ID_SCT_hits1.pdf, id=1954, 569.12625pt x 387.4475p
+t>
+File: figs/chapter_detector/ATLAS_ID_SCT_hits1.pdf Graphic file (type pdf)
+ <use figs/chapter_detector/ATLAS_ID_SCT_hits1.pdf>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_ID_SCT_hits1.pdf used on i
+nput line 110.
+(pdftex.def)             Requested size: 185.25238pt x 126.11403pt.
+
+<figs/chapter_detector/ATLAS_ID_SCT_hits2.pdf, id=1955, 569.12625pt x 387.4475p
+t>
+File: figs/chapter_detector/ATLAS_ID_SCT_hits2.pdf Graphic file (type pdf)
+ <use figs/chapter_detector/ATLAS_ID_SCT_hits2.pdf>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_ID_SCT_hits2.pdf used on i
+nput line 111.
+(pdftex.def)             Requested size: 185.25238pt x 126.11403pt.
+ [35 <./figs/chapter_detector/ATLAS_ID_SCT.png>] [36 <./figs/chapter_detector/A
+TLAS_ID_SCT_hits1.pdf, page is rotated 90 degrees> <./figs/chapter_detector/ATL
+AS_ID_SCT_hits2.pdf, page is rotated 90 degrees>]
+<figs/chapter_detector/ATLAS_FCal.png, id=2057, 879.285pt x 410.53375pt>
+File: figs/chapter_detector/ATLAS_FCal.png Graphic file (type png)
+
+<use figs/chapter_detector/ATLAS_FCal.png>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_FCal.png used on input lin
+e 132.
+(pdftex.def)             Requested size: 185.25238pt x 86.49025pt.
+ [37 <./figs/chapter_detector/ATLAS_FCal.png>]
+<figs/chapter_detector/ATLAS_FCal_Nch.pdf, id=2067, 569.12625pt x 384.43625pt>
+File: figs/chapter_detector/ATLAS_FCal_Nch.pdf Graphic file (type pdf)
+
+<use figs/chapter_detector/ATLAS_FCal_Nch.pdf>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_FCal_Nch.pdf used on input
+ line 141.
+(pdftex.def)             Requested size: 185.25238pt x 125.13387pt.
+
+<figs/chapter_detector/ATLAS_FCaldis.pdf, id=2068, 569.12625pt x 384.43625pt>
+File: figs/chapter_detector/ATLAS_FCaldis.pdf Graphic file (type pdf)
+
+<use figs/chapter_detector/ATLAS_FCaldis.pdf>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_FCaldis.pdf used on input 
+line 142.
+(pdftex.def)             Requested size: 185.25238pt x 125.13387pt.
+ [38 <./figs/chapter_detector/ATLAS_FCal_Nch.pdf, page is rotated 90 degrees> <
+./figs/chapter_detector/ATLAS_FCaldis.pdf, page is rotated 90 degrees>]
+<figs/chapter_detector/ATLAS_ZDC.png, id=2164, 893.3375pt x 656.4525pt>
+File: figs/chapter_detector/ATLAS_ZDC.png Graphic file (type png)
+
+<use figs/chapter_detector/ATLAS_ZDC.png>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_ZDC.png used on input line
+ 158.
+(pdftex.def)             Requested size: 370.49881pt x 272.25243pt.
+ [39 <./figs/chapter_detector/ATLAS_ZDC.png>]
+<figs/chapter_detector/ATLAS_ZDCdis.pdf, id=2173, 569.12625pt x 451.6875pt>
+File: figs/chapter_detector/ATLAS_ZDCdis.pdf Graphic file (type pdf)
+
+<use figs/chapter_detector/ATLAS_ZDCdis.pdf>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_ZDCdis.pdf used on input l
+ine 167.
+(pdftex.def)             Requested size: 185.25238pt x 147.02412pt.
+
+<figs/chapter_detector/ATLAS_ZDC_FCal.pdf, id=2174, 569.12625pt x 451.6875pt>
+File: figs/chapter_detector/ATLAS_ZDC_FCal.pdf Graphic file (type pdf)
+
+<use figs/chapter_detector/ATLAS_ZDC_FCal.pdf>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_ZDC_FCal.pdf used on input
+ line 168.
+(pdftex.def)             Requested size: 185.25238pt x 147.02412pt.
+ [40 <./figs/chapter_detector/ATLAS_ZDCdis.pdf, page is rotated 90 degrees> <./
+figs/chapter_detector/ATLAS_ZDC_FCal.pdf, page is rotated 90 degrees>]
+<figs/chapter_detector/ATLAS_MBTS.png, id=2270, 406.51875pt x 421.575pt>
+File: figs/chapter_detector/ATLAS_MBTS.png Graphic file (type png)
+
+<use figs/chapter_detector/ATLAS_MBTS.png>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_MBTS.png used on input lin
+e 181.
+(pdftex.def)             Requested size: 185.25238pt x 192.11282pt.
+ [41 <./figs/chapter_detector/ATLAS_MBTS.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 201.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@ifnextchar' on input line 201.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 201.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 201.
+
+[42]
+<figs/chapter_detector/ATLAS_trigger_PbPb502.png, id=2284, 969.6225pt x 434.623
+75pt>
+File: figs/chapter_detector/ATLAS_trigger_PbPb502.png Graphic file (type png)
+ <use figs/chapter_detector/ATLAS_trigger_PbPb502.png>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_trigger_PbPb502.png used o
+n input line 228.
+(pdftex.def)             Requested size: 370.49881pt x 166.07393pt.
+ [43 <./figs/chapter_detector/ATLAS_trigger_PbPb502.png>]
+<figs/chapter_detector/ATLAS_pileup_PbPb502.png, id=2293, 972.63374pt x 431.612
+5pt>
+File: figs/chapter_detector/ATLAS_pileup_PbPb502.png Graphic file (type png)
+ <use figs/chapter_detector/ATLAS_pileup_PbPb502.png>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_pileup_PbPb502.png used on
+ input line 251.
+(pdftex.def)             Requested size: 370.49881pt x 164.40959pt.
+ [44]
+<figs/chapter_detector/ATLAS_centrality_PbPb276.pdf, id=2301, 569.12625pt x 363
+.3575pt>
+File: figs/chapter_detector/ATLAS_centrality_PbPb276.pdf Graphic file (type pdf
+)
+ <use figs/chapter_detector/ATLAS_centrality_PbPb276.pdf>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_centrality_PbPb276.pdf use
+d on input line 265.
+(pdftex.def)             Requested size: 234.00238pt x 149.3989pt.
+ [45 <./figs/chapter_detector/ATLAS_pileup_PbPb502.png>] [46 <./figs/chapter_de
+tector/ATLAS_centrality_PbPb276.pdf>]
+<figs/chapter_detector/ATLAS_track_eff_PbPb502.png, id=2319, 1035.87pt x 628.34
+75pt>
+File: figs/chapter_detector/ATLAS_track_eff_PbPb502.png Graphic file (type png)
+
+ <use figs/chapter_detector/ATLAS_track_eff_PbPb502.png>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_track_eff_PbPb502.png used
+ on input line 309.
+(pdftex.def)             Requested size: 370.49881pt x 224.73799pt.
+ [47]
+<figs/chapter_detector/ATLAS_track_fake_PbPb502.png, id=2326, 1036.87375pt x 62
+7.34375pt>
+File: figs/chapter_detector/ATLAS_track_fake_PbPb502.png Graphic file (type png
+)
+ <use figs/chapter_detector/ATLAS_track_fake_PbPb502.png>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_track_fake_PbPb502.png use
+d on input line 335.
+(pdftex.def)             Requested size: 370.49881pt x 224.16838pt.
+ [48 <./figs/chapter_detector/ATLAS_track_eff_PbPb502.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 348.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@ifnextchar' on input line 348.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 348.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 348.
+
+[49 <./figs/chapter_detector/ATLAS_track_fake_PbPb502.png>]
+<figs/chapter_detector/ATLAS_trigger_XeXe544.png, id=2343, 776.9025pt x 547.043
+75pt>
+File: figs/chapter_detector/ATLAS_trigger_XeXe544.png Graphic file (type png)
+ <use figs/chapter_detector/ATLAS_trigger_XeXe544.png>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_trigger_XeXe544.png used o
+n input line 366.
+(pdftex.def)             Requested size: 234.00238pt x 164.76547pt.
+ [50]
+<figs/chapter_detector/ATLAS_FCal_Nch_XeXe544.png, id=2352, 656.4525pt x 461.72
+5pt>
+File: figs/chapter_detector/ATLAS_FCal_Nch_XeXe544.png Graphic file (type png)
+ <use figs/chapter_detector/ATLAS_FCal_Nch_XeXe544.png>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_FCal_Nch_XeXe544.png used 
+on input line 381.
+(pdftex.def)             Requested size: 234.00238pt x 164.58635pt.
+ [51 <./figs/chapter_detector/ATLAS_trigger_XeXe544.png>]
+<figs/chapter_detector/ATLAS_centrality_XeXe544.png, id=2360, 1030.85126pt x 37
+2.39125pt>
+File: figs/chapter_detector/ATLAS_centrality_XeXe544.png Graphic file (type png
+)
+ <use figs/chapter_detector/ATLAS_centrality_XeXe544.png>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_centrality_XeXe544.png use
+d on input line 394.
+(pdftex.def)             Requested size: 370.49881pt x 133.83913pt.
+ [52 <./figs/chapter_detector/ATLAS_FCal_Nch_XeXe544.png> <./figs/chapter_detec
+tor/ATLAS_centrality_XeXe544.png>]
+<figs/chapter_detector/ATLAS_centrality_XePb.png, id=2369, 657.45625pt x 462.72
+874pt>
+File: figs/chapter_detector/ATLAS_centrality_XePb.png Graphic file (type png)
+ <use figs/chapter_detector/ATLAS_centrality_XePb.png>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_centrality_XePb.png used o
+n input line 403.
+(pdftex.def)             Requested size: 234.00238pt x 164.68996pt.
+
+<figs/chapter_detector/ATLAS_track_eff_XeXe544.png, id=2372, 916.42375pt x 442.
+65375pt>
+File: figs/chapter_detector/ATLAS_track_eff_XeXe544.png Graphic file (type png)
+
+ <use figs/chapter_detector/ATLAS_track_eff_XeXe544.png>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_track_eff_XeXe544.png used
+ on input line 416.
+(pdftex.def)             Requested size: 370.49881pt x 178.95631pt.
+ [53 <./figs/chapter_detector/ATLAS_centrality_XePb.png>]
+<figs/chapter_detector/ATLAS_track_fake_XeXe544.png, id=2379, 913.4125pt x 443.
+6575pt>
+File: figs/chapter_detector/ATLAS_track_fake_XeXe544.png Graphic file (type png
+)
+ <use figs/chapter_detector/ATLAS_track_fake_XeXe544.png>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_track_fake_XeXe544.png use
+d on input line 423.
+(pdftex.def)             Requested size: 370.49881pt x 179.95108pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 430.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 430.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 430.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@ifnextchar' on input line 430.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 430.
+
+[54 <./figs/chapter_detector/ATLAS_track_eff_XeXe544.png> <./figs/chapter_detec
+tor/ATLAS_track_fake_XeXe544.png>]
+<figs/chapter_detector/ATLAS_trigger_pPb2013.png, id=2387, 951.555pt x 433.62pt
+>
+File: figs/chapter_detector/ATLAS_trigger_pPb2013.png Graphic file (type png)
+ <use figs/chapter_detector/ATLAS_trigger_pPb2013.png>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_trigger_pPb2013.png used o
+n input line 453.
+(pdftex.def)             Requested size: 370.49881pt x 168.83322pt.
+ [55 <./figs/chapter_detector/ATLAS_trigger_pPb2013.png>]
+<figs/chapter_detector/ATLAS_trigger_pPb2016.png, id=2396, 952.55875pt x 436.63
+126pt>
+File: figs/chapter_detector/ATLAS_trigger_pPb2016.png Graphic file (type png)
+ <use figs/chapter_detector/ATLAS_trigger_pPb2016.png>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_trigger_pPb2016.png used o
+n input line 475.
+(pdftex.def)             Requested size: 370.49881pt x 169.83246pt.
+ [56 <./figs/chapter_detector/ATLAS_trigger_pPb2016.png>] [57]
+<figs/chapter_detector/ATLAS_track_eff_pPb.png, id=2409, 1357.07pt x 716.6775pt
+>
+File: figs/chapter_detector/ATLAS_track_eff_pPb.png Graphic file (type png)
+ <use figs/chapter_detector/ATLAS_track_eff_pPb.png>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_track_eff_pPb.png used on 
+input line 523.
+(pdftex.def)             Requested size: 370.49881pt x 195.65982pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 530.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 530.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 530.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@ifnextchar' on input line 530.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 530.
+
+[58 <./figs/chapter_detector/ATLAS_track_eff_pPb.png>]
+<figs/chapter_detector/ATLAS_trigger_pp13.png, id=2417, 951.555pt x 436.63126pt
+>
+File: figs/chapter_detector/ATLAS_trigger_pp13.png Graphic file (type png)
+ <use figs/chapter_detector/ATLAS_trigger_pp13.png>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_trigger_pp13.png used on i
+nput line 555.
+(pdftex.def)             Requested size: 370.49881pt x 170.00568pt.
+ [59] [60 <./figs/chapter_detector/ATLAS_trigger_pp13.png>]
+<figs/chapter_detector/ATLAS_track_eff_pp13.png, id=2433, 788.9475pt x 747.7937
+5pt>
+File: figs/chapter_detector/ATLAS_track_eff_pp13.png Graphic file (type png)
+ <use figs/chapter_detector/ATLAS_track_eff_pp13.png>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_track_eff_pp13.png used on
+ input line 591.
+(pdftex.def)             Requested size: 370.49881pt x 351.16644pt.
+ [61]
+<figs/chapter_detector/ATLAS_track_fake_pp13.png, id=2440, 783.92876pt x 747.79
+375pt>
+File: figs/chapter_detector/ATLAS_track_fake_pp13.png Graphic file (type png)
+ <use figs/chapter_detector/ATLAS_track_fake_pp13.png>
+Package pdftex.def Info: figs/chapter_detector/ATLAS_track_fake_pp13.png used o
+n input line 599.
+(pdftex.def)             Requested size: 370.49881pt x 353.42569pt.
+ [62 <./figs/chapter_detector/ATLAS_track_eff_pp13.png>]) [63 <./figs/chapter_d
+etector/ATLAS_track_fake_pp13.png>] (./chapter_fbcorr.tex
+Overfull \hbox (12.57779pt too wide) in paragraph at lines 1--1
+ |[]\OT1/cmr/bx/n/17.28 Forward-Backward Mul-ti-plic-ity Cor-re-la-tions| 
+ []
+
+[64] <figs/chapter_fbcorr/cartoon_fb.pdf, id=2497, 250.9375pt x 161.60374pt>
+File: figs/chapter_fbcorr/cartoon_fb.pdf Graphic file (type pdf)
+
+<use figs/chapter_fbcorr/cartoon_fb.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/cartoon_fb.pdf used on input line 
+24.
+(pdftex.def)             Requested size: 292.5pt x 188.39256pt.
+ [65 <./figs/chapter_fbcorr/cartoon_fb.pdf>] <figs/chapter_fbcorr/star_fb.pdf, 
+id=2533, 418.62645pt x 422.02196pt>
+File: figs/chapter_fbcorr/star_fb.pdf Graphic file (type pdf)
+
+<use figs/chapter_fbcorr/star_fb.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/star_fb.pdf used on input line 45.
+
+(pdftex.def)             Requested size: 272.99881pt x 275.21255pt.
+ [66] [67 <./figs/chapter_fbcorr/star_fb.pdf>]
+Overfull \hbox (6.34357pt too wide) in paragraph at lines 57--58
+\OT1/cmr/m/n/12 mul-ti-plic-ity cor-re-la-tion stud-ies are ex-tended by de-com
+-pos-ing $\OML/cmm/m/it/12 N\OMX/MnSymbolE/m/n/12 à\OML/cmm/m/it/12 ^^Q\OMX/MnS
+ymbolE/m/n/12 ç$ \OT1/cmr/m/n/12 into Cheby-
+ []
+
+[68]
+Overfull \hbox (9.68588pt too wide) in paragraph at lines 100--101
+[] []$\OML/cmm/m/it/12 ^^Q[]$ \OT1/cmr/m/n/12 and $\OML/cmm/m/it/12 ^^Q[]$ \OT1
+/cmr/m/n/12 are not nec-es-sar-ily sym-met-ric about zero, which makes $\OML/cm
+m/m/it/12 C\OMX/MnSymbolE/m/n/12 à\OML/cmm/m/it/12 ^^Q[]; ^^Q[]\OMX/MnSymbolE/m
+/n/12 ç$
+ []
+
+[69]
+<figs/chapter_fbcorr/Legendre_base_2D.pdf, id=2596, 375.97774pt x 178.12762pt>
+File: figs/chapter_fbcorr/Legendre_base_2D.pdf Graphic file (type pdf)
+
+<use figs/chapter_fbcorr/Legendre_base_2D.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/Legendre_base_2D.pdf used on input
+ line 112.
+(pdftex.def)             Requested size: 370.49881pt x 175.53418pt.
+ [70 <./figs/chapter_fbcorr/Legendre_base_2D.pdf, page is rotated 90 degrees>] 
+[71] [72]
+<figs/chapter_fbcorr/ATLAS_SRCremoval_PbPb.pdf, id=2646, 569.12625pt x 371.3875
+pt>
+File: figs/chapter_fbcorr/ATLAS_SRCremoval_PbPb.pdf Graphic file (type pdf)
+ <use figs/chapter_fbcorr/ATLAS_SRCremoval_PbPb.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/ATLAS_SRCremoval_PbPb.pdf used on 
+input line 184.
+(pdftex.def)             Requested size: 370.49881pt x 241.78435pt.
+ [73]
+<figs/chapter_fbcorr/ATLAS_SRCremoval_pPb.pdf, id=2655, 569.12625pt x 371.3875p
+t>
+File: figs/chapter_fbcorr/ATLAS_SRCremoval_pPb.pdf Graphic file (type pdf)
+ <use figs/chapter_fbcorr/ATLAS_SRCremoval_pPb.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/ATLAS_SRCremoval_pPb.pdf used on i
+nput line 193.
+(pdftex.def)             Requested size: 370.49881pt x 241.78435pt.
+ [74 <./figs/chapter_fbcorr/ATLAS_SRCremoval_PbPb.pdf, page is rotated 90 degre
+es>]
+<figs/chapter_fbcorr/ATLAS_SRCremoval_sysComp.pdf, id=2709, 569.12625pt x 410.5
+3375pt>
+File: figs/chapter_fbcorr/ATLAS_SRCremoval_sysComp.pdf Graphic file (type pdf)
+ <use figs/chapter_fbcorr/ATLAS_SRCremoval_sysComp.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/ATLAS_SRCremoval_sysComp.pdf used 
+on input line 202.
+(pdftex.def)             Requested size: 185.25238pt x 133.6286pt.
+
+<figs/chapter_fbcorr/ATLAS_SRCremoval_modelComp.pdf, id=2710, 569.12625pt x 350
+.30875pt>
+File: figs/chapter_fbcorr/ATLAS_SRCremoval_modelComp.pdf Graphic file (type pdf
+)
+ <use figs/chapter_fbcorr/ATLAS_SRCremoval_modelComp.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/ATLAS_SRCremoval_modelComp.pdf use
+d on input line 203.
+(pdftex.def)             Requested size: 185.25238pt x 114.02538pt.
+ [75 <./figs/chapter_fbcorr/ATLAS_SRCremoval_pPb.pdf, page is rotated 90 degree
+s>]
+Overfull \hbox (21.42297pt too wide) in paragraph at lines 223--224
+\OML/cmm/m/it/12 C[]\OMX/MnSymbolE/m/n/12 à\OML/cmm/m/it/12 ^^Q[]; ^^Q[]\OMX/Mn
+SymbolE/m/n/12 ç$ \OT1/cmr/m/n/12 dis-tri-bu-tions for same-charge pairs are pr
+o-jec-tion into one-dimensional
+ []
+
+[76 <./figs/chapter_fbcorr/ATLAS_SRCremoval_sysComp.pdf, page is rotated 90 deg
+rees> <./figs/chapter_fbcorr/ATLAS_SRCremoval_modelComp.pdf, page is rotated 90
+ degrees>]
+<figs/chapter_fbcorr/ATLAS_SRCremoval_fit.pdf, id=2852, 722.7pt x 346.89601pt>
+File: figs/chapter_fbcorr/ATLAS_SRCremoval_fit.pdf Graphic file (type pdf)
+
+<use figs/chapter_fbcorr/ATLAS_SRCremoval_fit.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/ATLAS_SRCremoval_fit.pdf used on i
+nput line 227.
+(pdftex.def)             Requested size: 370.49881pt x 177.84093pt.
+ [77 <./figs/chapter_fbcorr/ATLAS_SRCremoval_fit.pdf>] [78] [79] [80]
+<figs/chapter_fbcorr/Model_an.pdf, id=2977, 569.12625pt x 179.67125pt>
+File: figs/chapter_fbcorr/Model_an.pdf Graphic file (type pdf)
+
+<use figs/chapter_fbcorr/Model_an.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/Model_an.pdf used on input line 31
+4.
+(pdftex.def)             Requested size: 370.49881pt x 116.97133pt.
+ [81 <./figs/chapter_fbcorr/Model_an.pdf, page is rotated 90 degrees>]
+<figs/chapter_fbcorr/Model_an_Anpart.pdf, id=3029, 569.12625pt x 172.645pt>
+File: figs/chapter_fbcorr/Model_an_Anpart.pdf Graphic file (type pdf)
+
+<use figs/chapter_fbcorr/Model_an_Anpart.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/Model_an_Anpart.pdf used on input 
+line 327.
+(pdftex.def)             Requested size: 370.49881pt x 112.39703pt.
+ [82 <./figs/chapter_fbcorr/Model_an_Anpart.pdf, page is rotated 90 degrees>]
+<figs/chapter_fbcorr/Model_an_Anpart_comp.pdf, id=3082, 569.12625pt x 268.00125
+pt>
+File: figs/chapter_fbcorr/Model_an_Anpart_comp.pdf Graphic file (type pdf)
+ <use figs/chapter_fbcorr/Model_an_Anpart_comp.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/Model_an_Anpart_comp.pdf used on i
+nput line 340.
+(pdftex.def)             Requested size: 370.49881pt x 174.4768pt.
+
+<figs/chapter_fbcorr/Model_an_cent.pdf, id=3085, 569.12625pt x 179.67125pt>
+File: figs/chapter_fbcorr/Model_an_cent.pdf Graphic file (type pdf)
+
+<use figs/chapter_fbcorr/Model_an_cent.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/Model_an_cent.pdf used on input li
+ne 349.
+(pdftex.def)             Requested size: 370.49881pt x 116.97133pt.
+ [83 <./figs/chapter_fbcorr/Model_an_Anpart_comp.pdf, page is rotated 90 degree
+s>]
+<figs/chapter_fbcorr/Model_eg_cent.pdf, id=3137, 569.12625pt x 207.77625pt>
+File: figs/chapter_fbcorr/Model_eg_cent.pdf Graphic file (type pdf)
+
+<use figs/chapter_fbcorr/Model_eg_cent.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/Model_eg_cent.pdf used on input li
+ne 358.
+(pdftex.def)             Requested size: 370.49881pt x 135.26854pt.
+ [84 <./figs/chapter_fbcorr/Model_an_cent.pdf, page is rotated 90 degrees> <./f
+igs/chapter_fbcorr/Model_eg_cent.pdf>]
+<figs/chapter_fbcorr/Model_ALICE_neutron.pdf, id=3201, 522.75299pt x 233.19121p
+t>
+File: figs/chapter_fbcorr/Model_ALICE_neutron.pdf Graphic file (type pdf)
+ <use figs/chapter_fbcorr/Model_ALICE_neutron.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/Model_ALICE_neutron.pdf used on in
+put line 377.
+(pdftex.def)             Requested size: 370.49881pt x 165.27158pt.
+ [85]
+<figs/chapter_fbcorr/Model_neutron_fit.pdf, id=3211, 569.12625pt x 207.77625pt>
+File: figs/chapter_fbcorr/Model_neutron_fit.pdf Graphic file (type pdf)
+<use figs/chapter_fbcorr/Model_neutron_fit.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/Model_neutron_fit.pdf used on inpu
+t line 386.
+(pdftex.def)             Requested size: 370.49881pt x 135.26854pt.
+ [86 <./figs/chapter_fbcorr/Model_ALICE_neutron.pdf> <./figs/chapter_fbcorr/Mod
+el_neutron_fit.pdf, page is rotated 90 degrees>]
+<figs/chapter_fbcorr/Model_1pc_2pc_comp.pdf, id=3272, 569.12625pt x 265.99374pt
+>
+File: figs/chapter_fbcorr/Model_1pc_2pc_comp.pdf Graphic file (type pdf)
+ <use figs/chapter_fbcorr/Model_1pc_2pc_comp.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/Model_1pc_2pc_comp.pdf used on inp
+ut line 399.
+(pdftex.def)             Requested size: 370.49881pt x 173.16988pt.
+
+Overfull \hbox (25.59218pt too wide) detected at line 407
+[]\OML/cmm/m/it/12 C\OMX/MnSymbolE/m/n/12 à\OML/cmm/m/it/12 ^^Q[]; ^^Q[]\OMX/Mn
+SymbolE/m/n/12 ç \U/MnSymbolD/m/n/12 ^^@ \OT1/cmr/m/n/12 1 \U/MnSymbolC/m/n/12 
+^^T [] [] ^^T [] [] [] \OMX/MnSymbolE/m/n/12 ^^@\OML/cmm/m/it/12 T[]\OMX/MnSymb
+olE/m/n/12 à\OML/cmm/m/it/12 ^^Q\OT1/cmr/m/n/12 1\OMX/MnSymbolE/m/n/12 ç \U/MnS
+ymbolC/m/n/12 ^^T \OML/cmm/m/it/12 T[]\OMX/MnSymbolE/m/n/12 à\OML/cmm/m/it/12 ^
+^Q[]\OMX/MnSymbolE/m/n/12 ç^^E \U/MnSymbolC/m/n/12 ^^T [] [] \OML/cmm/m/it/12 T
+[]\OMX/MnSymbolE/m/n/12 à\OML/cmm/m/it/12 ^^Q[]\OMX/MnSymbolE/m/n/12 ç\OML/cmm/
+m/it/12 T[]\OMX/MnSymbolE/m/n/12 à\OML/cmm/m/it/12 ^^Q[]\OMX/MnSymbolE/m/n/12 ç
+\OML/cmm/m/it/12 :
+ []
+
+[87 <./figs/chapter_fbcorr/Model_1pc_2pc_comp.pdf, page is rotated 90 degrees>]
+<figs/chapter_fbcorr/Model_corr_SPM.pdf, id=3324, 569.12625pt x 159.59625pt>
+File: figs/chapter_fbcorr/Model_corr_SPM.pdf Graphic file (type pdf)
+
+<use figs/chapter_fbcorr/Model_corr_SPM.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/Model_corr_SPM.pdf used on input l
+ine 425.
+(pdftex.def)             Requested size: 370.49881pt x 103.90192pt.
+ [88]
+<figs/chapter_fbcorr/Model_corr_modelComp.pdf, id=3333, 569.12625pt x 265.99374
+pt>
+File: figs/chapter_fbcorr/Model_corr_modelComp.pdf Graphic file (type pdf)
+ <use figs/chapter_fbcorr/Model_corr_modelComp.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/Model_corr_modelComp.pdf used on i
+nput line 434.
+(pdftex.def)             Requested size: 370.49881pt x 173.16988pt.
+ [89 <./figs/chapter_fbcorr/Model_corr_SPM.pdf, page is rotated 90 degrees> <./
+figs/chapter_fbcorr/Model_corr_modelComp.pdf, page is rotated 90 degrees>]
+<figs/chapter_fbcorr/ATLAS_corr_2D.pdf, id=3426, 569.12625pt x 439.6425pt>
+File: figs/chapter_fbcorr/ATLAS_corr_2D.pdf Graphic file (type pdf)
+
+<use figs/chapter_fbcorr/ATLAS_corr_2D.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/ATLAS_corr_2D.pdf used on input li
+ne 450.
+(pdftex.def)             Requested size: 370.49881pt x 286.2204pt.
+ [90] [91 <./figs/chapter_fbcorr/ATLAS_corr_2D.pdf, page is rotated 90 degrees>
+]
+<figs/chapter_fbcorr/ATLAS_coef.pdf, id=3481, 722.7pt x 455.30101pt>
+File: figs/chapter_fbcorr/ATLAS_coef.pdf Graphic file (type pdf)
+
+<use figs/chapter_fbcorr/ATLAS_coef.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/ATLAS_coef.pdf used on input line 
+459.
+(pdftex.def)             Requested size: 370.49881pt x 233.41621pt.
+ [92 <./figs/chapter_fbcorr/ATLAS_coef.pdf>]
+<figs/chapter_fbcorr/ATLAS_proj_PbPb.pdf, id=3622, 722.7pt x 368.57701pt>
+File: figs/chapter_fbcorr/ATLAS_proj_PbPb.pdf Graphic file (type pdf)
+
+<use figs/chapter_fbcorr/ATLAS_proj_PbPb.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/ATLAS_proj_PbPb.pdf used on input 
+line 474.
+(pdftex.def)             Requested size: 370.49881pt x 188.95598pt.
+
+<figs/chapter_fbcorr/ATLAS_proj_pPb.pdf, id=3625, 722.7pt x 368.57701pt>
+File: figs/chapter_fbcorr/ATLAS_proj_pPb.pdf Graphic file (type pdf)
+
+<use figs/chapter_fbcorr/ATLAS_proj_pPb.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/ATLAS_proj_pPb.pdf used on input l
+ine 483.
+(pdftex.def)             Requested size: 370.49881pt x 188.95598pt.
+ [93 <./figs/chapter_fbcorr/ATLAS_proj_PbPb.pdf>]
+<figs/chapter_fbcorr/ATLAS_proj_pp.pdf, id=3719, 722.7pt x 368.57701pt>
+File: figs/chapter_fbcorr/ATLAS_proj_pp.pdf Graphic file (type pdf)
+
+<use figs/chapter_fbcorr/ATLAS_proj_pp.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/ATLAS_proj_pp.pdf used on input li
+ne 490.
+(pdftex.def)             Requested size: 370.49881pt x 188.95598pt.
+ [94 <./figs/chapter_fbcorr/ATLAS_proj_pPb.pdf>]
+<figs/chapter_fbcorr/ATLAS_a1_methodComp.pdf, id=3815, 569.12625pt x 172.645pt>
+File: figs/chapter_fbcorr/ATLAS_a1_methodComp.pdf Graphic file (type pdf)
+<use figs/chapter_fbcorr/ATLAS_a1_methodComp.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/ATLAS_a1_methodComp.pdf used on in
+put line 499.
+(pdftex.def)             Requested size: 370.49881pt x 112.39703pt.
+ [95 <./figs/chapter_fbcorr/ATLAS_proj_pp.pdf>]
+<figs/chapter_fbcorr/ATLAS_SRC_charge.pdf, id=3912, 569.12625pt x 172.645pt>
+File: figs/chapter_fbcorr/ATLAS_SRC_charge.pdf Graphic file (type pdf)
+
+<use figs/chapter_fbcorr/ATLAS_SRC_charge.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/ATLAS_SRC_charge.pdf used on input
+ line 512.
+(pdftex.def)             Requested size: 370.49881pt x 112.39703pt.
+ [96 <./figs/chapter_fbcorr/ATLAS_a1_methodComp.pdf, page is rotated 90 degrees
+>] [97 <./figs/chapter_fbcorr/ATLAS_SRC_charge.pdf, page is rotated 90 degrees>
+]
+<figs/chapter_fbcorr/ATLAS_SRC_LRC.pdf, id=4017, 569.12625pt x 222.8325pt>
+File: figs/chapter_fbcorr/ATLAS_SRC_LRC.pdf Graphic file (type pdf)
+
+<use figs/chapter_fbcorr/ATLAS_SRC_LRC.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/ATLAS_SRC_LRC.pdf used on input li
+ne 536.
+(pdftex.def)             Requested size: 370.49881pt x 145.07062pt.
+ [98 <./figs/chapter_fbcorr/ATLAS_SRC_LRC.pdf, page is rotated 90 degrees>]
+<figs/chapter_fbcorr/ATLAS_SRC_shape.pdf, id=4069, 569.12625pt x 172.645pt>
+File: figs/chapter_fbcorr/ATLAS_SRC_shape.pdf Graphic file (type pdf)
+
+<use figs/chapter_fbcorr/ATLAS_SRC_shape.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/ATLAS_SRC_shape.pdf used on input 
+line 563.
+(pdftex.def)             Requested size: 370.49881pt x 112.39703pt.
+ [99] [100 <./figs/chapter_fbcorr/ATLAS_SRC_shape.pdf, page is rotated 90 degre
+es>]
+<figs/chapter_fbcorr/ATLAS_SRC_LRC_modelComp.pdf, id=4129, 569.12625pt x 222.83
+25pt>
+File: figs/chapter_fbcorr/ATLAS_SRC_LRC_modelComp.pdf Graphic file (type pdf)
+ <use figs/chapter_fbcorr/ATLAS_SRC_LRC_modelComp.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/ATLAS_SRC_LRC_modelComp.pdf used o
+n input line 574.
+(pdftex.def)             Requested size: 370.49881pt x 145.07062pt.
+ [101 <./figs/chapter_fbcorr/ATLAS_SRC_LRC_modelComp.pdf, page is rotated 90 de
+grees>]
+Overfull \hbox (30.58226pt too wide) in paragraph at lines 589--590
+[]\OT1/cmr/m/n/12 After sub-tract-ing out the $\OML/cmm/m/it/12 SRC$ $^^N[]\OMX
+/MnSymbolE/m/n/12 à\OML/cmm/m/it/12 ^^Q[]; ^^Q[]\OMX/MnSymbolE/m/n/12 ç$\OT1/cm
+r/m/n/12 , the cor-re-la-tion func-tion $\OML/cmm/m/it/12 C[]\OMX/MnSymbolE/m/n
+/12 à\OML/cmm/m/it/12 ^^Q[]; ^^Q[]\OMX/MnSymbolE/m/n/12 ç$
+ []
+
+[102] [103]
+<figs/chapter_fbcorr/Model_corr_chargeComp.pdf, id=4189, 569.12625pt x 265.9937
+4pt>
+File: figs/chapter_fbcorr/Model_corr_chargeComp.pdf Graphic file (type pdf)
+ <use figs/chapter_fbcorr/Model_corr_chargeComp.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/Model_corr_chargeComp.pdf used on 
+input line 616.
+(pdftex.def)             Requested size: 370.49881pt x 173.16988pt.
+ [104 <./figs/chapter_fbcorr/Model_corr_chargeComp.pdf, page is rotated 90 degr
+ees>]
+<figs/chapter_fbcorr/ATLAS_a1_run4.pdf, id=4253, 569.12625pt x 534.99875pt>
+File: figs/chapter_fbcorr/ATLAS_a1_run4.pdf Graphic file (type pdf)
+
+<use figs/chapter_fbcorr/ATLAS_a1_run4.pdf>
+Package pdftex.def Info: figs/chapter_fbcorr/ATLAS_a1_run4.pdf used on input li
+ne 649.
+(pdftex.def)             Requested size: 272.99881pt x 256.64137pt.
+ [105]) [106 <./figs/chapter_fbcorr/ATLAS_a1_run4.pdf, page is rotated 90 degre
+es>] (./chapter_subcumu.tex
+<figs/chapter_subcumu/2pc.pdf, id=4310, 867.24pt x 289.08pt>
+File: figs/chapter_subcumu/2pc.pdf Graphic file (type pdf)
+
+<use figs/chapter_subcumu/2pc.pdf>
+Package pdftex.def Info: figs/chapter_subcumu/2pc.pdf used on input line 24.
+(pdftex.def)             Requested size: 370.49881pt x 123.49916pt.
+ [107] [108 <./figs/chapter_subcumu/2pc.pdf>] <figs/chapter_subcumu/Glauber_v3.
+pdf, id=4380, 569.12625pt x 426.59375pt>
+File: figs/chapter_subcumu/Glauber_v3.pdf Graphic file (type pdf)
+
+<use figs/chapter_subcumu/Glauber_v3.pdf>
+Package pdftex.def Info: figs/chapter_subcumu/Glauber_v3.pdf used on input line
+ 44.
+(pdftex.def)             Requested size: 195.0pt x 146.16606pt.
+ [109 <./figs/chapter_subcumu/Glauber_v3.pdf>]
+<figs/chapter_subcumu/ebye_vn.pdf, id=4407, 569.12625pt x 217.81375pt>
+File: figs/chapter_subcumu/ebye_vn.pdf Graphic file (type pdf)
+
+<use figs/chapter_subcumu/ebye_vn.pdf>
+Package pdftex.def Info: figs/chapter_subcumu/ebye_vn.pdf used on input line 61
+.
+(pdftex.def)             Requested size: 370.49881pt x 141.80325pt.
+ [110 <./figs/chapter_subcumu/ebye_vn.pdf>] [111] [112]
+<figs/chapter_subcumu/adam_pythia.pdf, id=4456, 569.12625pt x 385.44pt>
+File: figs/chapter_subcumu/adam_pythia.pdf Graphic file (type pdf)
+
+<use figs/chapter_subcumu/adam_pythia.pdf>
+Package pdftex.def Info: figs/chapter_subcumu/adam_pythia.pdf used on input lin
+e 125.
+(pdftex.def)             Requested size: 185.25238pt x 125.46059pt.
+
+<figs/chapter_subcumu/adam_cms.pdf, id=4457, 569.12625pt x 385.44pt>
+File: figs/chapter_subcumu/adam_cms.pdf Graphic file (type pdf)
+
+<use figs/chapter_subcumu/adam_cms.pdf>
+Package pdftex.def Info: figs/chapter_subcumu/adam_cms.pdf used on input line 1
+26.
+(pdftex.def)             Requested size: 185.25238pt x 125.46059pt.
+ [113 <./figs/chapter_subcumu/adam_pythia.pdf, page is rotated 90 degrees> <./f
+igs/chapter_subcumu/adam_cms.pdf, page is rotated 90 degrees>]
+<figs/chapter_subcumu/dijet_cartoon2.png, id=4555, 1778.14313pt x 684.30656pt>
+File: figs/chapter_subcumu/dijet_cartoon2.png Graphic file (type png)
+
+<use figs/chapter_subcumu/dijet_cartoon2.png>
+Package pdftex.def Info: figs/chapter_subcumu/dijet_cartoon2.png used on input 
+line 147.
+(pdftex.def)             Requested size: 370.49881pt x 142.58092pt.
+ [114 <./figs/chapter_subcumu/dijet_cartoon2.png>] [115]
+Overfull \hbox (24.15602pt too wide) in paragraph at lines 207--208
+[]\OT1/cmr/m/n/12 In a typ-i-cal az-imuthal cor-re-la-tion anal-y-sis, multi-pa
+rticle cor-re-la-tors $\OML/cmm/m/it/12 corr[]\OMX/MnSymbolE/m/n/12 ò\OT1/cmr/m
+/n/12 2\OML/cmm/m/it/12 k\OMX/MnSymbolE/m/n/12 ù$
+ []
+
+[116]
+<figs/chapter_subcumu/PYTHIA_c24_pT0_std_X2.pdf, id=4586, 269.17473pt x 173.448
+pt>
+File: figs/chapter_subcumu/PYTHIA_c24_pT0_std_X2.pdf Graphic file (type pdf)
+ <use figs/chapter_subcumu/PYTHIA_c24_pT0_std_X2.pdf>
+Package pdftex.def Info: figs/chapter_subcumu/PYTHIA_c24_pT0_std_X2.pdf used on
+ input line 227.
+(pdftex.def)             Requested size: 185.25238pt x 119.36958pt.
+
+<figs/chapter_subcumu/PYTHIA_c24_pT0_sub_X2.pdf, id=4587, 267.3438pt x 173.9229
+7pt>
+File: figs/chapter_subcumu/PYTHIA_c24_pT0_sub_X2.pdf Graphic file (type pdf)
+ <use figs/chapter_subcumu/PYTHIA_c24_pT0_sub_X2.pdf>
+Package pdftex.def Info: figs/chapter_subcumu/PYTHIA_c24_pT0_sub_X2.pdf used on
+ input line 228.
+(pdftex.def)             Requested size: 185.25238pt x 120.5218pt.
+ [117]
+<figs/chapter_subcumu/PYTHIA_c24.pdf, id=4594, 549.25201pt x 173.448pt>
+File: figs/chapter_subcumu/PYTHIA_c24.pdf Graphic file (type pdf)
+
+<use figs/chapter_subcumu/PYTHIA_c24.pdf>
+Package pdftex.def Info: figs/chapter_subcumu/PYTHIA_c24.pdf used on input line
+ 241.
+(pdftex.def)             Requested size: 370.49881pt x 116.99823pt.
+ [118 <./figs/chapter_subcumu/PYTHIA_c24_pT0_std_X2.pdf> <./figs/chapter_subcum
+u/PYTHIA_c24_pT0_sub_X2.pdf> <./figs/chapter_subcumu/PYTHIA_c24.pdf>]
+<figs/chapter_subcumu/PYTHIA_c24_ab.pdf, id=4766, 549.25201pt x 173.448pt>
+File: figs/chapter_subcumu/PYTHIA_c24_ab.pdf Graphic file (type pdf)
+
+<use figs/chapter_subcumu/PYTHIA_c24_ab.pdf>
+Package pdftex.def Info: figs/chapter_subcumu/PYTHIA_c24_ab.pdf used on input l
+ine 250.
+(pdftex.def)             Requested size: 370.49881pt x 116.99823pt.
+ [119 <./figs/chapter_subcumu/PYTHIA_c24_ab.pdf>]
+<figs/chapter_subcumu/PYTHIA_c24_binWidth.pdf, id=4865, 569.12625pt x 355.3275p
+t>
+File: figs/chapter_subcumu/PYTHIA_c24_binWidth.pdf Graphic file (type pdf)
+ <use figs/chapter_subcumu/PYTHIA_c24_binWidth.pdf>
+Package pdftex.def Info: figs/chapter_subcumu/PYTHIA_c24_binWidth.pdf used on i
+nput line 263.
+(pdftex.def)             Requested size: 234.00238pt x 146.09726pt.
+
+Overfull \hbox (3.61676pt too wide) in paragraph at lines 279--280
+[]\OT1/cmr/m/n/12 Right panel of Fig-ure [][]79[][] shows the re-sults from the
+ three-subevent method.
+ []
+
+[120 <./figs/chapter_subcumu/PYTHIA_c24_binWidth.pdf, page is rotated 90 degree
+s>]
+<figs/chapter_subcumu/ATLAS_c24_pT0_std_X2.pdf, id=4920, 569.12625pt x 355.3275
+pt>
+File: figs/chapter_subcumu/ATLAS_c24_pT0_std_X2.pdf Graphic file (type pdf)
+ <use figs/chapter_subcumu/ATLAS_c24_pT0_std_X2.pdf>
+Package pdftex.def Info: figs/chapter_subcumu/ATLAS_c24_pT0_std_X2.pdf used on 
+input line 285.
+(pdftex.def)             Requested size: 185.25238pt x 115.65898pt.
+
+<figs/chapter_subcumu/ATLAS_c24_pT0_sub_X2.pdf, id=4921, 569.12625pt x 355.3275
+pt>
+File: figs/chapter_subcumu/ATLAS_c24_pT0_sub_X2.pdf Graphic file (type pdf)
+ <use figs/chapter_subcumu/ATLAS_c24_pT0_sub_X2.pdf>
+Package pdftex.def Info: figs/chapter_subcumu/ATLAS_c24_pT0_sub_X2.pdf used on 
+input line 286.
+(pdftex.def)             Requested size: 185.25238pt x 115.65898pt.
+ [121 <./figs/chapter_subcumu/ATLAS_c24_pT0_std_X2.pdf, page is rotated 90 degr
+ees> <./figs/chapter_subcumu/ATLAS_c24_pT0_sub_X2.pdf, page is rotated 90 degre
+es>]
+<figs/chapter_subcumu/ATLAS_c24_pp13_pT0.pdf, id=5016, 569.12625pt x 355.3275pt
+>
+File: figs/chapter_subcumu/ATLAS_c24_pp13_pT0.pdf Graphic file (type pdf)
+ <use figs/chapter_subcumu/ATLAS_c24_pp13_pT0.pdf>
+Package pdftex.def Info: figs/chapter_subcumu/ATLAS_c24_pp13_pT0.pdf used on in
+put line 300.
+(pdftex.def)             Requested size: 185.25238pt x 115.65898pt.
+
+<figs/chapter_subcumu/ATLAS_c24_pp13_pT1.pdf, id=5017, 569.12625pt x 355.3275pt
+>
+File: figs/chapter_subcumu/ATLAS_c24_pp13_pT1.pdf Graphic file (type pdf)
+ <use figs/chapter_subcumu/ATLAS_c24_pp13_pT1.pdf>
+Package pdftex.def Info: figs/chapter_subcumu/ATLAS_c24_pp13_pT1.pdf used on in
+put line 301.
+(pdftex.def)             Requested size: 185.25238pt x 115.65898pt.
+
+<figs/chapter_subcumu/ATLAS_c24_pp5_pT0.pdf, id=5018, 569.12625pt x 355.3275pt>
+File: figs/chapter_subcumu/ATLAS_c24_pp5_pT0.pdf Graphic file (type pdf)
+<use figs/chapter_subcumu/ATLAS_c24_pp5_pT0.pdf>
+Package pdftex.def Info: figs/chapter_subcumu/ATLAS_c24_pp5_pT0.pdf used on inp
+ut line 308.
+(pdftex.def)             Requested size: 185.25238pt x 115.65898pt.
+
+<figs/chapter_subcumu/ATLAS_c24_pp5_pT1.pdf, id=5019, 569.12625pt x 355.3275pt>
+File: figs/chapter_subcumu/ATLAS_c24_pp5_pT1.pdf Graphic file (type pdf)
+<use figs/chapter_subcumu/ATLAS_c24_pp5_pT1.pdf>
+Package pdftex.def Info: figs/chapter_subcumu/ATLAS_c24_pp5_pT1.pdf used on inp
+ut line 309.
+(pdftex.def)             Requested size: 185.25238pt x 115.65898pt.
+ [122 <./figs/chapter_subcumu/ATLAS_c24_pp13_pT0.pdf, page is rotated 90 degree
+s> <./figs/chapter_subcumu/ATLAS_c24_pp13_pT1.pdf, page is rotated 90 degrees>]
+
+<figs/chapter_subcumu/ATLAS_c24_pPb5_pT0.pdf, id=5111, 569.12625pt x 355.3275pt
+>
+File: figs/chapter_subcumu/ATLAS_c24_pPb5_pT0.pdf Graphic file (type pdf)
+ <use figs/chapter_subcumu/ATLAS_c24_pPb5_pT0.pdf>
+Package pdftex.def Info: figs/chapter_subcumu/ATLAS_c24_pPb5_pT0.pdf used on in
+put line 316.
+(pdftex.def)             Requested size: 185.25238pt x 115.65898pt.
+
+<figs/chapter_subcumu/ATLAS_c24_pPb5_pT1.pdf, id=5112, 569.12625pt x 355.3275pt
+>
+File: figs/chapter_subcumu/ATLAS_c24_pPb5_pT1.pdf Graphic file (type pdf)
+ <use figs/chapter_subcumu/ATLAS_c24_pPb5_pT1.pdf>
+Package pdftex.def Info: figs/chapter_subcumu/ATLAS_c24_pPb5_pT1.pdf used on in
+put line 317.
+(pdftex.def)             Requested size: 185.25238pt x 115.65898pt.
+ [123 <./figs/chapter_subcumu/ATLAS_c24_pp5_pT0.pdf, page is rotated 90 degrees
+> <./figs/chapter_subcumu/ATLAS_c24_pp5_pT1.pdf, page is rotated 90 degrees> <.
+/figs/chapter_subcumu/ATLAS_c24_pPb5_pT0.pdf, page is rotated 90 degrees> <./fi
+gs/chapter_subcumu/ATLAS_c24_pPb5_pT1.pdf, page is rotated 90 degrees>]
+<figs/chapter_subcumu/ATLAS_c34_pPb5_pT0.pdf, id=5291, 569.12625pt x 426.59375p
+t>
+File: figs/chapter_subcumu/ATLAS_c34_pPb5_pT0.pdf Graphic file (type pdf)
+ <use figs/chapter_subcumu/ATLAS_c34_pPb5_pT0.pdf>
+Package pdftex.def Info: figs/chapter_subcumu/ATLAS_c34_pPb5_pT0.pdf used on in
+put line 326.
+(pdftex.def)             Requested size: 185.25238pt x 138.85612pt.
+
+<figs/chapter_subcumu/ATLAS_c34_pPb5_pT1.pdf, id=5292, 569.12625pt x 426.59375p
+t>
+File: figs/chapter_subcumu/ATLAS_c34_pPb5_pT1.pdf Graphic file (type pdf)
+ <use figs/chapter_subcumu/ATLAS_c34_pPb5_pT1.pdf>
+Package pdftex.def Info: figs/chapter_subcumu/ATLAS_c34_pPb5_pT1.pdf used on in
+put line 327.
+(pdftex.def)             Requested size: 185.25238pt x 138.85612pt.
+ [124 <./figs/chapter_subcumu/ATLAS_c34_pPb5_pT0.pdf, page is rotated 90 degree
+s> <./figs/chapter_subcumu/ATLAS_c34_pPb5_pT1.pdf, page is rotated 90 degrees>]
+
+<figs/chapter_subcumu/ATLAS_v24_pT0.pdf, id=5393, 569.12625pt x 176.66pt>
+File: figs/chapter_subcumu/ATLAS_v24_pT0.pdf Graphic file (type pdf)
+
+<use figs/chapter_subcumu/ATLAS_v24_pT0.pdf>
+Package pdftex.def Info: figs/chapter_subcumu/ATLAS_v24_pT0.pdf used on input l
+ine 342.
+(pdftex.def)             Requested size: 370.49881pt x 115.01093pt.
+
+<figs/chapter_subcumu/ATLAS_v24_pT1.pdf, id=5398, 569.12625pt x 176.66pt>
+File: figs/chapter_subcumu/ATLAS_v24_pT1.pdf Graphic file (type pdf)
+
+<use figs/chapter_subcumu/ATLAS_v24_pT1.pdf>
+Package pdftex.def Info: figs/chapter_subcumu/ATLAS_v24_pT1.pdf used on input l
+ine 349.
+(pdftex.def)             Requested size: 370.49881pt x 115.01093pt.
+ [125 <./figs/chapter_subcumu/ATLAS_v24_pT0.pdf, page is rotated 90 degrees>]
+<figs/chapter_subcumu/ATLAS_Ns_pT0.pdf, id=5457, 569.12625pt x 426.59375pt>
+File: figs/chapter_subcumu/ATLAS_Ns_pT0.pdf Graphic file (type pdf)
+
+<use figs/chapter_subcumu/ATLAS_Ns_pT0.pdf>
+Package pdftex.def Info: figs/chapter_subcumu/ATLAS_Ns_pT0.pdf used on input li
+ne 370.
+(pdftex.def)             Requested size: 185.25238pt x 138.85612pt.
+
+<figs/chapter_subcumu/ATLAS_Ns_pT1.pdf, id=5458, 569.12625pt x 426.59375pt>
+File: figs/chapter_subcumu/ATLAS_Ns_pT1.pdf Graphic file (type pdf)
+
+<use figs/chapter_subcumu/ATLAS_Ns_pT1.pdf>
+Package pdftex.def Info: figs/chapter_subcumu/ATLAS_Ns_pT1.pdf used on input li
+ne 371.
+(pdftex.def)             Requested size: 185.25238pt x 138.85612pt.
+ [126 <./figs/chapter_subcumu/ATLAS_v24_pT1.pdf, page is rotated 90 degrees>] [
+127 <./figs/chapter_subcumu/ATLAS_Ns_pT0.pdf, page is rotated 90 degrees> <./fi
+gs/chapter_subcumu/ATLAS_Ns_pT1.pdf, page is rotated 90 degrees>]
+Overfull \hbox (2.83342pt too wide) in paragraph at lines 392--393
+[]\OT1/cmr/m/n/12 Motivated by the dis-cus-sions above, we have de-vel-oped a c
+u-mu-lant method
+ []
+
+[128] [129] [130]
+<figs/chapter_subcumu/ATLAS_c34_pPb_proj.pdf, id=5640, 569.12625pt x 534.99875p
+t>
+File: figs/chapter_subcumu/ATLAS_c34_pPb_proj.pdf Graphic file (type pdf)
+ <use figs/chapter_subcumu/ATLAS_c34_pPb_proj.pdf>
+Package pdftex.def Info: figs/chapter_subcumu/ATLAS_c34_pPb_proj.pdf used on in
+put line 428.
+(pdftex.def)             Requested size: 185.25238pt x 174.14192pt.
+
+<figs/chapter_subcumu/ATLAS_c34_pp_proj1.pdf, id=5641, 569.12625pt x 534.99875p
+t>
+File: figs/chapter_subcumu/ATLAS_c34_pp_proj1.pdf Graphic file (type pdf)
+ <use figs/chapter_subcumu/ATLAS_c34_pp_proj1.pdf>
+Package pdftex.def Info: figs/chapter_subcumu/ATLAS_c34_pp_proj1.pdf used on in
+put line 429.
+(pdftex.def)             Requested size: 185.25238pt x 174.14192pt.
+
+<figs/chapter_subcumu/ATLAS_c34_pp_proj2.pdf, id=5643, 569.12625pt x 534.99875p
+t>
+File: figs/chapter_subcumu/ATLAS_c34_pp_proj2.pdf Graphic file (type pdf)
+ <use figs/chapter_subcumu/ATLAS_c34_pp_proj2.pdf>
+Package pdftex.def Info: figs/chapter_subcumu/ATLAS_c34_pp_proj2.pdf used on in
+put line 438.
+(pdftex.def)             Requested size: 185.25238pt x 174.14192pt.
+ [131 <./figs/chapter_subcumu/ATLAS_c34_pPb_proj.pdf, page is rotated 90 degree
+s> <./figs/chapter_subcumu/ATLAS_c34_pp_proj1.pdf, page is rotated 90 degrees>]
+ [132 <./figs/chapter_subcumu/ATLAS_c34_pp_proj2.pdf, page is rotated 90 degree
+s>]
+<figs/chapter_subcumu/ATLAS_sc23_pp.pdf, id=5793, 722.7pt x 334.91092pt>
+File: figs/chapter_subcumu/ATLAS_sc23_pp.pdf Graphic file (type pdf)
+
+<use figs/chapter_subcumu/ATLAS_sc23_pp.pdf>
+Package pdftex.def Info: figs/chapter_subcumu/ATLAS_sc23_pp.pdf used on input l
+ine 453.
+(pdftex.def)             Requested size: 370.49881pt x 171.69661pt.
+ [133 <./figs/chapter_subcumu/ATLAS_sc23_pp.pdf>]
+<figs/chapter_subcumu/ATLAS_ac24_pp.pdf, id=5857, 722.7pt x 334.36447pt>
+File: figs/chapter_subcumu/ATLAS_ac24_pp.pdf Graphic file (type pdf)
+
+<use figs/chapter_subcumu/ATLAS_ac24_pp.pdf>
+Package pdftex.def Info: figs/chapter_subcumu/ATLAS_ac24_pp.pdf used on input l
+ine 462.
+(pdftex.def)             Requested size: 370.49881pt x 171.41646pt.
+ [134 <./figs/chapter_subcumu/ATLAS_ac24_pp.pdf>]
+<figs/chapter_subcumu/ATLAS_nac24_PbPb_decorr.png, id=5923, 880.28876pt x 696.6
+025pt>
+File: figs/chapter_subcumu/ATLAS_nac24_PbPb_decorr.png Graphic file (type png)
+ <use figs/chapter_subcumu/ATLAS_nac24_PbPb_decorr.png>
+Package pdftex.def Info: figs/chapter_subcumu/ATLAS_nac24_PbPb_decorr.png used 
+on input line 488.
+(pdftex.def)             Requested size: 370.49881pt x 293.18755pt.
+ [135]) [136 <./figs/chapter_subcumu/ATLAS_nac24_PbPb_decorr.png>] (./chapter_c
+entfluc.tex
+[137]
+<figs/chapter_centfluc/STAR_AuAu_centfluc.pdf, id=5961, 614.295pt x 426.54666pt
+>
+File: figs/chapter_centfluc/STAR_AuAu_centfluc.pdf Graphic file (type pdf)
+ <use figs/chapter_centfluc/STAR_AuAu_centfluc.pdf>
+Package pdftex.def Info: figs/chapter_centfluc/STAR_AuAu_centfluc.pdf used on i
+nput line 32.
+(pdftex.def)             Requested size: 234.00238pt x 162.48643pt.
+ [138 <./figs/chapter_centfluc/STAR_AuAu_centfluc.pdf>] [139] [140]
+<figs/chapter_centfluc/cartoon_particle_production.pdf, id=6049, 538.54318pt x 
+222.46632pt>
+File: figs/chapter_centfluc/cartoon_particle_production.pdf Graphic file (type 
+pdf)
+ <use figs/chapter_centfluc/cartoon_particle_production.pdf>
+Package pdftex.def Info: figs/chapter_centfluc/cartoon_particle_production.pdf 
+used on input line 83.
+(pdftex.def)             Requested size: 292.5pt x 120.82928pt.
+
+[141 <./figs/chapter_centfluc/cartoon_particle_production.pdf>]
+Overfull \hbox (4.86856pt too wide) detected at line 109
+[]\OML/cmm/m/it/12 p[]\OMX/MnSymbolE/m/n/12 à\OML/cmm/m/it/12 N\OT1/cmr/m/n/12 
+; \OML/cmm/m/it/12 mN[]; p\OMX/MnSymbolE/m/n/12 ç \U/MnSymbolD/m/n/12 ^^@ \OML/
+cmm/m/it/12 p[]\OMX/MnSymbolE/m/n/12 à\OML/cmm/m/it/12 n[]\OT1/cmr/m/n/12 ; \OM
+L/cmm/m/it/12 m\OMX/MnSymbolE/m/n/12 ~\OML/cmm/m/it/12 k; p\OMX/MnSymbolE/m/n/1
+2 ç \U/MnSymbolC/m/n/12 a \OML/cmm/m/it/12 p[]\OMX/MnSymbolE/m/n/12 à\OML/cmm/m
+/it/12 n[]\OT1/cmr/m/n/12 ; \OML/cmm/m/it/12 m\OMX/MnSymbolE/m/n/12 ~\OML/cmm/m
+/it/12 k; p\OMX/MnSymbolE/m/n/12 ç \U/MnSymbolC/m/n/12 a ^^@ ^^@ ^^@ a \OML/cmm
+/m/it/12 p[]\OMX/MnSymbolE/m/n/12 à\OML/cmm/m/it/12 n[]\OT1/cmr/m/n/12 ; \OML/c
+mm/m/it/12 m\OMX/MnSymbolE/m/n/12 ~\OML/cmm/m/it/12 k; p\OMX/MnSymbolE/m/n/12 ç
+\OML/cmm/m/it/12 ;
+ []
+
+[142] [143]
+<figs/chapter_centfluc/Glauber_Ndis_Nw.pdf, id=6094, 569.12625pt x 347.2975pt>
+File: figs/chapter_centfluc/Glauber_Ndis_Nw.pdf Graphic file (type pdf)
+
+<use figs/chapter_centfluc/Glauber_Ndis_Nw.pdf>
+Package pdftex.def Info: figs/chapter_centfluc/Glauber_Ndis_Nw.pdf used on inpu
+t line 139.
+(pdftex.def)             Requested size: 185.25238pt x 113.04523pt.
+
+<figs/chapter_centfluc/Glauber_Ndis_Nan.pdf, id=6095, 569.12625pt x 347.2975pt>
+File: figs/chapter_centfluc/Glauber_Ndis_Nan.pdf Graphic file (type pdf)
+<use figs/chapter_centfluc/Glauber_Ndis_Nan.pdf>
+Package pdftex.def Info: figs/chapter_centfluc/Glauber_Ndis_Nan.pdf used on inp
+ut line 140.
+(pdftex.def)             Requested size: 185.25238pt x 113.04523pt.
+ [144 <./figs/chapter_centfluc/Glauber_Ndis_Nw.pdf, page is rotated 90 degrees>
+ <./figs/chapter_centfluc/Glauber_Ndis_Nan.pdf, page is rotated 90 degrees>]
+<figs/chapter_centfluc/ATLAS_corr_Et_Nch.png, id=6198, 834.11626pt x 309.155pt>
+File: figs/chapter_centfluc/ATLAS_corr_Et_Nch.png Graphic file (type png)
+<use figs/chapter_centfluc/ATLAS_corr_Et_Nch.png>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_corr_Et_Nch.png used on in
+put line 155.
+(pdftex.def)             Requested size: 370.49881pt x 137.32115pt.
+ [145 <./figs/chapter_centfluc/ATLAS_corr_Et_Nch.png>]
+<figs/chapter_centfluc/ATLAS_dis_Et_Nch.png, id=6211, 748.7975pt x 333.245pt>
+File: figs/chapter_centfluc/ATLAS_dis_Et_Nch.png Graphic file (type png)
+
+<use figs/chapter_centfluc/ATLAS_dis_Et_Nch.png>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_dis_Et_Nch.png used on inp
+ut line 168.
+(pdftex.def)             Requested size: 370.49881pt x 164.88812pt.
+ [146 <./figs/chapter_centfluc/ATLAS_dis_Et_Nch.png>] [147]
+<figs/chapter_centfluc/Glauber_nc2_Nw.pdf, id=6241, 569.12625pt x 172.645pt>
+File: figs/chapter_centfluc/Glauber_nc2_Nw.pdf Graphic file (type pdf)
+
+<use figs/chapter_centfluc/Glauber_nc2_Nw.pdf>
+Package pdftex.def Info: figs/chapter_centfluc/Glauber_nc2_Nw.pdf used on input
+ line 209.
+(pdftex.def)             Requested size: 370.49881pt x 112.39703pt.
+
+<figs/chapter_centfluc/Glauber_nc2_Nan.pdf, id=6242, 569.12625pt x 172.645pt>
+File: figs/chapter_centfluc/Glauber_nc2_Nan.pdf Graphic file (type pdf)
+
+<use figs/chapter_centfluc/Glauber_nc2_Nan.pdf>
+Package pdftex.def Info: figs/chapter_centfluc/Glauber_nc2_Nan.pdf used on inpu
+t line 210.
+(pdftex.def)             Requested size: 370.49881pt x 112.39703pt.
+ [148]
+<figs/chapter_centfluc/Glauber_ecc.pdf, id=6249, 569.12625pt x 327.2225pt>
+File: figs/chapter_centfluc/Glauber_ecc.pdf Graphic file (type pdf)
+
+<use figs/chapter_centfluc/Glauber_ecc.pdf>
+Package pdftex.def Info: figs/chapter_centfluc/Glauber_ecc.pdf used on input li
+ne 219.
+(pdftex.def)             Requested size: 370.49881pt x 213.03162pt.
+ [149 <./figs/chapter_centfluc/Glauber_nc2_Nw.pdf, page is rotated 90 degrees> 
+<./figs/chapter_centfluc/Glauber_nc2_Nan.pdf, page is rotated 90 degrees>]
+<figs/chapter_centfluc/Glauber_others_Nw.pdf, id=6346, 569.12625pt x 147.55125p
+t>
+File: figs/chapter_centfluc/Glauber_others_Nw.pdf Graphic file (type pdf)
+ <use figs/chapter_centfluc/Glauber_others_Nw.pdf>
+Package pdftex.def Info: figs/chapter_centfluc/Glauber_others_Nw.pdf used on in
+put line 228.
+(pdftex.def)             Requested size: 370.49881pt x 96.06026pt.
+
+<figs/chapter_centfluc/Glauber_others_Nan.pdf, id=6347, 569.12625pt x 147.55125
+pt>
+File: figs/chapter_centfluc/Glauber_others_Nan.pdf Graphic file (type pdf)
+ <use figs/chapter_centfluc/Glauber_others_Nan.pdf>
+Package pdftex.def Info: figs/chapter_centfluc/Glauber_others_Nan.pdf used on i
+nput line 229.
+(pdftex.def)             Requested size: 370.49881pt x 96.06026pt.
+ [150 <./figs/chapter_centfluc/Glauber_ecc.pdf, page is rotated 90 degrees>] [1
+51 <./figs/chapter_centfluc/Glauber_others_Nw.pdf, page is rotated 90 degrees> 
+<./figs/chapter_centfluc/Glauber_others_Nan.pdf, page is rotated 90 degrees>] [
+152]
+<figs/chapter_centfluc/ATLAS_nc_4pc.png, id=6516, 1160.335pt x 724.7075pt>
+File: figs/chapter_centfluc/ATLAS_nc_4pc.png Graphic file (type png)
+
+<use figs/chapter_centfluc/ATLAS_nc_4pc.png>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_nc_4pc.png used on input l
+ine 260.
+(pdftex.def)             Requested size: 370.49881pt x 231.40247pt.
+ [153 <./figs/chapter_centfluc/ATLAS_nc_4pc.png>]
+<figs/chapter_centfluc/ATLAS_vn_4pc_ratio.png, id=6524, 1156.32pt x 364.36125pt
+>
+File: figs/chapter_centfluc/ATLAS_vn_4pc_ratio.png Graphic file (type png)
+ <use figs/chapter_centfluc/ATLAS_vn_4pc_ratio.png>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_vn_4pc_ratio.png used on i
+nput line 273.
+(pdftex.def)             Requested size: 370.49881pt x 116.74252pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--274
+[]\OT1/cmr/m/n/12 Figure 101: |The cen-tral-ity de-pen-dence of cu-mu-lant ra-t
+ios
+ []
+
+[154 <./figs/chapter_centfluc/ATLAS_vn_4pc_ratio.png>]
+<figs/chapter_centfluc/ATLAS_vn_6pc_ratio.png, id=6533, 1154.3125pt x 359.3425p
+t>
+File: figs/chapter_centfluc/ATLAS_vn_6pc_ratio.png Graphic file (type png)
+ <use figs/chapter_centfluc/ATLAS_vn_6pc_ratio.png>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_vn_6pc_ratio.png used on i
+nput line 282.
+(pdftex.def)             Requested size: 370.49881pt x 115.33737pt.
+
+<figs/chapter_centfluc/ATLAS_v2_64pc_ratio.png, id=6535, 689.57625pt x 641.3962
+6pt>
+File: figs/chapter_centfluc/ATLAS_v2_64pc_ratio.png Graphic file (type png)
+ <use figs/chapter_centfluc/ATLAS_v2_64pc_ratio.png>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_v2_64pc_ratio.png used on 
+input line 291.
+(pdftex.def)             Requested size: 185.25238pt x 172.30826pt.
+
+<figs/chapter_centfluc/ATLAS_v2_64pc_ratio_comp.png, id=6536, 692.5875pt x 642.
+4pt>
+File: figs/chapter_centfluc/ATLAS_v2_64pc_ratio_comp.png Graphic file (type png
+)
+ <use figs/chapter_centfluc/ATLAS_v2_64pc_ratio_comp.png>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_v2_64pc_ratio_comp.png use
+d on input line 292.
+(pdftex.def)             Requested size: 185.25238pt x 171.82315pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--293
+[]\OT1/cmr/m/n/12 Figure 103: |The cen-tral-ity de-pen-dence of cu-mu-lant ra-t
+io
+ []
+
+
+Underfull \hbox (badness 1484) in paragraph at lines 293--293
+\OML/cmm/m/it/12 v[]\OMX/MnSymbolE/m/n/12 ò\OT1/cmr/m/n/12 6\OML/cmm/m/it/12 ; 
+\OT1/cmr/m/n/12 ^^F\OML/cmm/m/it/12 E[]\OMX/MnSymbolE/m/n/12 ù~\OML/cmm/m/it/12
+ v[]\OMX/MnSymbolE/m/n/12 ò\OT1/cmr/m/n/12 4\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 
+^^F\OML/cmm/m/it/12 E[]\OMX/MnSymbolE/m/n/12 ù$ \OT1/cmr/m/n/12 for four $\OML/
+cmm/m/it/12 p[]$ \OT1/cmr/m/n/12 ranges (left), and com-pared with
+ []
+
+[155 <./figs/chapter_centfluc/ATLAS_vn_6pc_ratio.png>]
+<figs/chapter_centfluc/ATLAS_c1_4pc.png, id=6548, 1140.26pt x 526.96875pt>
+File: figs/chapter_centfluc/ATLAS_c1_4pc.png Graphic file (type png)
+
+<use figs/chapter_centfluc/ATLAS_c1_4pc.png>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_c1_4pc.png used on input l
+ine 303.
+(pdftex.def)             Requested size: 370.49881pt x 171.2226pt.
+
+<figs/chapter_centfluc/ATLAS_v1_4pc.png, id=6549, 1136.245pt x 503.8825pt>
+File: figs/chapter_centfluc/ATLAS_v1_4pc.png Graphic file (type png)
+
+<use figs/chapter_centfluc/ATLAS_v1_4pc.png>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_v1_4pc.png used on input l
+ine 304.
+(pdftex.def)             Requested size: 370.49881pt x 164.30576pt.
+ [156 <./figs/chapter_centfluc/ATLAS_v2_64pc_ratio.png> <./figs/chapter_centflu
+c/ATLAS_v2_64pc_ratio_comp.png>]
+[157 <./figs/chapter_centfluc/ATLAS_c1_4pc.png> <./figs/chapter_centfluc/ATLAS_
+v1_4pc.png>]
+<figs/chapter_centfluc/ATLAS_nsc23.png, id=6566, 1233.60875pt x 577.15625pt>
+File: figs/chapter_centfluc/ATLAS_nsc23.png Graphic file (type png)
+
+<use figs/chapter_centfluc/ATLAS_nsc23.png>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_nsc23.png used on input li
+ne 319.
+(pdftex.def)             Requested size: 370.49881pt x 173.34195pt.
+
+<figs/chapter_centfluc/ATLAS_nsc24.png, id=6570, 1235.61626pt x 577.15625pt>
+File: figs/chapter_centfluc/ATLAS_nsc24.png Graphic file (type png)
+
+<use figs/chapter_centfluc/ATLAS_nsc24.png>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_nsc24.png used on input li
+ne 328.
+(pdftex.def)             Requested size: 370.49881pt x 173.06013pt.
+ [158 <./figs/chapter_centfluc/ATLAS_nsc23.png>]
+<figs/chapter_centfluc/ATLAS_nac2.png, id=6579, 873.2625pt x 409.53pt>
+File: figs/chapter_centfluc/ATLAS_nac2.png Graphic file (type png)
+
+<use figs/chapter_centfluc/ATLAS_nac2.png>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_nac2.png used on input lin
+e 337.
+(pdftex.def)             Requested size: 370.49881pt x 173.75111pt.
+ [159 <./figs/chapter_centfluc/ATLAS_nsc24.png>] [160 <./figs/chapter_centfluc/
+ATLAS_nac2.png>]
+<figs/chapter_centfluc/ATLAS_nc_4pc_cf1.png, id=6599, 1075.01625pt x 673.51625p
+t>
+File: figs/chapter_centfluc/ATLAS_nc_4pc_cf1.png Graphic file (type png)
+ <use figs/chapter_centfluc/ATLAS_nc_4pc_cf1.png>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_nc_4pc_cf1.png used on inp
+ut line 355.
+(pdftex.def)             Requested size: 370.49881pt x 232.1167pt.
+ [161 <./figs/chapter_centfluc/ATLAS_nc_4pc_cf1.png>]
+<figs/chapter_centfluc/ATLAS_nc_4pc_cf2.png, id=6608, 1071.00125pt x 332.24126p
+t>
+File: figs/chapter_centfluc/ATLAS_nc_4pc_cf2.png Graphic file (type png)
+ <use figs/chapter_centfluc/ATLAS_nc_4pc_cf2.png>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_nc_4pc_cf2.png used on inp
+ut line 364.
+(pdftex.def)             Requested size: 370.49881pt x 114.93767pt.
+
+Underfull \hbox (badness 2865) in paragraph at lines 365--365
+[]\OT1/cmr/m/n/12 Figure 109: |The com-par-i-son of nor-mal-ized four-particle 
+cu-mu-lants
+ []
+
+
+<figs/chapter_centfluc/ATLAS_nc_6pc_cf.png, id=6611, 1073.00874pt x 330.23375pt
+>
+File: figs/chapter_centfluc/ATLAS_nc_6pc_cf.png Graphic file (type png)
+ <use figs/chapter_centfluc/ATLAS_nc_6pc_cf.png>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_nc_6pc_cf.png used on inpu
+t line 373.
+(pdftex.def)             Requested size: 370.49881pt x 114.02649pt.
+ [162 <./figs/chapter_centfluc/ATLAS_nc_4pc_cf2.png>]
+<figs/chapter_centfluc/ATLAS_v2_64pc_ratio_cf.png, id=6620, 1076.02pt x 499.867
+5pt>
+File: figs/chapter_centfluc/ATLAS_v2_64pc_ratio_cf.png Graphic file (type png)
+ <use figs/chapter_centfluc/ATLAS_v2_64pc_ratio_cf.png>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_v2_64pc_ratio_cf.png used 
+on input line 382.
+(pdftex.def)             Requested size: 370.49881pt x 172.11124pt.
+ [163 <./figs/chapter_centfluc/ATLAS_nc_6pc_cf.png>]
+<figs/chapter_centfluc/ATLAS_others_cf1.png, id=6629, 1078.0275pt x 669.50125pt
+>
+File: figs/chapter_centfluc/ATLAS_others_cf1.png Graphic file (type png)
+ <use figs/chapter_centfluc/ATLAS_others_cf1.png>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_others_cf1.png used on inp
+ut line 391.
+(pdftex.def)             Requested size: 370.49881pt x 230.09962pt.
+ [164 <./figs/chapter_centfluc/ATLAS_v2_64pc_ratio_cf.png>]
+<figs/chapter_centfluc/ATLAS_others_cf2.png, id=6636, 1075.01625pt x 335.2525pt
+>
+File: figs/chapter_centfluc/ATLAS_others_cf2.png Graphic file (type png)
+ <use figs/chapter_centfluc/ATLAS_others_cf2.png>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_others_cf2.png used on inp
+ut line 400.
+(pdftex.def)             Requested size: 370.49881pt x 115.53946pt.
+
+Underfull \hbox (badness 1584) in paragraph at lines 401--401
+[]\OT1/cmr/m/n/12 Figure 113: |Com-par-i-son of $\OML/cmm/m/it/12 nsc[]\OMX/MnS
+ymbolE/m/n/12 ò\OT1/cmr/m/n/12 4\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 ^^F\OML/cmm/
+m/it/12 E[]\OMX/MnSymbolE/m/n/12 ù$ \OT1/cmr/m/n/12 and $\OML/cmm/m/it/12 nsc[]
+\OMX/MnSymbolE/m/n/12 ò\OT1/cmr/m/n/12 4\OML/cmm/m/it/12 ; N[]\OMX/MnSymbolE/m/
+n/12 ù$ \OT1/cmr/m/n/12 (left),
+ []
+
+
+Underfull \hbox (badness 4713) in paragraph at lines 401--401
+\OML/cmm/m/it/12 nsc[]\OMX/MnSymbolE/m/n/12 ò\OT1/cmr/m/n/12 4\OML/cmm/m/it/12 
+; \OT1/cmr/m/n/12 ^^F\OML/cmm/m/it/12 E[]\OMX/MnSymbolE/m/n/12 ù$ \OT1/cmr/m/n/
+12 and $\OML/cmm/m/it/12 nsc[]\OMX/MnSymbolE/m/n/12 ò\OT1/cmr/m/n/12 4\OML/cmm/
+m/it/12 ; N[]\OMX/MnSymbolE/m/n/12 ù$ \OT1/cmr/m/n/12 (mid-dle), and $\OML/cmm/
+m/it/12 nac[]\OMX/MnSymbolE/m/n/12 ò\OT1/cmr/m/n/12 3\OML/cmm/m/it/12 ; \OT1/cm
+r/m/n/12 ^^F\OML/cmm/m/it/12 E[]\OMX/MnSymbolE/m/n/12 ù$ \OT1/cmr/m/n/12 and
+ []
+
+[165 <./figs/chapter_centfluc/ATLAS_others_cf1.png>] [166 <./figs/chapter_centf
+luc/ATLAS_others_cf2.png>] [167] [168]
+<figs/chapter_centfluc/ATLAS_Xe_cn.pdf, id=6657, 569.12625pt x 534.99875pt>
+File: figs/chapter_centfluc/ATLAS_Xe_cn.pdf Graphic file (type pdf)
+
+<use figs/chapter_centfluc/ATLAS_Xe_cn.pdf>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_Xe_cn.pdf used on input li
+ne 442.
+(pdftex.def)             Requested size: 124.80286pt x 117.3164pt.
+
+<figs/chapter_centfluc/ATLAS_Xe_v42_ratio.pdf, id=6658, 569.12625pt x 534.99875
+pt>
+File: figs/chapter_centfluc/ATLAS_Xe_v42_ratio.pdf Graphic file (type pdf)
+ <use figs/chapter_centfluc/ATLAS_Xe_v42_ratio.pdf>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_Xe_v42_ratio.pdf used on i
+nput line 443.
+(pdftex.def)             Requested size: 124.80286pt x 117.3164pt.
+
+<figs/chapter_centfluc/ATLAS_Xe_v64_ratio.pdf, id=6659, 569.12625pt x 534.99875
+pt>
+File: figs/chapter_centfluc/ATLAS_Xe_v64_ratio.pdf Graphic file (type pdf)
+ <use figs/chapter_centfluc/ATLAS_Xe_v64_ratio.pdf>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_Xe_v64_ratio.pdf used on i
+nput line 444.
+(pdftex.def)             Requested size: 124.80286pt x 117.3164pt.
+ [169]
+<figs/chapter_centfluc/ATLAS_Xe_Pb_v2_cent1.pdf, id=6669, 569.12625pt x 534.998
+75pt>
+File: figs/chapter_centfluc/ATLAS_Xe_Pb_v2_cent1.pdf Graphic file (type pdf)
+ <use figs/chapter_centfluc/ATLAS_Xe_Pb_v2_cent1.pdf>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_Xe_Pb_v2_cent1.pdf used on
+ input line 453.
+(pdftex.def)             Requested size: 124.80286pt x 117.3164pt.
+
+<figs/chapter_centfluc/ATLAS_Xe_Pb_v3_cent1.pdf, id=6670, 569.12625pt x 534.998
+75pt>
+File: figs/chapter_centfluc/ATLAS_Xe_Pb_v3_cent1.pdf Graphic file (type pdf)
+ <use figs/chapter_centfluc/ATLAS_Xe_Pb_v3_cent1.pdf>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_Xe_Pb_v3_cent1.pdf used on
+ input line 454.
+(pdftex.def)             Requested size: 124.80286pt x 117.3164pt.
+
+<figs/chapter_centfluc/ATLAS_Xe_Pb_v4_cent1.pdf, id=6671, 569.12625pt x 534.998
+75pt>
+File: figs/chapter_centfluc/ATLAS_Xe_Pb_v4_cent1.pdf Graphic file (type pdf)
+ <use figs/chapter_centfluc/ATLAS_Xe_Pb_v4_cent1.pdf>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_Xe_Pb_v4_cent1.pdf used on
+ input line 455.
+(pdftex.def)             Requested size: 124.80286pt x 117.3164pt.
+
+<figs/chapter_centfluc/ATLAS_Xe_Pb_v2_cent2.pdf, id=6672, 569.12625pt x 534.998
+75pt>
+File: figs/chapter_centfluc/ATLAS_Xe_Pb_v2_cent2.pdf Graphic file (type pdf)
+ <use figs/chapter_centfluc/ATLAS_Xe_Pb_v2_cent2.pdf>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_Xe_Pb_v2_cent2.pdf used on
+ input line 456.
+(pdftex.def)             Requested size: 124.80286pt x 117.3164pt.
+
+<figs/chapter_centfluc/ATLAS_Xe_Pb_v3_cent2.pdf, id=6673, 569.12625pt x 534.998
+75pt>
+File: figs/chapter_centfluc/ATLAS_Xe_Pb_v3_cent2.pdf Graphic file (type pdf)
+ <use figs/chapter_centfluc/ATLAS_Xe_Pb_v3_cent2.pdf>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_Xe_Pb_v3_cent2.pdf used on
+ input line 457.
+(pdftex.def)             Requested size: 124.80286pt x 117.3164pt.
+
+<figs/chapter_centfluc/ATLAS_Xe_Pb_v4_cent2.pdf, id=6674, 569.12625pt x 534.998
+75pt>
+File: figs/chapter_centfluc/ATLAS_Xe_Pb_v4_cent2.pdf Graphic file (type pdf)
+ <use figs/chapter_centfluc/ATLAS_Xe_Pb_v4_cent2.pdf>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_Xe_Pb_v4_cent2.pdf used on
+ input line 458.
+(pdftex.def)             Requested size: 124.80286pt x 117.3164pt.
+ [170 <./figs/chapter_centfluc/ATLAS_Xe_cn.pdf, page is rotated 90 degrees> <./
+figs/chapter_centfluc/ATLAS_Xe_v42_ratio.pdf, page is rotated 90 degrees> <./fi
+gs/chapter_centfluc/ATLAS_Xe_v64_ratio.pdf, page is rotated 90 degrees>]
+<figs/chapter_centfluc/ATLAS_Xe_vn_diff_cent1.pdf, id=6812, 569.12625pt x 534.9
+9875pt>
+File: figs/chapter_centfluc/ATLAS_Xe_vn_diff_cent1.pdf Graphic file (type pdf)
+ <use figs/chapter_centfluc/ATLAS_Xe_vn_diff_cent1.pdf>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_Xe_vn_diff_cent1.pdf used 
+on input line 467.
+(pdftex.def)             Requested size: 124.80286pt x 117.3164pt.
+
+<figs/chapter_centfluc/ATLAS_Xe_vn_diff_cent2.pdf, id=6813, 569.12625pt x 534.9
+9875pt>
+File: figs/chapter_centfluc/ATLAS_Xe_vn_diff_cent2.pdf Graphic file (type pdf)
+ <use figs/chapter_centfluc/ATLAS_Xe_vn_diff_cent2.pdf>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_Xe_vn_diff_cent2.pdf used 
+on input line 468.
+(pdftex.def)             Requested size: 124.80286pt x 117.3164pt.
+
+<figs/chapter_centfluc/ATLAS_Xe_vn_diff_cent3.pdf, id=6814, 569.12625pt x 534.9
+9875pt>
+File: figs/chapter_centfluc/ATLAS_Xe_vn_diff_cent3.pdf Graphic file (type pdf)
+ <use figs/chapter_centfluc/ATLAS_Xe_vn_diff_cent3.pdf>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_Xe_vn_diff_cent3.pdf used 
+on input line 469.
+(pdftex.def)             Requested size: 124.80286pt x 117.3164pt.
+ [171 <./figs/chapter_centfluc/ATLAS_Xe_Pb_v2_cent1.pdf, page is rotated 90 deg
+rees> <./figs/chapter_centfluc/ATLAS_Xe_Pb_v3_cent1.pdf, page is rotated 90 deg
+rees> <./figs/chapter_centfluc/ATLAS_Xe_Pb_v4_cent1.pdf, page is rotated 90 deg
+rees> <./figs/chapter_centfluc/ATLAS_Xe_Pb_v2_cent2.pdf, page is rotated 90 deg
+rees> <./figs/chapter_centfluc/ATLAS_Xe_Pb_v3_cent2.pdf, page is rotated 90 deg
+rees> <./figs/chapter_centfluc/ATLAS_Xe_Pb_v4_cent2.pdf, page is rotated 90 deg
+rees>]
+<figs/chapter_centfluc/ATLAS_Xe_sc.pdf, id=7079, 569.12625pt x 534.99875pt>
+File: figs/chapter_centfluc/ATLAS_Xe_sc.pdf Graphic file (type pdf)
+
+<use figs/chapter_centfluc/ATLAS_Xe_sc.pdf>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_Xe_sc.pdf used on input li
+ne 478.
+(pdftex.def)             Requested size: 185.25238pt x 174.14192pt.
+
+<figs/chapter_centfluc/ATLAS_Xe_nsc.pdf, id=7080, 569.12625pt x 534.99875pt>
+File: figs/chapter_centfluc/ATLAS_Xe_nsc.pdf Graphic file (type pdf)
+
+<use figs/chapter_centfluc/ATLAS_Xe_nsc.pdf>
+Package pdftex.def Info: figs/chapter_centfluc/ATLAS_Xe_nsc.pdf used on input l
+ine 479.
+(pdftex.def)             Requested size: 185.25238pt x 174.14192pt.
+ [172 <./figs/chapter_centfluc/ATLAS_Xe_vn_diff_cent1.pdf, page is rotated 90 d
+egrees> <./figs/chapter_centfluc/ATLAS_Xe_vn_diff_cent2.pdf, page is rotated 90
+ degrees> <./figs/chapter_centfluc/ATLAS_Xe_vn_diff_cent3.pdf, page is rotated 
+90 degrees>] [173 <./figs/chapter_centfluc/ATLAS_Xe_sc.pdf, page is rotated 90 
+degrees> <./figs/chapter_centfluc/ATLAS_Xe_nsc.pdf, page is rotated 90 degrees>
+]) [174] (./chapter_summary.tex
+[175]) [176] (./chapter_appendix.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 35.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 35.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 35.
+
+[177]
+Overfull \hbox (8.8062pt too wide) in paragraph at lines 58--59
+[]\OT1/cmr/m/n/12 The most straight-for-ward way to cal-cu-late $2\OML/cmm/m/it
+/12 k$\OT1/cmr/m/n/12 -particle cor-re-la-tion $\OML/cmm/m/it/12 corr[]\OMX/MnS
+ymbolE/m/n/12 ò\OT1/cmr/m/n/12 2\OML/cmm/m/it/12 k\OMX/MnSymbolE/m/n/12 ù$
+ []
+
+[178]
+Overfull \hbox (100.85367pt too wide) in paragraph at lines 92--92
+[] 
+ []
+
+[179]
+Overfull \hbox (4.20424pt too wide) in paragraph at lines 113--114
+[]\OT1/cmr/m/n/12 The subevent method has been ex-ten-sively stud-ied and val-i
+-dated in Monte-
+ []
+
+[180]
+Overfull \hbox (34.17764pt too wide) in paragraph at lines 133--135
+\OT1/cmr/m/n/12 The other sim-i-lar con-fig-u-ra-tions $\OML/cmm/m/it/12 corr[]
+\OMX/MnSymbolE/m/n/12 ò\OT1/cmr/m/n/12 2\OMX/MnSymbolE/m/n/12 ù$\OT1/cmr/m/n/12
+ , $\OML/cmm/m/it/12 corr[]\OMX/MnSymbolE/m/n/12 ò\OT1/cmr/m/n/12 2\OMX/MnSymbo
+lE/m/n/12 ù$\OT1/cmr/m/n/12 , $\OML/cmm/m/it/12 corr[]\OMX/MnSymbolE/m/n/12 ò\O
+T1/cmr/m/n/12 4\OMX/MnSymbolE/m/n/12 ù$ \OT1/cmr/m/n/12 and $\OML/cmm/m/it/12 c
+orr[]\OMX/MnSymbolE/m/n/12 ò\OT1/cmr/m/n/12 4\OMX/MnSymbolE/m/n/12 ù$
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 138.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 138.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 138.
+
+[181]
+
+LaTeX Warning: Reference `sec:ana' on page 182 undefined on input line 145.
+
+[182]
+Overfull \hbox (40.6325pt too wide) in paragraph at lines 172--172
+[] 
+ []
+
+
+Overfull \hbox (0.23674pt too wide) in paragraph at lines 211--212
+\OT1/cmr/m/n/12 bined, weighted by the cor-re-spond-ing event weight, to make t
+he fi-nal $\OML/cmm/m/it/12 c[]\OMX/MnSymbolE/m/n/12 ò\OT1/cmr/m/n/12 4\OMX/MnS
+ymbolE/m/n/12 ù$
+ []
+
+[183]
+Overfull \hbox (52.46292pt too wide) detected at line 214
+[]\OML/cmm/m/it/12 c[]\OMX/MnSymbolE/m/n/12 ò\OT1/cmr/m/n/12 4\OMX/MnSymbolE/m/
+n/12 ù \U/MnSymbolD/m/n/12 ^^A []
+ []
+
+
+Overfull \hbox (20.93097pt too wide) in paragraph at lines 214--216
+\OT1/cmr/m/n/12 Due to event-by-event mul-ti-plic-ity fluc-tu-a-tion along $\OM
+L/cmm/m/it/12 ^^Q$\OT1/cmr/m/n/12 , $[] \OML/cmm/m/it/12 W[]\OMX/MnSymbolE/m/n/
+12 ò\OT1/cmr/m/n/12 4\OMX/MnSymbolE/m/n/12 ù$\OT1/cmr/m/n/12 , $[] \OML/cmm/m/i
+t/12 W[]\OMX/MnSymbolE/m/n/12 ò\OT1/cmr/m/n/12 4\OMX/MnSymbolE/m/n/12 ù$
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 219.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 219.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 219.
+
+[184]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 245.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 245.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 245.
+
+[185] [186]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 302.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 302.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 302.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 302.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 302.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 302.
+
+
+Overfull \hbox (48.9963pt too wide) in paragraph at lines 315--315
+[] 
+ []
+
+[187]
+Overfull \hbox (5.57922pt too wide) in paragraph at lines 355--357
+\OT1/cmr/m/n/12 them have small non-flow since two par-ti-cles that come from t
+he same subevent
+ []
+
+[188]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 386.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 386.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 386.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 386.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 386.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 386.
+
+[189] [190] [191] [192]
+<figs/chapter_appendix/trigger_eg1.pdf, id=7472, 569.12625pt x 265.99374pt>
+File: figs/chapter_appendix/trigger_eg1.pdf Graphic file (type pdf)
+
+<use figs/chapter_appendix/trigger_eg1.pdf>
+Package pdftex.def Info: figs/chapter_appendix/trigger_eg1.pdf used on input li
+ne 501.
+(pdftex.def)             Requested size: 234.00238pt x 109.3666pt.
+
+<figs/chapter_appendix/trigger_eg2.pdf, id=7473, 569.12625pt x 516.93124pt>
+File: figs/chapter_appendix/trigger_eg2.pdf Graphic file (type pdf)
+
+<use figs/chapter_appendix/trigger_eg2.pdf>
+Package pdftex.def Info: figs/chapter_appendix/trigger_eg2.pdf used on input li
+ne 502.
+(pdftex.def)             Requested size: 117.00119pt x 106.27132pt.
+ [193]
+<figs/chapter_appendix/trigger_Har1.pdf, id=7481, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/trigger_Har1.pdf Graphic file (type pdf)
+
+<use figs/chapter_appendix/trigger_Har1.pdf>
+Package pdftex.def Info: figs/chapter_appendix/trigger_Har1.pdf used on input l
+ine 516.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/trigger_Har2.pdf, id=7482, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/trigger_Har2.pdf Graphic file (type pdf)
+
+<use figs/chapter_appendix/trigger_Har2.pdf>
+Package pdftex.def Info: figs/chapter_appendix/trigger_Har2.pdf used on input l
+ine 517.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/trigger_Har3.pdf, id=7483, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/trigger_Har3.pdf Graphic file (type pdf)
+
+<use figs/chapter_appendix/trigger_Har3.pdf>
+Package pdftex.def Info: figs/chapter_appendix/trigger_Har3.pdf used on input l
+ine 518.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/trigger_Har4.pdf, id=7484, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/trigger_Har4.pdf Graphic file (type pdf)
+
+<use figs/chapter_appendix/trigger_Har4.pdf>
+Package pdftex.def Info: figs/chapter_appendix/trigger_Har4.pdf used on input l
+ine 519.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+ [194 <./figs/chapter_appendix/trigger_eg1.pdf, page is rotated 90 degrees> <./
+figs/chapter_appendix/trigger_eg2.pdf, page is rotated 90 degrees>]
+<figs/chapter_appendix/pileup_eg.png, id=7576, 1358.07375pt x 564.1075pt>
+File: figs/chapter_appendix/pileup_eg.png Graphic file (type png)
+
+<use figs/chapter_appendix/pileup_eg.png>
+Package pdftex.def Info: figs/chapter_appendix/pileup_eg.png used on input line
+ 540.
+(pdftex.def)             Requested size: 350.99762pt x 145.79512pt.
+ [195 <./figs/chapter_appendix/trigger_Har1.pdf> <./figs/chapter_appendix/trigg
+er_Har2.pdf> <./figs/chapter_appendix/trigger_Har3.pdf> <./figs/chapter_appendi
+x/trigger_Har4.pdf>] [196 <./figs/chapter_appendix/pileup_eg.png>]
+<figs/chapter_appendix/pileup_Har1.pdf, id=7760, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/pileup_Har1.pdf Graphic file (type pdf)
+
+<use figs/chapter_appendix/pileup_Har1.pdf>
+Package pdftex.def Info: figs/chapter_appendix/pileup_Har1.pdf used on input li
+ne 551.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/pileup_Har2.pdf, id=7761, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/pileup_Har2.pdf Graphic file (type pdf)
+
+<use figs/chapter_appendix/pileup_Har2.pdf>
+Package pdftex.def Info: figs/chapter_appendix/pileup_Har2.pdf used on input li
+ne 552.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/pileup_Har3.pdf, id=7762, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/pileup_Har3.pdf Graphic file (type pdf)
+
+<use figs/chapter_appendix/pileup_Har3.pdf>
+Package pdftex.def Info: figs/chapter_appendix/pileup_Har3.pdf used on input li
+ne 553.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/pileup_Har4.pdf, id=7763, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/pileup_Har4.pdf Graphic file (type pdf)
+
+<use figs/chapter_appendix/pileup_Har4.pdf>
+Package pdftex.def Info: figs/chapter_appendix/pileup_Har4.pdf used on input li
+ne 554.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/centrality_Har2_Pt0.pdf, id=7765, 463.7325pt x 739.76375
+pt>
+File: figs/chapter_appendix/centrality_Har2_Pt0.pdf Graphic file (type pdf)
+ <use figs/chapter_appendix/centrality_Har2_Pt0.pdf>
+Package pdftex.def Info: figs/chapter_appendix/centrality_Har2_Pt0.pdf used on 
+input line 574.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/centrality_Har3_Pt0.pdf, id=7766, 463.7325pt x 739.76375
+pt>
+File: figs/chapter_appendix/centrality_Har3_Pt0.pdf Graphic file (type pdf)
+ <use figs/chapter_appendix/centrality_Har3_Pt0.pdf>
+Package pdftex.def Info: figs/chapter_appendix/centrality_Har3_Pt0.pdf used on 
+input line 575.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/centrality_Har2_Pt1.pdf, id=7767, 463.7325pt x 739.76375
+pt>
+File: figs/chapter_appendix/centrality_Har2_Pt1.pdf Graphic file (type pdf)
+ <use figs/chapter_appendix/centrality_Har2_Pt1.pdf>
+Package pdftex.def Info: figs/chapter_appendix/centrality_Har2_Pt1.pdf used on 
+input line 576.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/centrality_Har3_Pt1.pdf, id=7768, 463.7325pt x 739.76375
+pt>
+File: figs/chapter_appendix/centrality_Har3_Pt1.pdf Graphic file (type pdf)
+ <use figs/chapter_appendix/centrality_Har3_Pt1.pdf>
+Package pdftex.def Info: figs/chapter_appendix/centrality_Har3_Pt1.pdf used on 
+input line 577.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+ [197 <./figs/chapter_appendix/pileup_Har1.pdf> <./figs/chapter_appendix/pileup
+_Har2.pdf> <./figs/chapter_appendix/pileup_Har3.pdf> <./figs/chapter_appendix/p
+ileup_Har4.pdf>]
+
+LaTeX Warning: Citation `Burka:2151932' on page 198 undefined on input line 588
+.
+
+[198 <./figs/chapter_appendix/centrality_Har2_Pt0.pdf> <./figs/chapter_appendix
+/centrality_Har3_Pt0.pdf> <./figs/chapter_appendix/centrality_Har2_Pt1.pdf> <./
+figs/chapter_appendix/centrality_Har3_Pt1.pdf>]
+<figs/chapter_appendix/mc_c_Har2_Pt0.pdf, id=8123, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/mc_c_Har2_Pt0.pdf Graphic file (type pdf)
+
+<use figs/chapter_appendix/mc_c_Har2_Pt0.pdf>
+Package pdftex.def Info: figs/chapter_appendix/mc_c_Har2_Pt0.pdf used on input 
+line 595.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/mc_c_Har3_Pt0.pdf, id=8124, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/mc_c_Har3_Pt0.pdf Graphic file (type pdf)
+
+<use figs/chapter_appendix/mc_c_Har3_Pt0.pdf>
+Package pdftex.def Info: figs/chapter_appendix/mc_c_Har3_Pt0.pdf used on input 
+line 596.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/mc_c_Har2_Pt1.pdf, id=8125, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/mc_c_Har2_Pt1.pdf Graphic file (type pdf)
+
+<use figs/chapter_appendix/mc_c_Har2_Pt1.pdf>
+Package pdftex.def Info: figs/chapter_appendix/mc_c_Har2_Pt1.pdf used on input 
+line 597.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/mc_c_Har3_Pt1.pdf, id=8126, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/mc_c_Har3_Pt1.pdf Graphic file (type pdf)
+
+<use figs/chapter_appendix/mc_c_Har3_Pt1.pdf>
+Package pdftex.def Info: figs/chapter_appendix/mc_c_Har3_Pt1.pdf used on input 
+line 598.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+ [199]
+<figs/chapter_appendix/mc_sc_Har2_Pt0.pdf, id=8134, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/mc_sc_Har2_Pt0.pdf Graphic file (type pdf)
+
+<use figs/chapter_appendix/mc_sc_Har2_Pt0.pdf>
+Package pdftex.def Info: figs/chapter_appendix/mc_sc_Har2_Pt0.pdf used on input
+ line 616.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/mc_sc_Har3_Pt0.pdf, id=8135, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/mc_sc_Har3_Pt0.pdf Graphic file (type pdf)
+
+<use figs/chapter_appendix/mc_sc_Har3_Pt0.pdf>
+Package pdftex.def Info: figs/chapter_appendix/mc_sc_Har3_Pt0.pdf used on input
+ line 617.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+ [200 <./figs/chapter_appendix/mc_c_Har2_Pt0.pdf> <./figs/chapter_appendix/mc_c
+_Har3_Pt0.pdf> <./figs/chapter_appendix/mc_c_Har2_Pt1.pdf> <./figs/chapter_appe
+ndix/mc_c_Har3_Pt1.pdf>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+
+<figs/chapter_appendix/flatten_eg.pdf, id=8313, 569.12625pt x 172.645pt>
+File: figs/chapter_appendix/flatten_eg.pdf Graphic file (type pdf)
+
+<use figs/chapter_appendix/flatten_eg.pdf>
+Package pdftex.def Info: figs/chapter_appendix/flatten_eg.pdf used on input lin
+e 638.
+(pdftex.def)             Requested size: 390.0pt x 118.31114pt.
+ [201 <./figs/chapter_appendix/mc_sc_Har2_Pt0.pdf> <./figs/chapter_appendix/mc_
+sc_Har3_Pt0.pdf>]
+<figs/chapter_appendix/flatten1_Har1.pdf, id=8407, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/flatten1_Har1.pdf Graphic file (type pdf)
+
+<use figs/chapter_appendix/flatten1_Har1.pdf>
+Package pdftex.def Info: figs/chapter_appendix/flatten1_Har1.pdf used on input 
+line 646.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/flatten1_Har2.pdf, id=8408, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/flatten1_Har2.pdf Graphic file (type pdf)
+
+<use figs/chapter_appendix/flatten1_Har2.pdf>
+Package pdftex.def Info: figs/chapter_appendix/flatten1_Har2.pdf used on input 
+line 647.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/flatten1_Har3.pdf, id=8409, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/flatten1_Har3.pdf Graphic file (type pdf)
+
+<use figs/chapter_appendix/flatten1_Har3.pdf>
+Package pdftex.def Info: figs/chapter_appendix/flatten1_Har3.pdf used on input 
+line 648.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/flatten1_Har4.pdf, id=8410, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/flatten1_Har4.pdf Graphic file (type pdf)
+
+<use figs/chapter_appendix/flatten1_Har4.pdf>
+Package pdftex.def Info: figs/chapter_appendix/flatten1_Har4.pdf used on input 
+line 649.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/flatten2_Har1.pdf, id=8412, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/flatten2_Har1.pdf Graphic file (type pdf)
+
+<use figs/chapter_appendix/flatten2_Har1.pdf>
+Package pdftex.def Info: figs/chapter_appendix/flatten2_Har1.pdf used on input 
+line 657.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/flatten2_Har2.pdf, id=8413, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/flatten2_Har2.pdf Graphic file (type pdf)
+
+<use figs/chapter_appendix/flatten2_Har2.pdf>
+Package pdftex.def Info: figs/chapter_appendix/flatten2_Har2.pdf used on input 
+line 658.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/flatten2_Har3.pdf, id=8414, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/flatten2_Har3.pdf Graphic file (type pdf)
+
+<use figs/chapter_appendix/flatten2_Har3.pdf>
+Package pdftex.def Info: figs/chapter_appendix/flatten2_Har3.pdf used on input 
+line 659.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/flatten2_Har4.pdf, id=8415, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/flatten2_Har4.pdf Graphic file (type pdf)
+
+<use figs/chapter_appendix/flatten2_Har4.pdf>
+Package pdftex.def Info: figs/chapter_appendix/flatten2_Har4.pdf used on input 
+line 660.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+ [202 <./figs/chapter_appendix/flatten_eg.pdf, page is rotated 90 degrees> <./f
+igs/chapter_appendix/flatten1_Har1.pdf> <./figs/chapter_appendix/flatten1_Har2.
+pdf> <./figs/chapter_appendix/flatten1_Har3.pdf> <./figs/chapter_appendix/flatt
+en1_Har4.pdf>]
+<figs/chapter_appendix/trkSel_Har1.pdf, id=8637, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/trkSel_Har1.pdf Graphic file (type pdf)
+
+<use figs/chapter_appendix/trkSel_Har1.pdf>
+Package pdftex.def Info: figs/chapter_appendix/trkSel_Har1.pdf used on input li
+ne 680.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/trkSel_Har2.pdf, id=8638, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/trkSel_Har2.pdf Graphic file (type pdf)
+
+<use figs/chapter_appendix/trkSel_Har2.pdf>
+Package pdftex.def Info: figs/chapter_appendix/trkSel_Har2.pdf used on input li
+ne 681.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/trkSel_Har3.pdf, id=8639, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/trkSel_Har3.pdf Graphic file (type pdf)
+
+<use figs/chapter_appendix/trkSel_Har3.pdf>
+Package pdftex.def Info: figs/chapter_appendix/trkSel_Har3.pdf used on input li
+ne 682.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/trkSel_Har4.pdf, id=8640, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/trkSel_Har4.pdf Graphic file (type pdf)
+
+<use figs/chapter_appendix/trkSel_Har4.pdf>
+Package pdftex.def Info: figs/chapter_appendix/trkSel_Har4.pdf used on input li
+ne 683.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+ [203 <./figs/chapter_appendix/flatten2_Har1.pdf> <./figs/chapter_appendix/flat
+ten2_Har2.pdf> <./figs/chapter_appendix/flatten2_Har3.pdf> <./figs/chapter_appe
+ndix/flatten2_Har4.pdf>] [204 <./figs/chapter_appendix/trkSel_Har1.pdf> <./figs
+/chapter_appendix/trkSel_Har2.pdf> <./figs/chapter_appendix/trkSel_Har3.pdf> <.
+/figs/chapter_appendix/trkSel_Har4.pdf>]
+
+LaTeX Warning: Citation `Morley:2011604' on page 205 undefined on input line 70
+7.
+
+<figs/chapter_appendix/trkEff_err.png, id=8995, 987.69pt x 691.58376pt>
+File: figs/chapter_appendix/trkEff_err.png Graphic file (type png)
+
+<use figs/chapter_appendix/trkEff_err.png>
+Package pdftex.def Info: figs/chapter_appendix/trkEff_err.png used on input lin
+e 710.
+(pdftex.def)             Requested size: 350.99762pt x 245.76193pt.
+
+<figs/chapter_appendix/trkEff1_Har2_Pt0.pdf, id=8998, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/trkEff1_Har2_Pt0.pdf Graphic file (type pdf)
+<use figs/chapter_appendix/trkEff1_Har2_Pt0.pdf>
+Package pdftex.def Info: figs/chapter_appendix/trkEff1_Har2_Pt0.pdf used on inp
+ut line 718.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/trkEff1_Har3_Pt0.pdf, id=8999, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/trkEff1_Har3_Pt0.pdf Graphic file (type pdf)
+<use figs/chapter_appendix/trkEff1_Har3_Pt0.pdf>
+Package pdftex.def Info: figs/chapter_appendix/trkEff1_Har3_Pt0.pdf used on inp
+ut line 719.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/trkEff1_Har2_Pt1.pdf, id=9000, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/trkEff1_Har2_Pt1.pdf Graphic file (type pdf)
+<use figs/chapter_appendix/trkEff1_Har2_Pt1.pdf>
+Package pdftex.def Info: figs/chapter_appendix/trkEff1_Har2_Pt1.pdf used on inp
+ut line 720.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/trkEff1_Har3_Pt1.pdf, id=9001, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/trkEff1_Har3_Pt1.pdf Graphic file (type pdf)
+<use figs/chapter_appendix/trkEff1_Har3_Pt1.pdf>
+Package pdftex.def Info: figs/chapter_appendix/trkEff1_Har3_Pt1.pdf used on inp
+ut line 721.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+ [205 <./figs/chapter_appendix/trkEff_err.png>]
+<figs/chapter_appendix/trkEff2_Har2_Pt0.pdf, id=9009, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/trkEff2_Har2_Pt0.pdf Graphic file (type pdf)
+<use figs/chapter_appendix/trkEff2_Har2_Pt0.pdf>
+Package pdftex.def Info: figs/chapter_appendix/trkEff2_Har2_Pt0.pdf used on inp
+ut line 728.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/trkEff2_Har3_Pt0.pdf, id=9010, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/trkEff2_Har3_Pt0.pdf Graphic file (type pdf)
+<use figs/chapter_appendix/trkEff2_Har3_Pt0.pdf>
+Package pdftex.def Info: figs/chapter_appendix/trkEff2_Har3_Pt0.pdf used on inp
+ut line 729.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/trkEff2_Har2_Pt1.pdf, id=9011, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/trkEff2_Har2_Pt1.pdf Graphic file (type pdf)
+<use figs/chapter_appendix/trkEff2_Har2_Pt1.pdf>
+Package pdftex.def Info: figs/chapter_appendix/trkEff2_Har2_Pt1.pdf used on inp
+ut line 730.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+
+<figs/chapter_appendix/trkEff2_Har3_Pt1.pdf, id=9012, 463.7325pt x 739.76375pt>
+File: figs/chapter_appendix/trkEff2_Har3_Pt1.pdf Graphic file (type pdf)
+<use figs/chapter_appendix/trkEff2_Har3_Pt1.pdf>
+Package pdftex.def Info: figs/chapter_appendix/trkEff2_Har3_Pt1.pdf used on inp
+ut line 731.
+(pdftex.def)             Requested size: 93.60214pt x 149.31595pt.
+ [206 <./figs/chapter_appendix/trkEff1_Har2_Pt0.pdf> <./figs/chapter_appendix/t
+rkEff1_Har3_Pt0.pdf> <./figs/chapter_appendix/trkEff1_Har2_Pt1.pdf> <./figs/cha
+pter_appendix/trkEff1_Har3_Pt1.pdf> <./figs/chapter_appendix/trkEff2_Har2_Pt0.p
+df> <./figs/chapter_appendix/trkEff2_Har3_Pt0.pdf> <./figs/chapter_appendix/trk
+Eff2_Har2_Pt1.pdf> <./figs/chapter_appendix/trkEff2_Har3_Pt1.pdf>]
+<figs/chapter_appendix/sys_c4_1sub_Har2_Pt0.pdf, id=9363, 569.12625pt x 534.998
+75pt>
+File: figs/chapter_appendix/sys_c4_1sub_Har2_Pt0.pdf Graphic file (type pdf)
+ <use figs/chapter_appendix/sys_c4_1sub_Har2_Pt0.pdf>
+Package pdftex.def Info: figs/chapter_appendix/sys_c4_1sub_Har2_Pt0.pdf used on
+ input line 758.
+(pdftex.def)             Requested size: 165.75119pt x 155.81506pt.
+
+<figs/chapter_appendix/sys_c4_1sub_Har2_Pt1.pdf, id=9364, 569.12625pt x 534.998
+75pt>
+File: figs/chapter_appendix/sys_c4_1sub_Har2_Pt1.pdf Graphic file (type pdf)
+ <use figs/chapter_appendix/sys_c4_1sub_Har2_Pt1.pdf>
+Package pdftex.def Info: figs/chapter_appendix/sys_c4_1sub_Har2_Pt1.pdf used on
+ input line 759.
+(pdftex.def)             Requested size: 165.75119pt x 155.81506pt.
+
+<figs/chapter_appendix/sys_c4_1sub_Har3_Pt0.pdf, id=9365, 569.12625pt x 534.998
+75pt>
+File: figs/chapter_appendix/sys_c4_1sub_Har3_Pt0.pdf Graphic file (type pdf)
+ <use figs/chapter_appendix/sys_c4_1sub_Har3_Pt0.pdf>
+Package pdftex.def Info: figs/chapter_appendix/sys_c4_1sub_Har3_Pt0.pdf used on
+ input line 760.
+(pdftex.def)             Requested size: 165.75119pt x 155.81506pt.
+
+<figs/chapter_appendix/sys_c4_1sub_Har3_Pt1.pdf, id=9366, 569.12625pt x 534.998
+75pt>
+File: figs/chapter_appendix/sys_c4_1sub_Har3_Pt1.pdf Graphic file (type pdf)
+ <use figs/chapter_appendix/sys_c4_1sub_Har3_Pt1.pdf>
+Package pdftex.def Info: figs/chapter_appendix/sys_c4_1sub_Har3_Pt1.pdf used on
+ input line 761.
+(pdftex.def)             Requested size: 165.75119pt x 155.81506pt.
+
+<figs/chapter_appendix/sys_c4_1sub_Har4_Pt0.pdf, id=9367, 569.12625pt x 534.998
+75pt>
+File: figs/chapter_appendix/sys_c4_1sub_Har4_Pt0.pdf Graphic file (type pdf)
+ <use figs/chapter_appendix/sys_c4_1sub_Har4_Pt0.pdf>
+Package pdftex.def Info: figs/chapter_appendix/sys_c4_1sub_Har4_Pt0.pdf used on
+ input line 762.
+(pdftex.def)             Requested size: 165.75119pt x 155.81506pt.
+
+<figs/chapter_appendix/sys_c4_1sub_Har4_Pt1.pdf, id=9368, 569.12625pt x 534.998
+75pt>
+File: figs/chapter_appendix/sys_c4_1sub_Har4_Pt1.pdf Graphic file (type pdf)
+ <use figs/chapter_appendix/sys_c4_1sub_Har4_Pt1.pdf>
+Package pdftex.def Info: figs/chapter_appendix/sys_c4_1sub_Har4_Pt1.pdf used on
+ input line 763.
+(pdftex.def)             Requested size: 165.75119pt x 155.81506pt.
+ [207]
+Overfull \vbox (3.44518pt too high) has occurred while \output is active []
+
+
+[208 <./figs/chapter_appendix/sys_c4_1sub_Har2_Pt0.pdf, page is rotated 90 degr
+ees> <./figs/chapter_appendix/sys_c4_1sub_Har2_Pt1.pdf, page is rotated 90 degr
+ees> <./figs/chapter_appendix/sys_c4_1sub_Har3_Pt0.pdf, page is rotated 90 degr
+ees> <./figs/chapter_appendix/sys_c4_1sub_Har3_Pt1.pdf, page is rotated 90 degr
+ees> <./figs/chapter_appendix/sys_c4_1sub_Har4_Pt0.pdf, page is rotated 90 degr
+ees> <./figs/chapter_appendix/sys_c4_1sub_Har4_Pt1.pdf, page is rotated 90 degr
+ees>]
+<figs/chapter_appendix/sys_c6_1sub_Har2_Pt0.pdf, id=9636, 569.12625pt x 534.998
+75pt>
+File: figs/chapter_appendix/sys_c6_1sub_Har2_Pt0.pdf Graphic file (type pdf)
+ <use figs/chapter_appendix/sys_c6_1sub_Har2_Pt0.pdf>
+Package pdftex.def Info: figs/chapter_appendix/sys_c6_1sub_Har2_Pt0.pdf used on
+ input line 769.
+(pdftex.def)             Requested size: 165.75119pt x 155.81506pt.
+
+<figs/chapter_appendix/sys_c6_1sub_Har2_Pt1.pdf, id=9637, 569.12625pt x 534.998
+75pt>
+File: figs/chapter_appendix/sys_c6_1sub_Har2_Pt1.pdf Graphic file (type pdf)
+ <use figs/chapter_appendix/sys_c6_1sub_Har2_Pt1.pdf>
+Package pdftex.def Info: figs/chapter_appendix/sys_c6_1sub_Har2_Pt1.pdf used on
+ input line 770.
+(pdftex.def)             Requested size: 165.75119pt x 155.81506pt.
+
+<figs/chapter_appendix/sys_c6_1sub_Har3_Pt0.pdf, id=9638, 569.12625pt x 534.998
+75pt>
+File: figs/chapter_appendix/sys_c6_1sub_Har3_Pt0.pdf Graphic file (type pdf)
+ <use figs/chapter_appendix/sys_c6_1sub_Har3_Pt0.pdf>
+Package pdftex.def Info: figs/chapter_appendix/sys_c6_1sub_Har3_Pt0.pdf used on
+ input line 771.
+(pdftex.def)             Requested size: 165.75119pt x 155.81506pt.
+
+<figs/chapter_appendix/sys_c6_1sub_Har3_Pt1.pdf, id=9639, 569.12625pt x 534.998
+75pt>
+File: figs/chapter_appendix/sys_c6_1sub_Har3_Pt1.pdf Graphic file (type pdf)
+ <use figs/chapter_appendix/sys_c6_1sub_Har3_Pt1.pdf>
+Package pdftex.def Info: figs/chapter_appendix/sys_c6_1sub_Har3_Pt1.pdf used on
+ input line 772.
+(pdftex.def)             Requested size: 165.75119pt x 155.81506pt.
+
+<figs/chapter_appendix/sys_c6_1sub_Har4_Pt0.pdf, id=9640, 569.12625pt x 534.998
+75pt>
+File: figs/chapter_appendix/sys_c6_1sub_Har4_Pt0.pdf Graphic file (type pdf)
+ <use figs/chapter_appendix/sys_c6_1sub_Har4_Pt0.pdf>
+Package pdftex.def Info: figs/chapter_appendix/sys_c6_1sub_Har4_Pt0.pdf used on
+ input line 773.
+(pdftex.def)             Requested size: 165.75119pt x 155.81506pt.
+
+<figs/chapter_appendix/sys_c6_1sub_Har4_Pt1.pdf, id=9641, 569.12625pt x 534.998
+75pt>
+File: figs/chapter_appendix/sys_c6_1sub_Har4_Pt1.pdf Graphic file (type pdf)
+ <use figs/chapter_appendix/sys_c6_1sub_Har4_Pt1.pdf>
+Package pdftex.def Info: figs/chapter_appendix/sys_c6_1sub_Har4_Pt1.pdf used on
+ input line 774.
+(pdftex.def)             Requested size: 165.75119pt x 155.81506pt.
+
+Overfull \vbox (3.44518pt too high) has occurred while \output is active []
+
+
+[209 <./figs/chapter_appendix/sys_c6_1sub_Har2_Pt0.pdf, page is rotated 90 degr
+ees> <./figs/chapter_appendix/sys_c6_1sub_Har2_Pt1.pdf, page is rotated 90 degr
+ees> <./figs/chapter_appendix/sys_c6_1sub_Har3_Pt0.pdf, page is rotated 90 degr
+ees> <./figs/chapter_appendix/sys_c6_1sub_Har3_Pt1.pdf, page is rotated 90 degr
+ees> <./figs/chapter_appendix/sys_c6_1sub_Har4_Pt0.pdf, page is rotated 90 degr
+ees> <./figs/chapter_appendix/sys_c6_1sub_Har4_Pt1.pdf, page is rotated 90 degr
+ees>]
+<figs/chapter_appendix/sys_sc_1sub_Har2_Pt0.pdf, id=9905, 569.12625pt x 534.998
+75pt>
+File: figs/chapter_appendix/sys_sc_1sub_Har2_Pt0.pdf Graphic file (type pdf)
+ <use figs/chapter_appendix/sys_sc_1sub_Har2_Pt0.pdf>
+Package pdftex.def Info: figs/chapter_appendix/sys_sc_1sub_Har2_Pt0.pdf used on
+ input line 780.
+(pdftex.def)             Requested size: 165.75119pt x 155.81506pt.
+
+<figs/chapter_appendix/sys_sc_1sub_Har2_Pt1.pdf, id=9906, 569.12625pt x 534.998
+75pt>
+File: figs/chapter_appendix/sys_sc_1sub_Har2_Pt1.pdf Graphic file (type pdf)
+ <use figs/chapter_appendix/sys_sc_1sub_Har2_Pt1.pdf>
+Package pdftex.def Info: figs/chapter_appendix/sys_sc_1sub_Har2_Pt1.pdf used on
+ input line 781.
+(pdftex.def)             Requested size: 165.75119pt x 155.81506pt.
+
+<figs/chapter_appendix/sys_sc_1sub_Har3_Pt0.pdf, id=9907, 569.12625pt x 534.998
+75pt>
+File: figs/chapter_appendix/sys_sc_1sub_Har3_Pt0.pdf Graphic file (type pdf)
+ <use figs/chapter_appendix/sys_sc_1sub_Har3_Pt0.pdf>
+Package pdftex.def Info: figs/chapter_appendix/sys_sc_1sub_Har3_Pt0.pdf used on
+ input line 782.
+(pdftex.def)             Requested size: 165.75119pt x 155.81506pt.
+
+<figs/chapter_appendix/sys_sc_1sub_Har3_Pt1.pdf, id=9908, 569.12625pt x 534.998
+75pt>
+File: figs/chapter_appendix/sys_sc_1sub_Har3_Pt1.pdf Graphic file (type pdf)
+ <use figs/chapter_appendix/sys_sc_1sub_Har3_Pt1.pdf>
+Package pdftex.def Info: figs/chapter_appendix/sys_sc_1sub_Har3_Pt1.pdf used on
+ input line 783.
+(pdftex.def)             Requested size: 165.75119pt x 155.81506pt.
+
+<figs/chapter_appendix/sys_ac_1sub_Har2_Pt0.pdf, id=9909, 569.12625pt x 534.998
+75pt>
+File: figs/chapter_appendix/sys_ac_1sub_Har2_Pt0.pdf Graphic file (type pdf)
+ <use figs/chapter_appendix/sys_ac_1sub_Har2_Pt0.pdf>
+Package pdftex.def Info: figs/chapter_appendix/sys_ac_1sub_Har2_Pt0.pdf used on
+ input line 789.
+(pdftex.def)             Requested size: 165.75119pt x 155.81506pt.
+
+<figs/chapter_appendix/sys_ac_1sub_Har2_Pt1.pdf, id=9910, 569.12625pt x 534.998
+75pt>
+File: figs/chapter_appendix/sys_ac_1sub_Har2_Pt1.pdf Graphic file (type pdf)
+ <use figs/chapter_appendix/sys_ac_1sub_Har2_Pt1.pdf>
+Package pdftex.def Info: figs/chapter_appendix/sys_ac_1sub_Har2_Pt1.pdf used on
+ input line 790.
+(pdftex.def)             Requested size: 165.75119pt x 155.81506pt.
+ [210 <./figs/chapter_appendix/sys_sc_1sub_Har2_Pt0.pdf, page is rotated 90 deg
+rees> <./figs/chapter_appendix/sys_sc_1sub_Har2_Pt1.pdf, page is rotated 90 deg
+rees> <./figs/chapter_appendix/sys_sc_1sub_Har3_Pt0.pdf, page is rotated 90 deg
+rees> <./figs/chapter_appendix/sys_sc_1sub_Har3_Pt1.pdf, page is rotated 90 deg
+rees>]) [211 <./figs/chapter_appendix/sys_ac_1sub_Har2_Pt0.pdf, page is rotated
+ 90 degrees> <./figs/chapter_appendix/sys_ac_1sub_Har2_Pt1.pdf, page is rotated
+ 90 degrees>]
+(./Thesis_MingliangZhou_ATLAS.bbl
+Underfull \hbox (badness 1383) in paragraph at lines 48--51
+[] []\OT1/cmr/m/n/12 B. Betz, \OT1/cmr/m/it/12 Jet Prop-a-ga-tion and Mach-Cone
+ For-ma-tion in (3+1)-
+ []
+
+[212]
+Missing character: There is no √ in font cmr12!
+Missing character: There is no º in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+ [213]
+Underfull \hbox (badness 1014) in paragraph at lines 110--113
+\OT1/cmr/m/n/12 Mul-ti-plic-ity Dis-tri-bu-tions at RHIC,'' \OT1/cmr/m/it/12 Ph
+ys. Rev. Lett.\OT1/cmr/m/n/12 , vol. 112,
+ []
+
+[214] [215] [216] [217] [218] [219] [220]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+
+Underfull \hbox (badness 1540) in paragraph at lines 512--515
+[] []\OT1/cmr/m/n/12 G. Aad \OT1/cmr/m/it/12 et al.\OT1/cmr/m/n/12 , ``Ob-ser-v
+a-tion of Long-Range El-lip-tic Az-imuthal
+ []
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+[221]
+Underfull \hbox (badness 2521) in paragraph at lines 547--550
+[] []\OT1/cmr/m/n/12 A. M. Sirun-yan \OT1/cmr/m/it/12 et al.\OT1/cmr/m/n/12 , `
+`Ob-ser-va-tion of Cor-re-lated Az-imuthal
+ []
+
+Missing character: There is no ≈ in font cmr12!
+Missing character: There is no ° in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ° in font cmr12!
+[222]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+ [223] [224] [225] [226])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 281.
+ [227]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 281.
+ (./Thesis_MingliangZhou_ATLAS.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 281.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 281.
+Package rerunfilecheck Info: File `Thesis_MingliangZhou_ATLAS.out' has not chan
+ged.
+(rerunfilecheck)             Checksum: BF17DB2CD520EB9AD5656130E6BA1B9E;8523.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 281.
+ ) 
+Here is how much of TeX's memory you used:
+ 11928 strings out of 493089
+ 205868 string characters out of 6134842
+ 349316 words of memory out of 5000000
+ 14155 multiletter control sequences out of 15000+600000
+ 24083 words of font info for 85 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 36i,24n,41p,2207b,508s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolS.enc}{/
+usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{/usr/
+local/texlive/2015/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{/usr/loca
+l/texlive/2015/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{/usr/local/te
+xlive/2015/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolF.enc}{/usr/local/texliv
+e/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive
+/2015/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol12.pfb></usr/local/texlive
+/2015/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol6.pfb></usr/local/texlive/
+2015/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol8.pfb></usr/local/texlive/2
+015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/20
+15/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2015
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2015/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2015/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2015/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2015/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2015/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2015/texmf-dist/fon
+ts/type1/public/cm-super/sfrm1200.pfb>
+Output written on Thesis_MingliangZhou_ATLAS.pdf (257 pages, 27348673 bytes).
+PDF statistics:
+ 10494 PDF objects out of 10688 (max. 8388607)
+ 6189 compressed objects within 62 object streams
+ 859 named destinations out of 1000 (max. 500000)
+ 1916 words of extra memory for PDF output out of 10000 (max. 10000000)
+

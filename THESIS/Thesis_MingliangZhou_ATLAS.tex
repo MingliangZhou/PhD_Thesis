@@ -1,0 +1,281 @@
+\documentclass[12pt]{article}
+\usepackage{lingmacros}
+\usepackage{tree-dvips}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{amssymb}
+\usepackage{url}
+\usepackage{cancel}
+\usepackage{morefloats}
+\usepackage{harpoon}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{amsmath}
+\usepackage{MnSymbol}
+\usepackage{multirow}
+\usepackage{enumitem}
+\usepackage[colorlinks,breaklinks]{hyperref}
+\hypersetup{linkcolor=blue,citecolor=blue,filecolor=black,urlcolor=blue}
+
+\usepackage{titlesec}
+\setcounter{secnumdepth}{4}
+\titleformat{\paragraph}
+{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+\titlespacing*{\paragraph}
+{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+
+\newcommand{\lr}[1]{\left\langle #1\right\rangle}
+\newcommand{\pT}{p_\text{T}}
+\newcommand{\Nchsel}{N_\text{ch}^\text{sel}}
+\newcommand{\Nchrec}{N_\text{ch}^\text{rec}}
+\newcommand{\Nch}{N_\text{ch}}
+\newcommand{\Et}{\Sigma E_\text{T}}
+\newcommand{\Nf}{N_\text{part}^\text{F}}
+\newcommand{\Nb}{N_\text{part}^\text{B}}
+\newcommand{\Nnf}{N_\text{neu}^\text{F}}
+\newcommand{\Nnb}{N_\text{neu}^\text{B}}
+\newcommand{\Nsf}{N_\text{spec}^\text{F}}
+\newcommand{\Nsb}{N_\text{spec}^\text{B}}
+\newcommand{\dSo}{\delta_\text{SRC}^{+-}}
+\newcommand{\dSs}{\delta_\text{SRC}^{\pm\pm}}
+\newcommand{\Npart}{N_\text{part}}
+
+\begin{document}
+\pagenumbering{gobble}
+\title{\bf{Study of particle correlation and fluctuation}}
+\title{\bf{from nucleus-nucleus collisions to proton-proton collisions}}
+\title{\bf{with the ATLAS detector at the LHC}}
+
+\vspace*{3\baselineskip}
+\centerline{\bf{Study of particle correlation and fluctuation}}
+\centerline{\bf{from nucleus-nucleus collisions to proton-proton collisions}}
+\centerline{\bf{with the ATLAS detector at the LHC}}
+\vspace*{1\baselineskip}
+\centerline{A Dissertation presented}
+\vspace*{1\baselineskip}
+\centerline{by} 
+\vspace*{1\baselineskip}
+\centerline{\bf{Mingliang Zhou}}
+\vspace*{1\baselineskip}
+\centerline{to} 
+\vspace*{1\baselineskip}
+\centerline{The Graduate School}
+\vspace*{1\baselineskip}
+\centerline{in Partial Fulfillment of the}
+\vspace*{1\baselineskip}
+\centerline{Requirements}
+\vspace*{1\baselineskip}
+\centerline{for the Degree of}
+\vspace*{1\baselineskip}
+\centerline{\bf{Doctor of Philosophy}}
+\vspace*{1\baselineskip}
+\centerline{in}
+\vspace*{1\baselineskip}
+\centerline{\bf{Physics}}
+%\vspace*{1\baselineskip}
+%\centerline{\bf{(Concentration - optional)}}
+\vspace*{2\baselineskip}
+\centerline{Stony Brook University}
+\vspace*{2\baselineskip}
+\centerline{\bf{May 2019}}
+
+\newpage
+\pagenumbering{gobble}
+
+\vspace*{32\baselineskip}
+%\centerline{\it{(include this copyright page only if you are selecting copyright through ProQuest, which is optional)}}
+\vspace*{1\baselineskip}
+\centerline{Copyright by}
+\centerline{Mingliang Zhou}
+\centerline{2019}
+
+\newpage
+\pagenumbering{roman}
+\setcounter{page}{2}
+
+\centerline{\bf{Stony Brook University}}
+\vspace*{1\baselineskip}
+\centerline{The Graduate School}
+\vspace*{2\baselineskip}
+\centerline{Mingliang Zhou}
+\vspace*{2\baselineskip}
+\centerline{We, the dissertation committe for the above candidate for the}
+\vspace*{1\baselineskip}
+\centerline{Doctor of Philosophy degree, hereby recommend}
+\vspace*{1\baselineskip}
+\centerline{acceptance of this dissertation}
+\vspace*{2\baselineskip}
+\centerline{\bf{Jiangyong Jia - Dissertation Advisor}}
+\centerline{\bf{Professor, Department of Chemistry}}
+\vspace*{2\baselineskip}
+\centerline{\bf{Derek Teaney - Chairperson of Defense}}
+\centerline{\bf{Associate Professor, Department of Physics and Astronomy}}
+\vspace*{2\baselineskip}
+\centerline{\bf{Michael Zingale}}
+\centerline{\bf{Associate Professor, Department of Physics and Astronomy}} 
+\vspace*{2\baselineskip}
+\centerline{\bf{Lijuan Ruan}}
+\centerline{\bf{Physicist, Physics Department}}
+\centerline{\bf{Brookhaven National Lab}}
+\vspace*{2\baselineskip}
+\centerline{This dissertation is accepted by the Graduate School}
+\vspace*{3\baselineskip}
+\centerline{Dean of the Graduate School}
+
+\newpage
+
+\centerline{Abstract of the Dissertation}
+\vspace*{1\baselineskip}
+\centerline{\bf{Study of particle correlation and fluctuation}}
+\centerline{\bf{from nucleus-nucleus collisions to proton-proton collisions}}
+\centerline{\bf{with the ATLAS detector at the LHC}}
+\vspace*{1\baselineskip}
+\centerline{by}
+\vspace*{1\baselineskip}
+\centerline{\bf{Mingliang Zhou}}
+\vspace*{1\baselineskip}
+\centerline{\bf{Doctor of Philosophy}}
+\vspace*{1\baselineskip}
+\centerline{in}
+\vspace*{1\baselineskip}
+\centerline{\bf{Physics}}
+\vspace*{1\baselineskip}
+\centerline{Stony Brook University}
+\vspace*{1\baselineskip}
+\centerline{\bf{2019}}
+\vspace*{2\baselineskip}
+
+Quark Gluon Plasma (QGP) is a novel state of nuclear matter consist of strongly-interacting quarks. This state only exists in extremely high temperature and density, and can be produced by colliding high energy nuclei. This dissertation utilized several theoretical models and collision data collected by the ATLAS detector at the LHC, to study the particle correlations in both the longitudinal and azimuthal directions.
+
+In the longitudinal direction, we proposed a new observable to study the event-by-event multiplicity fluctuation, through decomposing the multiplicity correlation in pseudorapidity into orthogonal bases. The pseudorapidity correlation function contains a significant short-range component, which is estimated and subtracted in a date-driven way. After removal of the short-range component, the multiplicity correlation was found to be dominated by a linear component, and its magnitude was found to be consistent among different collision systems at similar multiplicity. These results provide new constrains on the longitudinal density fluctuation at early stages of the heavy-ion collisions.
+
+In the transverse direction, multi-particle azimuthal cumulant technique was applied to study the event-by-event fluctuations of harmonic flow coefficient $v_n$ and correlated fluctuations between two harmonics $v_n$ and $v_m$. To probe the properties of QGP, we compared the cumulant measurements from two collision systems with different nuclei sizes (Pb+Pb and Xe+Xe), and the results are quantitatively consistent with the hydrodynamical predictions. The influence of centrality fluctuation on the flow cumulants was also studied. This measurement was also carried out for smaller collision systems such as $p$+Pb and $pp$. Novel event selection triggers were designed to enhance the event statistics and state-of-the-art subevent algorithms were developed to suppress the non-flow background. These new results provide a handle to disentangle flow fluctuations from the initial and final stages, and also suggest that the prerequisites of QGP might also be achieved in much smaller collision systems.
+
+
+%\newpage
+%\centerline{\bf{Dedication Page}}
+%\vspace*{4\baselineskip}
+%Optional.
+
+%\newpage
+%\centerline{\bf{Frontispiece}}
+%\vspace*{4\baselineskip}
+%The frontispiece is generally an illustration, and is an optional page.
+
+\newpage
+\centerline{\bf{Table of Contents}}
+\tableofcontents
+
+\newpage
+\centerline{\bf{List of Figures}}
+\vspace*{4\baselineskip}
+\listoffigures
+
+\newpage
+\centerline{\bf{List of Tables}}
+\vspace*{4\baselineskip}
+\listoftables
+
+\newpage
+\centerline{\bf{List of Abbreviations}}
+\vspace*{4\baselineskip}
+\begin{table}[H]
+\large
+\begin{tabular}{ll}
+ALICE & A Large Ion Collider Experiment \\
+ATLAS & A Toroidal LHC Apparatus \\
+BES & Beam Energy Scan \\
+BNL & Brookhaven National Laboratory \\
+CEP & Critical End Point \\
+CGC & Color Glass Condensate \\
+CMS & Compact Muon Solenoid \\
+DIS & Deep Inelastic Scattering \\
+EM & Electromagnetic \\
+EMCal & Electromagnetic Calorimeter \\
+GeV & Giga-electronVolt \\
+HI & Heavy Ion \\
+LHC & Large Hadron Collider \\
+MB & Minimum Bias \\
+MeV & Mega-electronVolt \\
+MinBias & Minimum Bias \\
+MC & Monte Carlo \\
+NBD & Negative Binomial Distribution \\
+QCD & Quantum Chromodynamics \\
+QED & Quantum Electrodynamics \\
+QGP & Quark Gluon Plasma \\
+RHIC & Relativistic Heavy Ion Collider \\
+ZDC & Zero Degree Calorimeter \\
+pQCD & perturbative QCD \\
+ &
+\end{tabular}
+\end{table}
+
+%\newpage
+%\centerline{\bf{Preface}}
+%\vspace*{4\baselineskip}
+%This page is optional.
+
+\newpage
+\centerline{\bf{Acknowledgements}}
+\vspace*{4\baselineskip}
+First of all, I would like to express my gratitudes to my advisor Prof. Jia for guiding me through out my Ph.D. years. When I first joined the group, he was very patient with me even though I had no experience in nuclear physics. His dedication to physics research always motivated me and I really enjoyed working together with him. I am certain that his spirits will keep my inspired even after my graduation.
+
+I would also like to thank Prof. Lacey. He kept filling me with new ideas and discussing with him made me realize there were still lots of knowledge for me to learn. I will also value my several months' stay at CERN, when I worked hard with my ATLAS colleagues, especially Sasha and Martin. Without them I could not gain the valuable experience of data taking, cleaning and reconstruction.
+
+My thanks also goes to all of my friends in the nuclear physics group (Peng, Peifeng, Damian, Arabinda, Niseem, Ben, Maowu, Chunjian and Yida). It was such a pleasure spending these years with you guys. Without any of you my life at Stony Brook would be much more boring. I would also like to thank my friend Zhongling. You made me realize that experimental physicists should not spend all day on experiments. To my friend Sichen, who challenged me with lots of mathematical and machine learning problems. Finally, to all of my friends at Stony Brook (Aleksas, Rasmus, Yiqian, Yanliang, Yifan, Rui and Ningqiang), those sweet memories will not fade easily.
+
+Last but not the least, I would like to thank my parents for always understanding me and supporting me, no matter what career path I choose.
+
+I am lucky to have all you guys!
+
+\newpage
+\centerline{\bf{Publications and Proceedings}}
+\vspace*{4\baselineskip}
+\begin{enumerate}
+\item M. Zhou for the ATLAS Collaboration. ``Fluctuations of anisotropic flow in Pb+Pb collisions at $\sqrt{s_\text{NN}}=5.02$ TeV with the ATLAS detector'' Submitted to Journal of High Energy Physics
+\item M. Zhou for the ATLAS Collaboration. ``Flow fluctuations in Pb+Pb collisions with the ATLAS detector'' Nucl. Phys. A \textbf{982}, 323 (2019)
+\item M. Zhou and J. Jia. ``Centrality or volume fluctuations in heavy-ion collisions.'' Phys. Rev. C \textbf{98}, no. 4, 044903 (2018)
+\item M. Zhou for the ATLAS Collaboration. ``Measurement of long-range multi-particle azimuthal correlations with the subevent cumulant in $pp$ and $p$+Pb collisions with the ATLAS detector at the CERN Large Hadron Collider'' Phys. Rev. C \textbf{97}, 024904 (2018)
+\item M. Zhou for the ATLAS Collaboration. ``Measurement of multi-particle azimuthal correlations with the subevent cumulant method in $pp$ and $p$+Pb collisions with the ATLAS detector'' Nucl. Phys. A \textbf{967}, Pages 472-475 (2017)
+\item J. Jia, M. Zhou and A. Trzupek. ``Revealing long-range multi-particle collectivity in small collision systems via subevent cumulants'' Phys. Rev. C \textbf{96}, 034906 (2017)
+\item M. Zhou for the ATLAS Collaboration. ``Measurement of forward-backward multiplicity correlations in Pb+Pb, $p$+Pb, and $pp$ collisions with the ATLAS detector'' Phys. Rev. C \textbf{95}, 064914 (2017)
+\item M. Zhou for the ATLAS Collaboration. ``Observation of long-range elliptic anisotropies in $\sqrt{s}=13$ and 2.76 TeV $pp$ collisions with the ATLAS detector'' Nucl. Phys. A \textbf{956}, Pages 769-772 (2016)
+\item J. Jia, S. Radhakrishnan, and M. Zhou. ``Forward-backward multiplicity fluctuation and longitudinal harmonics in high-energy nuclear collisions'' Phys. Rev. C \textbf{93}, 044905 (2016)
+\end{enumerate}
+
+\pagenumbering{arabic}
+
+\newpage
+%\centerline{\bf{Chapter 1}}
+{\bf\huge{Chapter 1}\par}
+\input{chapter_intro}
+
+\newpage
+{\bf\huge{Chapter 2}\par}
+\input{chapter_detector}
+
+\newpage
+{\bf\huge{Chapter 3}\par}
+\input{chapter_fbcorr}
+
+\newpage
+{\bf\huge{Chapter 4}\par}
+\input{chapter_subcumu}
+
+\newpage
+{\bf\huge{Chapter 5}\par}
+\input{chapter_centfluc}
+
+\newpage
+{\bf\huge{Chapter 6}\par}
+\input{chapter_summary}
+
+\newpage
+{\bf\huge{Appendix}\par}
+\input{chapter_appendix}
+
+\newpage
+\bibliographystyle{ieeetr}
+\bibliography{Thesis_MingliangZhou_ATLAS}
+
+\end{document}

@@ -1,0 +1,7 @@
+rm Thesis_MingliangZhou_ATLAS.aux
+rm Thesis_MingliangZhou_ATLAS.bbl
+
+pdflatex Thesis_MingliangZhou_ATLAS
+bibtex Thesis_MingliangZhou_ATLAS
+pdflatex Thesis_MingliangZhou_ATLAS
+pdflatex Thesis_MingliangZhou_ATLAS

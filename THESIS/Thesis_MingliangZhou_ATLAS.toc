@@ -1,155 +1,155 @@
-\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
-\contentsline {subsection}{\numberline {1.1}Quark Gluon Plasma}{2}{subsection.1.1}
-\contentsline {subsubsection}{\numberline {1.1.1}Fundamental particles}{2}{subsubsection.1.1.1}
-\contentsline {subsubsection}{\numberline {1.1.2}Color confinement}{3}{subsubsection.1.1.2}
-\contentsline {subsubsection}{\numberline {1.1.3}QCD phase diagram}{4}{subsubsection.1.1.3}
-\contentsline {subsubsection}{\numberline {1.1.4}QGP in cosmology}{6}{subsubsection.1.1.4}
-\contentsline {subsubsection}{\numberline {1.1.5}QGP in heavy ion collision}{7}{subsubsection.1.1.5}
-\contentsline {subsection}{\numberline {1.2}Kinematics of HI collisions}{8}{subsection.1.2}
-\contentsline {subsubsection}{\numberline {1.2.1}Lorentz transformation}{9}{subsubsection.1.2.1}
-\contentsline {subsubsection}{\numberline {1.2.2}Rapidity variable}{9}{subsubsection.1.2.2}
-\contentsline {subsubsection}{\numberline {1.2.3}Pseudorapidity variable}{10}{subsubsection.1.2.3}
-\contentsline {subsubsection}{\numberline {1.2.4}Invariant distribution}{11}{subsubsection.1.2.4}
-\contentsline {subsubsection}{\numberline {1.2.5}Luminosity}{11}{subsubsection.1.2.5}
-\contentsline {subsubsection}{\numberline {1.2.6}Collision geometry}{12}{subsubsection.1.2.6}
-\contentsline {subsubsection}{\numberline {1.2.7}Centrality}{13}{subsubsection.1.2.7}
-\contentsline {subsection}{\numberline {1.3}Examples of QGP probes}{14}{subsection.1.3}
-\contentsline {subsubsection}{\numberline {1.3.1}Strangeness production}{15}{subsubsection.1.3.1}
-\contentsline {subsubsection}{\numberline {1.3.2}Elliptic flow}{16}{subsubsection.1.3.2}
-\contentsline {subsubsection}{\numberline {1.3.3}Jet quenching}{17}{subsubsection.1.3.3}
-\contentsline {subsubsection}{\numberline {1.3.4}Fluctuations of conserved quantities}{20}{subsubsection.1.3.4}
-\contentsline {subsubsection}{\numberline {1.3.5}Hanbury Brown and Twist (HBT)}{21}{subsubsection.1.3.5}
-\contentsline {subsection}{\numberline {1.4}Motivation of this dissertation}{22}{subsection.1.4}
-\contentsline {subsubsection}{\numberline {1.4.1}Measurements in the transverse plane}{23}{subsubsection.1.4.1}
-\contentsline {subsubsection}{\numberline {1.4.2}Measurements in the longitudinal direction}{25}{subsubsection.1.4.2}
-\contentsline {subsection}{\numberline {1.5}Outline of this dissertation}{26}{subsection.1.5}
-\contentsline {section}{\numberline {2}The ATLAS detector and data taking}{27}{section.2}
-\contentsline {subsection}{\numberline {2.1}The Large Hadron Collider}{27}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}The ATLAS detector}{28}{subsection.2.2}
-\contentsline {subsubsection}{\numberline {2.2.1}Inner Detector}{30}{subsubsection.2.2.1}
-\contentsline {paragraph}{\numberline {2.2.1.1}Pixel}{31}{paragraph.2.2.1.1}
-\contentsline {paragraph}{\numberline {2.2.1.2}SCT}{34}{paragraph.2.2.1.2}
-\contentsline {paragraph}{\numberline {2.2.1.3}TRT}{36}{paragraph.2.2.1.3}
-\contentsline {subsubsection}{\numberline {2.2.2}Forward Calorimeter}{36}{subsubsection.2.2.2}
-\contentsline {subsubsection}{\numberline {2.2.3}Zero Degree Calorimeter}{38}{subsubsection.2.2.3}
-\contentsline {subsubsection}{\numberline {2.2.4}Minimum-Bias Trigger Scintillators}{40}{subsubsection.2.2.4}
-\contentsline {subsection}{\numberline {2.3}Data acquisition and selection}{41}{subsection.2.3}
-\contentsline {subsubsection}{\numberline {2.3.1}Pb+Pb at $\sqrt {s_\text {NN}}=5.02$ TeV}{42}{subsubsection.2.3.1}
-\contentsline {paragraph}{\numberline {2.3.1.1}Trigger}{42}{paragraph.2.3.1.1}
-\contentsline {paragraph}{\numberline {2.3.1.2}Event selection}{43}{paragraph.2.3.1.2}
-\contentsline {paragraph}{\numberline {2.3.1.3}Centrality determination}{45}{paragraph.2.3.1.3}
-\contentsline {paragraph}{\numberline {2.3.1.4}Track selection, efficiency and fake rate}{46}{paragraph.2.3.1.4}
-\contentsline {subsubsection}{\numberline {2.3.2}Xe+Xe at $\sqrt {s_\text {NN}}=5.44$ TeV}{49}{subsubsection.2.3.2}
-\contentsline {paragraph}{\numberline {2.3.2.1}Trigger}{50}{paragraph.2.3.2.1}
-\contentsline {paragraph}{\numberline {2.3.2.2}Event selection}{51}{paragraph.2.3.2.2}
-\contentsline {paragraph}{\numberline {2.3.2.3}Centrality determination}{52}{paragraph.2.3.2.3}
-\contentsline {paragraph}{\numberline {2.3.2.4}Track selection, efficiency and fake rate}{53}{paragraph.2.3.2.4}
-\contentsline {subsubsection}{\numberline {2.3.3}$p$+Pb at $\sqrt {s}=5.02$ TeV}{54}{subsubsection.2.3.3}
-\contentsline {paragraph}{\numberline {2.3.3.1}Trigger}{55}{paragraph.2.3.3.1}
-\contentsline {paragraph}{\numberline {2.3.3.2}Event selection}{57}{paragraph.2.3.3.2}
-\contentsline {paragraph}{\numberline {2.3.3.3}Track selection, efficiency and fake rate}{57}{paragraph.2.3.3.3}
-\contentsline {subsubsection}{\numberline {2.3.4}$pp$ at $\sqrt {s}=13$ TeV}{59}{subsubsection.2.3.4}
-\contentsline {paragraph}{\numberline {2.3.4.1}Trigger}{59}{paragraph.2.3.4.1}
-\contentsline {paragraph}{\numberline {2.3.4.2}Event selection}{60}{paragraph.2.3.4.2}
-\contentsline {paragraph}{\numberline {2.3.4.3}Track selection, efficiency and fake rate}{60}{paragraph.2.3.4.3}
-\contentsline {section}{\numberline {3}Forward-Backward Multiplicity Correlations}{64}{section.3}
-\contentsline {subsection}{\numberline {3.1}Introduction}{64}{subsection.3.1}
-\contentsline {subsubsection}{\numberline {3.1.1}Forward-backward multiplicity correlations}{64}{subsubsection.3.1.1}
-\contentsline {subsubsection}{\numberline {3.1.2}Previous studies and their limitations}{65}{subsubsection.3.1.2}
-\contentsline {subsection}{\numberline {3.2}Methodology}{68}{subsection.3.2}
-\contentsline {subsubsection}{\numberline {3.2.1}Observables}{68}{subsubsection.3.2.1}
-\contentsline {paragraph}{\numberline {3.2.1.1}Single-particle method}{68}{paragraph.3.2.1.1}
-\contentsline {paragraph}{\numberline {3.2.1.2}Two-particle correlation method}{69}{paragraph.3.2.1.2}
-\contentsline {subsubsection}{\numberline {3.2.2}Removal of short-range correlation}{71}{subsubsection.3.2.2}
-\contentsline {paragraph}{\numberline {3.2.2.1}Outline}{71}{paragraph.3.2.2.1}
-\contentsline {paragraph}{\numberline {3.2.2.2}Probing the SRC via the same-charge and opposite-charge correlations}{72}{paragraph.3.2.2.2}
-\contentsline {paragraph}{\numberline {3.2.2.3}Separation of the SRC and the LRC}{76}{paragraph.3.2.2.3}
-\contentsline {paragraph}{\numberline {3.2.2.4}Iterative correction for single-particle mode}{78}{paragraph.3.2.2.4}
-\contentsline {subsubsection}{\numberline {3.2.3}Other independent observables}{79}{subsubsection.3.2.3}
-\contentsline {subsection}{\numberline {3.3}Results}{81}{subsection.3.3}
-\contentsline {subsubsection}{\numberline {3.3.1}HIJING and AMPT models}{81}{subsubsection.3.3.1}
-\contentsline {paragraph}{\numberline {3.3.1.1}Correlating single-particle $a_n$ with participants asymmetry}{81}{paragraph.3.3.1.1}
-\contentsline {paragraph}{\numberline {3.3.1.2}Correlating $a_1$ with spectator asymmetry}{85}{paragraph.3.3.1.2}
-\contentsline {paragraph}{\numberline {3.3.1.3}Two-particle correlation method}{87}{paragraph.3.3.1.3}
-\contentsline {subsubsection}{\numberline {3.3.2}ATLAS data}{90}{subsubsection.3.3.2}
-\contentsline {subsection}{\numberline {3.4}Summary and discussion}{101}{subsection.3.4}
-\contentsline {subsection}{\numberline {3.5}Outlook}{103}{subsection.3.5}
-\contentsline {subsubsection}{\numberline {3.5.1}Generalization of the observable}{103}{subsubsection.3.5.1}
-\contentsline {subsubsection}{\numberline {3.5.2}Projections in Run 3 and Run 4}{105}{subsubsection.3.5.2}
-\contentsline {section}{\numberline {4}Subevent Cumulant in Small Systems}{107}{section.4}
-\contentsline {subsection}{\numberline {4.1}Introduction}{107}{subsection.4.1}
-\contentsline {subsubsection}{\numberline {4.1.1}Collective flow}{107}{subsubsection.4.1.1}
-\contentsline {subsubsection}{\numberline {4.1.2}Flow fluctuation}{108}{subsubsection.4.1.2}
-\contentsline {subsection}{\numberline {4.2}Standard cumulant method}{110}{subsection.4.2}
-\contentsline {subsubsection}{\numberline {4.2.1}Basic ideas}{111}{subsubsection.4.2.1}
-\contentsline {subsubsection}{\numberline {4.2.2}Limitations}{112}{subsubsection.4.2.2}
-\contentsline {subsection}{\numberline {4.3}Subevent cumulant method}{113}{subsection.4.3}
-\contentsline {subsubsection}{\numberline {4.3.1}Basic ideas}{114}{subsubsection.4.3.1}
-\contentsline {subsubsection}{\numberline {4.3.2}Methodology}{115}{subsubsection.4.3.2}
-\contentsline {subsection}{\numberline {4.4}Results}{116}{subsection.4.4}
-\contentsline {subsubsection}{\numberline {4.4.1}PYTHIA model}{116}{subsubsection.4.4.1}
-\contentsline {paragraph}{\numberline {4.4.1.1}Simulation setup}{116}{paragraph.4.4.1.1}
-\contentsline {paragraph}{\numberline {4.4.1.2}Dependence on the event-class definition}{117}{paragraph.4.4.1.2}
-\contentsline {paragraph}{\numberline {4.4.1.3}Comparison between different cumulant methods}{118}{paragraph.4.4.1.3}
-\contentsline {paragraph}{\numberline {4.4.1.4}Bin width effects}{119}{paragraph.4.4.1.4}
-\contentsline {subsubsection}{\numberline {4.4.2}ATLAS data}{120}{subsubsection.4.4.2}
-\contentsline {paragraph}{\numberline {4.4.2.1}Dependence on the event-class definition}{120}{paragraph.4.4.2.1}
-\contentsline {paragraph}{\numberline {4.4.2.2}Comparison between different cumulant methods}{121}{paragraph.4.4.2.2}
-\contentsline {paragraph}{\numberline {4.4.2.3}Three-subevent flow harmonic $v_2\{4\}$}{124}{paragraph.4.4.2.3}
-\contentsline {paragraph}{\numberline {4.4.2.4}Dependence on the number of sources in the initial state}{126}{paragraph.4.4.2.4}
-\contentsline {subsection}{\numberline {4.5}Summary and discussion}{127}{subsection.4.5}
-\contentsline {subsection}{\numberline {4.6}Outlook}{129}{subsection.4.6}
-\contentsline {subsubsection}{\numberline {4.6.1}Potential improvements}{129}{subsubsection.4.6.1}
-\contentsline {subsubsection}{\numberline {4.6.2}Triangular flow}{130}{subsubsection.4.6.2}
-\contentsline {subsubsection}{\numberline {4.6.3}Correlation between flow harmonics}{132}{subsubsection.4.6.3}
-\contentsline {subsubsection}{\numberline {4.6.4}Flow decorrelation}{134}{subsubsection.4.6.4}
-\contentsline {section}{\numberline {5}Flow and Centrality Fluctuation in Large Systems}{137}{section.5}
-\contentsline {subsection}{\numberline {5.1}Introduction}{137}{subsection.5.1}
-\contentsline {subsubsection}{\numberline {5.1.1}Flow fluctuation and cumulant}{137}{subsubsection.5.1.1}
-\contentsline {subsubsection}{\numberline {5.1.2}A puzzle}{138}{subsubsection.5.1.2}
-\contentsline {subsection}{\numberline {5.2}Centrality fluctuation}{139}{subsection.5.2}
-\contentsline {subsubsection}{\numberline {5.2.1}Origin}{140}{subsubsection.5.2.1}
-\contentsline {subsubsection}{\numberline {5.2.2}Influences on other measurements}{140}{subsubsection.5.2.2}
-\contentsline {subsection}{\numberline {5.3}Methodology}{141}{subsection.5.3}
-\contentsline {subsubsection}{\numberline {5.3.1}Glauber model}{141}{subsubsection.5.3.1}
-\contentsline {subsubsection}{\numberline {5.3.2}ATLAS data}{144}{subsubsection.5.3.2}
-\contentsline {subsubsection}{\numberline {5.3.3}Observable}{147}{subsubsection.5.3.3}
-\contentsline {subsection}{\numberline {5.4}Results}{148}{subsection.5.4}
-\contentsline {subsubsection}{\numberline {5.4.1}Glauber model}{148}{subsubsection.5.4.1}
-\contentsline {subsubsection}{\numberline {5.4.2}ATLAS data}{151}{subsubsection.5.4.2}
-\contentsline {paragraph}{\numberline {5.4.2.1}Flow cumulants for $p(v_n)$}{152}{paragraph.5.4.2.1}
-\contentsline {paragraph}{\numberline {5.4.2.2}Flow cumulants for $p(v_n, v_m)$}{157}{paragraph.5.4.2.2}
-\contentsline {paragraph}{\numberline {5.4.2.3}Dependence on reference event class and the role of centrality fluctuations}{160}{paragraph.5.4.2.3}
-\contentsline {subsection}{\numberline {5.5}Summary and discussion}{166}{subsection.5.5}
-\contentsline {subsubsection}{\numberline {5.5.1}Flow fluctuation}{166}{subsubsection.5.5.1}
-\contentsline {subsubsection}{\numberline {5.5.2}Centrality fluctuation}{167}{subsubsection.5.5.2}
-\contentsline {subsection}{\numberline {5.6}Outlook}{168}{subsection.5.6}
-\contentsline {subsubsection}{\numberline {5.6.1}Smaller collision system: Xe+Xe}{168}{subsubsection.5.6.1}
-\contentsline {subsubsection}{\numberline {5.6.2}More realistic models}{173}{subsubsection.5.6.2}
-\contentsline {section}{\numberline {6}Summary}{175}{section.6}
-\contentsline {section}{\numberline {7}Appendix}{177}{section.7}
-\contentsline {subsection}{\numberline {7.1}Methodology for cumulant analysis}{177}{subsection.7.1}
-\contentsline {subsubsection}{\numberline {7.1.1}2-, 4- and 6-particle correlation $corr_n\{2k\}$}{178}{subsubsection.7.1.1}
-\contentsline {paragraph}{\numberline {7.1.1.1}Standard $Q$-cumulant method}{179}{paragraph.7.1.1.1}
-\contentsline {paragraph}{\numberline {7.1.1.2}3-subevent $Q$-cumulant method}{180}{paragraph.7.1.1.2}
-\contentsline {subsubsection}{\numberline {7.1.2}2-, 4- and 6-particle cumulant $c_n\{2k\}$}{182}{subsubsection.7.1.2}
-\contentsline {paragraph}{\numberline {7.1.2.1}Standard cumulant}{182}{paragraph.7.1.2.1}
-\contentsline {paragraph}{\numberline {7.1.2.2}3-subevent cumulant}{183}{paragraph.7.1.2.2}
-\contentsline {subsubsection}{\numberline {7.1.3}2-, 4- and 6-particle flow signal $v_n\{2k\}$}{184}{subsubsection.7.1.3}
-\contentsline {subsubsection}{\numberline {7.1.4}Normalized cumulant $nc_n\{2k\}$}{185}{subsubsection.7.1.4}
-\contentsline {subsubsection}{\numberline {7.1.5}Universality check of flow fluctuation models}{186}{subsubsection.7.1.5}
-\contentsline {subsubsection}{\numberline {7.1.6}Symmetric cumulant $sc_{n,m}\{4\}$ and $nsc_{n,m}\{4\}$}{187}{subsubsection.7.1.6}
-\contentsline {paragraph}{\numberline {7.1.6.1}Standard symmetric cumulant}{187}{paragraph.7.1.6.1}
-\contentsline {paragraph}{\numberline {7.1.6.2}3-subevent symmetric cumulant}{188}{paragraph.7.1.6.2}
-\contentsline {subsubsection}{\numberline {7.1.7}Asymmetric cumulant $ac_{n,n+m}\{3\}$ and $nac_{n,n+m}\{3\}$}{190}{subsubsection.7.1.7}
-\contentsline {paragraph}{\numberline {7.1.7.1}Standard asymmetric cumulant}{190}{paragraph.7.1.7.1}
-\contentsline {paragraph}{\numberline {7.1.7.2}3-subevent asymmetric cumulant}{191}{paragraph.7.1.7.2}
-\contentsline {subsection}{\numberline {7.2}Systematic uncertainties}{192}{subsection.7.2}
-\contentsline {subsubsection}{\numberline {7.2.1}Trigger selection}{192}{subsubsection.7.2.1}
-\contentsline {subsubsection}{\numberline {7.2.2}Pileup rejection}{195}{subsubsection.7.2.2}
-\contentsline {subsubsection}{\numberline {7.2.3}Centrality definition}{197}{subsubsection.7.2.3}
-\contentsline {subsubsection}{\numberline {7.2.4}Monte-Carlo closure}{198}{subsubsection.7.2.4}
-\contentsline {subsubsection}{\numberline {7.2.5}Flattening}{201}{subsubsection.7.2.5}
-\contentsline {subsubsection}{\numberline {7.2.6}Track selection}{203}{subsubsection.7.2.6}
-\contentsline {subsubsection}{\numberline {7.2.7}Tracking efficiency}{204}{subsubsection.7.2.7}
-\contentsline {subsubsection}{\numberline {7.2.8}Summary}{206}{subsubsection.7.2.8}
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Quark Gluon Plasma}{1}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}Fundamental particles}{1}{subsubsection.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.2}Color confinement}{2}{subsubsection.1.1.2}
+\contentsline {subsubsection}{\numberline {1.1.3}QCD phase diagram}{3}{subsubsection.1.1.3}
+\contentsline {subsubsection}{\numberline {1.1.4}QGP in cosmology}{5}{subsubsection.1.1.4}
+\contentsline {subsubsection}{\numberline {1.1.5}QGP in heavy ion collision}{6}{subsubsection.1.1.5}
+\contentsline {subsection}{\numberline {1.2}Kinematics of HI collisions}{7}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}Lorentz transformation}{8}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}Rapidity variable}{8}{subsubsection.1.2.2}
+\contentsline {subsubsection}{\numberline {1.2.3}Pseudorapidity variable}{9}{subsubsection.1.2.3}
+\contentsline {subsubsection}{\numberline {1.2.4}Invariant distribution}{10}{subsubsection.1.2.4}
+\contentsline {subsubsection}{\numberline {1.2.5}Luminosity}{10}{subsubsection.1.2.5}
+\contentsline {subsubsection}{\numberline {1.2.6}Collision geometry}{11}{subsubsection.1.2.6}
+\contentsline {subsubsection}{\numberline {1.2.7}Centrality}{12}{subsubsection.1.2.7}
+\contentsline {subsection}{\numberline {1.3}Examples of QGP probes}{13}{subsection.1.3}
+\contentsline {subsubsection}{\numberline {1.3.1}Strangeness production}{14}{subsubsection.1.3.1}
+\contentsline {subsubsection}{\numberline {1.3.2}Elliptic flow}{15}{subsubsection.1.3.2}
+\contentsline {subsubsection}{\numberline {1.3.3}Jet quenching}{16}{subsubsection.1.3.3}
+\contentsline {subsubsection}{\numberline {1.3.4}Fluctuations of conserved quantities}{19}{subsubsection.1.3.4}
+\contentsline {subsubsection}{\numberline {1.3.5}Hanbury Brown and Twist (HBT)}{20}{subsubsection.1.3.5}
+\contentsline {subsection}{\numberline {1.4}Motivation of this dissertation}{21}{subsection.1.4}
+\contentsline {subsubsection}{\numberline {1.4.1}Measurements in the transverse plane}{22}{subsubsection.1.4.1}
+\contentsline {subsubsection}{\numberline {1.4.2}Measurements in the longitudinal direction}{24}{subsubsection.1.4.2}
+\contentsline {subsection}{\numberline {1.5}Outline of this dissertation}{25}{subsection.1.5}
+\contentsline {section}{\numberline {2}The ATLAS detector and data taking}{26}{section.2}
+\contentsline {subsection}{\numberline {2.1}The Large Hadron Collider}{26}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}The ATLAS detector}{27}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Inner Detector}{29}{subsubsection.2.2.1}
+\contentsline {paragraph}{\numberline {2.2.1.1}Pixel}{30}{paragraph.2.2.1.1}
+\contentsline {paragraph}{\numberline {2.2.1.2}SCT}{33}{paragraph.2.2.1.2}
+\contentsline {paragraph}{\numberline {2.2.1.3}TRT}{35}{paragraph.2.2.1.3}
+\contentsline {subsubsection}{\numberline {2.2.2}Forward Calorimeter}{35}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Zero Degree Calorimeter}{37}{subsubsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.4}Minimum-Bias Trigger Scintillators}{39}{subsubsection.2.2.4}
+\contentsline {subsection}{\numberline {2.3}Data acquisition and selection}{40}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Pb+Pb at $\sqrt {s_\text {NN}}=5.02$ TeV}{41}{subsubsection.2.3.1}
+\contentsline {paragraph}{\numberline {2.3.1.1}Trigger}{41}{paragraph.2.3.1.1}
+\contentsline {paragraph}{\numberline {2.3.1.2}Event selection}{42}{paragraph.2.3.1.2}
+\contentsline {paragraph}{\numberline {2.3.1.3}Centrality determination}{44}{paragraph.2.3.1.3}
+\contentsline {paragraph}{\numberline {2.3.1.4}Track selection, efficiency and fake rate}{45}{paragraph.2.3.1.4}
+\contentsline {subsubsection}{\numberline {2.3.2}Xe+Xe at $\sqrt {s_\text {NN}}=5.44$ TeV}{48}{subsubsection.2.3.2}
+\contentsline {paragraph}{\numberline {2.3.2.1}Trigger}{49}{paragraph.2.3.2.1}
+\contentsline {paragraph}{\numberline {2.3.2.2}Event selection}{50}{paragraph.2.3.2.2}
+\contentsline {paragraph}{\numberline {2.3.2.3}Centrality determination}{51}{paragraph.2.3.2.3}
+\contentsline {paragraph}{\numberline {2.3.2.4}Track selection, efficiency and fake rate}{52}{paragraph.2.3.2.4}
+\contentsline {subsubsection}{\numberline {2.3.3}$p$+Pb at $\sqrt {s}=5.02$ TeV}{53}{subsubsection.2.3.3}
+\contentsline {paragraph}{\numberline {2.3.3.1}Trigger}{54}{paragraph.2.3.3.1}
+\contentsline {paragraph}{\numberline {2.3.3.2}Event selection}{56}{paragraph.2.3.3.2}
+\contentsline {paragraph}{\numberline {2.3.3.3}Track selection, efficiency and fake rate}{56}{paragraph.2.3.3.3}
+\contentsline {subsubsection}{\numberline {2.3.4}$pp$ at $\sqrt {s}=13$ TeV}{58}{subsubsection.2.3.4}
+\contentsline {paragraph}{\numberline {2.3.4.1}Trigger}{58}{paragraph.2.3.4.1}
+\contentsline {paragraph}{\numberline {2.3.4.2}Event selection}{59}{paragraph.2.3.4.2}
+\contentsline {paragraph}{\numberline {2.3.4.3}Track selection, efficiency and fake rate}{59}{paragraph.2.3.4.3}
+\contentsline {section}{\numberline {3}Forward-Backward Multiplicity Correlations}{63}{section.3}
+\contentsline {subsection}{\numberline {3.1}Introduction}{63}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Forward-backward multiplicity correlations}{63}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Previous studies and their limitations}{64}{subsubsection.3.1.2}
+\contentsline {subsection}{\numberline {3.2}Methodology}{67}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Observables}{67}{subsubsection.3.2.1}
+\contentsline {paragraph}{\numberline {3.2.1.1}Single-particle method}{67}{paragraph.3.2.1.1}
+\contentsline {paragraph}{\numberline {3.2.1.2}Two-particle correlation method}{68}{paragraph.3.2.1.2}
+\contentsline {subsubsection}{\numberline {3.2.2}Removal of short-range correlation}{70}{subsubsection.3.2.2}
+\contentsline {paragraph}{\numberline {3.2.2.1}Outline}{70}{paragraph.3.2.2.1}
+\contentsline {paragraph}{\numberline {3.2.2.2}Probing the SRC via the same-charge and opposite-charge correlations}{71}{paragraph.3.2.2.2}
+\contentsline {paragraph}{\numberline {3.2.2.3}Separation of the SRC and the LRC}{75}{paragraph.3.2.2.3}
+\contentsline {paragraph}{\numberline {3.2.2.4}Iterative correction for single-particle mode}{77}{paragraph.3.2.2.4}
+\contentsline {subsubsection}{\numberline {3.2.3}Other independent observables}{78}{subsubsection.3.2.3}
+\contentsline {subsection}{\numberline {3.3}Results}{80}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}HIJING and AMPT models}{80}{subsubsection.3.3.1}
+\contentsline {paragraph}{\numberline {3.3.1.1}Correlating single-particle $a_n$ with participants asymmetry}{80}{paragraph.3.3.1.1}
+\contentsline {paragraph}{\numberline {3.3.1.2}Correlating $a_1$ with spectator asymmetry}{84}{paragraph.3.3.1.2}
+\contentsline {paragraph}{\numberline {3.3.1.3}Two-particle correlation method}{86}{paragraph.3.3.1.3}
+\contentsline {subsubsection}{\numberline {3.3.2}ATLAS data}{89}{subsubsection.3.3.2}
+\contentsline {subsection}{\numberline {3.4}Summary and discussion}{100}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Outlook}{102}{subsection.3.5}
+\contentsline {subsubsection}{\numberline {3.5.1}Generalization of the observable}{102}{subsubsection.3.5.1}
+\contentsline {subsubsection}{\numberline {3.5.2}Projections in Run 3 and Run 4}{104}{subsubsection.3.5.2}
+\contentsline {section}{\numberline {4}Subevent Cumulant in Small Systems}{106}{section.4}
+\contentsline {subsection}{\numberline {4.1}Introduction}{106}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Collective flow}{106}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}Flow fluctuation}{107}{subsubsection.4.1.2}
+\contentsline {subsection}{\numberline {4.2}Standard cumulant method}{109}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Basic ideas}{110}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Limitations}{111}{subsubsection.4.2.2}
+\contentsline {subsection}{\numberline {4.3}Subevent cumulant method}{112}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Basic ideas}{113}{subsubsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.2}Methodology}{114}{subsubsection.4.3.2}
+\contentsline {subsection}{\numberline {4.4}Results}{115}{subsection.4.4}
+\contentsline {subsubsection}{\numberline {4.4.1}PYTHIA model}{115}{subsubsection.4.4.1}
+\contentsline {paragraph}{\numberline {4.4.1.1}Simulation setup}{115}{paragraph.4.4.1.1}
+\contentsline {paragraph}{\numberline {4.4.1.2}Dependence on the event-class definition}{116}{paragraph.4.4.1.2}
+\contentsline {paragraph}{\numberline {4.4.1.3}Comparison between different cumulant methods}{117}{paragraph.4.4.1.3}
+\contentsline {paragraph}{\numberline {4.4.1.4}Bin width effects}{118}{paragraph.4.4.1.4}
+\contentsline {subsubsection}{\numberline {4.4.2}ATLAS data}{119}{subsubsection.4.4.2}
+\contentsline {paragraph}{\numberline {4.4.2.1}Dependence on the event-class definition}{119}{paragraph.4.4.2.1}
+\contentsline {paragraph}{\numberline {4.4.2.2}Comparison between different cumulant methods}{120}{paragraph.4.4.2.2}
+\contentsline {paragraph}{\numberline {4.4.2.3}Three-subevent flow harmonic $v_2\{4\}$}{123}{paragraph.4.4.2.3}
+\contentsline {paragraph}{\numberline {4.4.2.4}Dependence on the number of sources in the initial state}{125}{paragraph.4.4.2.4}
+\contentsline {subsection}{\numberline {4.5}Summary and discussion}{126}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Outlook}{128}{subsection.4.6}
+\contentsline {subsubsection}{\numberline {4.6.1}Potential improvements}{128}{subsubsection.4.6.1}
+\contentsline {subsubsection}{\numberline {4.6.2}Triangular flow}{129}{subsubsection.4.6.2}
+\contentsline {subsubsection}{\numberline {4.6.3}Correlation between flow harmonics}{131}{subsubsection.4.6.3}
+\contentsline {subsubsection}{\numberline {4.6.4}Flow decorrelation}{133}{subsubsection.4.6.4}
+\contentsline {section}{\numberline {5}Flow and Centrality Fluctuation in Large Systems}{136}{section.5}
+\contentsline {subsection}{\numberline {5.1}Introduction}{136}{subsection.5.1}
+\contentsline {subsubsection}{\numberline {5.1.1}Flow fluctuation and cumulant}{136}{subsubsection.5.1.1}
+\contentsline {subsubsection}{\numberline {5.1.2}A puzzle}{137}{subsubsection.5.1.2}
+\contentsline {subsection}{\numberline {5.2}Centrality fluctuation}{138}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5.2.1}Origin}{139}{subsubsection.5.2.1}
+\contentsline {subsubsection}{\numberline {5.2.2}Influences on other measurements}{139}{subsubsection.5.2.2}
+\contentsline {subsection}{\numberline {5.3}Methodology}{140}{subsection.5.3}
+\contentsline {subsubsection}{\numberline {5.3.1}Glauber model}{140}{subsubsection.5.3.1}
+\contentsline {subsubsection}{\numberline {5.3.2}ATLAS data}{143}{subsubsection.5.3.2}
+\contentsline {subsubsection}{\numberline {5.3.3}Observable}{146}{subsubsection.5.3.3}
+\contentsline {subsection}{\numberline {5.4}Results}{147}{subsection.5.4}
+\contentsline {subsubsection}{\numberline {5.4.1}Glauber model}{147}{subsubsection.5.4.1}
+\contentsline {subsubsection}{\numberline {5.4.2}ATLAS data}{150}{subsubsection.5.4.2}
+\contentsline {paragraph}{\numberline {5.4.2.1}Flow cumulants for $p(v_n)$}{151}{paragraph.5.4.2.1}
+\contentsline {paragraph}{\numberline {5.4.2.2}Flow cumulants for $p(v_n, v_m)$}{156}{paragraph.5.4.2.2}
+\contentsline {paragraph}{\numberline {5.4.2.3}Dependence on reference event class and the role of centrality fluctuations}{159}{paragraph.5.4.2.3}
+\contentsline {subsection}{\numberline {5.5}Summary and discussion}{165}{subsection.5.5}
+\contentsline {subsubsection}{\numberline {5.5.1}Flow fluctuation}{165}{subsubsection.5.5.1}
+\contentsline {subsubsection}{\numberline {5.5.2}Centrality fluctuation}{166}{subsubsection.5.5.2}
+\contentsline {subsection}{\numberline {5.6}Outlook}{167}{subsection.5.6}
+\contentsline {subsubsection}{\numberline {5.6.1}Smaller collision system: Xe+Xe}{167}{subsubsection.5.6.1}
+\contentsline {subsubsection}{\numberline {5.6.2}More realistic models}{172}{subsubsection.5.6.2}
+\contentsline {section}{\numberline {6}Summary}{174}{section.6}
+\contentsline {section}{\numberline {7}Appendix}{176}{section.7}
+\contentsline {subsection}{\numberline {7.1}Methodology for cumulant analysis}{176}{subsection.7.1}
+\contentsline {subsubsection}{\numberline {7.1.1}2-, 4- and 6-particle correlation $corr_n\{2k\}$}{177}{subsubsection.7.1.1}
+\contentsline {paragraph}{\numberline {7.1.1.1}Standard $Q$-cumulant method}{178}{paragraph.7.1.1.1}
+\contentsline {paragraph}{\numberline {7.1.1.2}3-subevent $Q$-cumulant method}{179}{paragraph.7.1.1.2}
+\contentsline {subsubsection}{\numberline {7.1.2}2-, 4- and 6-particle cumulant $c_n\{2k\}$}{181}{subsubsection.7.1.2}
+\contentsline {paragraph}{\numberline {7.1.2.1}Standard cumulant}{181}{paragraph.7.1.2.1}
+\contentsline {paragraph}{\numberline {7.1.2.2}3-subevent cumulant}{182}{paragraph.7.1.2.2}
+\contentsline {subsubsection}{\numberline {7.1.3}2-, 4- and 6-particle flow signal $v_n\{2k\}$}{183}{subsubsection.7.1.3}
+\contentsline {subsubsection}{\numberline {7.1.4}Normalized cumulant $nc_n\{2k\}$}{184}{subsubsection.7.1.4}
+\contentsline {subsubsection}{\numberline {7.1.5}Universality check of flow fluctuation models}{185}{subsubsection.7.1.5}
+\contentsline {subsubsection}{\numberline {7.1.6}Symmetric cumulant $sc_{n,m}\{4\}$ and $nsc_{n,m}\{4\}$}{186}{subsubsection.7.1.6}
+\contentsline {paragraph}{\numberline {7.1.6.1}Standard symmetric cumulant}{186}{paragraph.7.1.6.1}
+\contentsline {paragraph}{\numberline {7.1.6.2}3-subevent symmetric cumulant}{187}{paragraph.7.1.6.2}
+\contentsline {subsubsection}{\numberline {7.1.7}Asymmetric cumulant $ac_{n,n+m}\{3\}$ and $nac_{n,n+m}\{3\}$}{189}{subsubsection.7.1.7}
+\contentsline {paragraph}{\numberline {7.1.7.1}Standard asymmetric cumulant}{189}{paragraph.7.1.7.1}
+\contentsline {paragraph}{\numberline {7.1.7.2}3-subevent asymmetric cumulant}{190}{paragraph.7.1.7.2}
+\contentsline {subsection}{\numberline {7.2}Systematic uncertainties}{191}{subsection.7.2}
+\contentsline {subsubsection}{\numberline {7.2.1}Trigger selection}{191}{subsubsection.7.2.1}
+\contentsline {subsubsection}{\numberline {7.2.2}Pileup rejection}{194}{subsubsection.7.2.2}
+\contentsline {subsubsection}{\numberline {7.2.3}Centrality definition}{196}{subsubsection.7.2.3}
+\contentsline {subsubsection}{\numberline {7.2.4}Monte-Carlo closure}{197}{subsubsection.7.2.4}
+\contentsline {subsubsection}{\numberline {7.2.5}Flattening}{200}{subsubsection.7.2.5}
+\contentsline {subsubsection}{\numberline {7.2.6}Track selection}{202}{subsubsection.7.2.6}
+\contentsline {subsubsection}{\numberline {7.2.7}Tracking efficiency}{203}{subsubsection.7.2.7}
+\contentsline {subsubsection}{\numberline {7.2.8}Summary}{205}{subsubsection.7.2.8}
